@@ -1,0 +1,20 @@
+{
+  "country_code":"SC",
+  "country_name":"Seychelles",
+  "currency_code":"SCR",
+  "fips_code":"SE",
+  "iso_numeric":"690",
+  "north":"-4.283717",
+  "south":"-9.753867",
+  "east":"56.29770287937299",
+  "west":"46.204769",
+  "capital":"Victoria",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SYC",
+  "geoname_id":"241170",
+  "languages":[
+    "en-SC",
+    "fr-SC"
+  ]
+}

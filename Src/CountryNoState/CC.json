@@ -1,0 +1,20 @@
+{
+  "country_code":"CC",
+  "country_name":"Cocos [Keeling] Islands",
+  "currency_code":"AUD",
+  "fips_code":"CK",
+  "iso_numeric":"166",
+  "north":"-12.072459094",
+  "south":"-12.208725839",
+  "east":"96.929489344",
+  "west":"96.816941408",
+  "capital":"West Island",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"CCK",
+  "geoname_id":"1547376",
+  "languages":[
+    "ms-CC",
+    "en"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "country_code":"BD",
+  "country_name":"Bangladesh",
+  "currency_code":"BDT",
+  "fips_code":"BG",
+  "iso_numeric":"050",
+  "north":"26.631945",
+  "south":"20.743334",
+  "east":"92.673668",
+  "west":"88.028336",
+  "capital":"Dhaka",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"BGD",
+  "geoname_id":"1210997",
+  "languages":[
+    "bn-BD",
+    "en"
+  ]
+}

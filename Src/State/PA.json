@@ -1,0 +1,54 @@
+{
+  "1":{
+    "division_name":"Bocas del Toro",
+    "division_type":"Province"
+  },
+  "10":{
+    "division_name":"Panam\u00e1 Oeste",
+    "division_type":"Province"
+  },
+  "2":{
+    "division_name":"Cocl\u00e9",
+    "division_type":"Province"
+  },
+  "3":{
+    "division_name":"Col\u00f3n",
+    "division_type":"Province"
+  },
+  "4":{
+    "division_name":"Chiriqu\u00ed",
+    "division_type":"Province"
+  },
+  "5":{
+    "division_name":"Dari\u00e9n",
+    "division_type":"Province"
+  },
+  "6":{
+    "division_name":"Herrera",
+    "division_type":"Province"
+  },
+  "7":{
+    "division_name":"Los Santos",
+    "division_type":"Province"
+  },
+  "8":{
+    "division_name":"Panam\u00e1",
+    "division_type":"Province"
+  },
+  "9":{
+    "division_name":"Veraguas",
+    "division_type":"Province"
+  },
+  "EM":{
+    "division_name":"Ember\u00e1",
+    "division_type":"indigenous region"
+  },
+  "KY":{
+    "division_name":"Kuna Yala",
+    "division_type":"indigenous region"
+  },
+  "NB":{
+    "division_name":"Ng\u00f6be-Bugl\u00e9",
+    "division_type":"indigenous region"
+  }
+}

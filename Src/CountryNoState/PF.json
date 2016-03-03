@@ -1,0 +1,20 @@
+{
+  "country_code":"PF",
+  "country_name":"French Polynesia",
+  "currency_code":"XPF",
+  "fips_code":"FP",
+  "iso_numeric":"258",
+  "north":"-7.903573",
+  "south":"-27.653572",
+  "east":"-134.929825",
+  "west":"-152.877167",
+  "capital":"Papeete",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"PYF",
+  "geoname_id":"4030656",
+  "languages":[
+    "fr-PF",
+    "ty"
+  ]
+}

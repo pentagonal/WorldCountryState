@@ -1,0 +1,20 @@
+{
+  "country_code":"GW",
+  "country_name":"Guinea-Bissau",
+  "currency_code":"XOF",
+  "fips_code":"PU",
+  "iso_numeric":"624",
+  "north":"12.680789",
+  "south":"10.924265",
+  "east":"-13.636522",
+  "west":"-16.717535",
+  "capital":"Bissau",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"GNB",
+  "geoname_id":"2372248",
+  "languages":[
+    "pt-GW",
+    "pov"
+  ]
+}

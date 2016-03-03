@@ -1,0 +1,18 @@
+{
+  "KU":{
+    "division_name":"Kommune Kujalleq",
+    "division_type":"Municipality"
+  },
+  "QA":{
+    "division_name":"Qaasuitsup Kommunia",
+    "division_type":"Municipality"
+  },
+  "QE":{
+    "division_name":"Qeqqata Kommunia",
+    "division_type":"Municipality"
+  },
+  "SM":{
+    "division_name":"Kommuneqarfik Sermersooq",
+    "division_type":"Municipality"
+  }
+}

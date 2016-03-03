@@ -1,0 +1,19 @@
+{
+  "country_code":"NF",
+  "country_name":"Norfolk Island",
+  "currency_code":"AUD",
+  "fips_code":"NF",
+  "iso_numeric":"574",
+  "north":"-28.995170686948427",
+  "south":"-29.063076742954735",
+  "east":"167.99773740209957",
+  "west":"167.91543230151365",
+  "capital":"Kingston",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"NFK",
+  "geoname_id":"2155115",
+  "languages":[
+    "en-NF"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "country_code":"IT",
+  "country_name":"Italy",
+  "currency_code":"EUR",
+  "fips_code":"IT",
+  "iso_numeric":"380",
+  "north":"47.095196",
+  "south":"36.652779",
+  "east":"18.513445",
+  "west":"6.614889",
+  "capital":"Rome",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"ITA",
+  "geoname_id":"3175395",
+  "languages":[
+    "it-IT",
+    "de-IT",
+    "fr-IT",
+    "sc",
+    "ca",
+    "co",
+    "sl"
+  ]
+}

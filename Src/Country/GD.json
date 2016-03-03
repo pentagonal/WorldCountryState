@@ -1,0 +1,49 @@
+{
+  "country_code":"GD",
+  "country_name":"Grenada",
+  "currency_code":"XCD",
+  "fips_code":"GJ",
+  "iso_numeric":"308",
+  "north":"12.318283928171299",
+  "south":"11.986893",
+  "east":"-61.57676970108031",
+  "west":"-61.802344",
+  "capital":"St. George's",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"GRD",
+  "geoname_id":"3580239",
+  "languages":[
+    "en-GD"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Saint Andrew",
+      "division_type":"Parish"
+    },
+    "02":{
+      "division_name":"Saint David",
+      "division_type":"Parish"
+    },
+    "03":{
+      "division_name":"Saint George",
+      "division_type":"Parish"
+    },
+    "04":{
+      "division_name":"Saint John",
+      "division_type":"Parish"
+    },
+    "05":{
+      "division_name":"Saint Mark",
+      "division_type":"Parish"
+    },
+    "06":{
+      "division_name":"Saint Patrick",
+      "division_type":"Parish"
+    },
+    "10":{
+      "division_name":"Southern Grenadine Islands",
+      "division_type":"Dependency"
+    }
+  }
+}

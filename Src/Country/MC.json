@@ -1,0 +1,91 @@
+{
+  "country_code":"MC",
+  "country_name":"Monaco",
+  "currency_code":"EUR",
+  "fips_code":"MN",
+  "iso_numeric":"492",
+  "north":"43.75196717037228",
+  "south":"43.72472839869377",
+  "east":"7.439939260482788",
+  "west":"7.408962249755859",
+  "capital":"Monaco",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"MCO",
+  "geoname_id":"2993457",
+  "languages":[
+    "fr-MC",
+    "en",
+    "it"
+  ],
+  "subdivision":{
+    "CL":{
+      "division_name":"La Colle",
+      "division_type":"Quarter"
+    },
+    "CO":{
+      "division_name":"La Condamine",
+      "division_type":"Quarter"
+    },
+    "FO":{
+      "division_name":"Fontvieille",
+      "division_type":"Quarter"
+    },
+    "GA":{
+      "division_name":"La Gare",
+      "division_type":"Quarter"
+    },
+    "JE":{
+      "division_name":"Jardin Exotique",
+      "division_type":"Quarter"
+    },
+    "LA":{
+      "division_name":"Larvotto",
+      "division_type":"Quarter"
+    },
+    "MA":{
+      "division_name":"Malbousquet",
+      "division_type":"Quarter"
+    },
+    "MC":{
+      "division_name":"Monte-Carlo",
+      "division_type":"Quarter"
+    },
+    "MG":{
+      "division_name":"Moneghetti",
+      "division_type":"Quarter"
+    },
+    "MO":{
+      "division_name":"Monaco-Ville",
+      "division_type":"Quarter"
+    },
+    "MU":{
+      "division_name":"Moulins",
+      "division_type":"Quarter"
+    },
+    "PH":{
+      "division_name":"Port-Hercule",
+      "division_type":"Quarter"
+    },
+    "SD":{
+      "division_name":"Sainte-D\u00e9vote",
+      "division_type":"Quarter"
+    },
+    "SO":{
+      "division_name":"La Source",
+      "division_type":"Quarter"
+    },
+    "SP":{
+      "division_name":"Sp\u00e9lugues",
+      "division_type":"Quarter"
+    },
+    "SR":{
+      "division_name":"Saint-Roman",
+      "division_type":"Quarter"
+    },
+    "VR":{
+      "division_name":"Vallon de la Rousse",
+      "division_type":"Quarter"
+    }
+  }
+}

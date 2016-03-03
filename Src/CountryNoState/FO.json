@@ -1,0 +1,20 @@
+{
+  "country_code":"FO",
+  "country_name":"Faroe Islands",
+  "currency_code":"DKK",
+  "fips_code":"FO",
+  "iso_numeric":"234",
+  "north":"62.400749",
+  "south":"61.394943",
+  "east":"-6.399583",
+  "west":"-7.458",
+  "capital":"T\u00f3rshavn",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"FRO",
+  "geoname_id":"2622320",
+  "languages":[
+    "fo",
+    "da-FO"
+  ]
+}

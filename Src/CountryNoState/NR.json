@@ -1,0 +1,20 @@
+{
+  "country_code":"NR",
+  "country_name":"Nauru",
+  "currency_code":"AUD",
+  "fips_code":"NR",
+  "iso_numeric":"520",
+  "north":"-0.504306",
+  "south":"-0.552333",
+  "east":"166.945282",
+  "west":"166.899033",
+  "capital":"",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"NRU",
+  "geoname_id":"2110425",
+  "languages":[
+    "na",
+    "en-NR"
+  ]
+}

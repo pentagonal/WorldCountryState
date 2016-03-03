@@ -1,0 +1,20 @@
+{
+  "country_code":"VC",
+  "country_name":"Saint Vincent and the Grenadines",
+  "currency_code":"XCD",
+  "fips_code":"VC",
+  "iso_numeric":"670",
+  "north":"13.377834",
+  "south":"12.583984810969037",
+  "east":"-61.11388",
+  "west":"-61.46090317727658",
+  "capital":"Kingstown",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"VCT",
+  "geoname_id":"3577815",
+  "languages":[
+    "en-VC",
+    "fr"
+  ]
+}

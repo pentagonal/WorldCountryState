@@ -1,0 +1,19 @@
+{
+  "country_code":"GP",
+  "country_name":"Guadeloupe",
+  "currency_code":"EUR",
+  "fips_code":"GP",
+  "iso_numeric":"312",
+  "north":"16.516848",
+  "south":"15.867565",
+  "east":"-61",
+  "west":"-61.544765",
+  "capital":"Basse-Terre",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"GLP",
+  "geoname_id":"3579143",
+  "languages":[
+    "fr-GP"
+  ]
+}

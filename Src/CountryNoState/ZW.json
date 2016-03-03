@@ -1,0 +1,22 @@
+{
+  "country_code":"ZW",
+  "country_name":"Zimbabwe",
+  "currency_code":"ZWL",
+  "fips_code":"ZI",
+  "iso_numeric":"716",
+  "north":"-15.608835",
+  "south":"-22.417738",
+  "east":"33.056305",
+  "west":"25.237028",
+  "capital":"Harare",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ZWE",
+  "geoname_id":"878675",
+  "languages":[
+    "en-ZW",
+    "sn",
+    "nr",
+    "nd"
+  ]
+}

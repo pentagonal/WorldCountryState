@@ -1,0 +1,45 @@
+{
+  "country_code":"SG",
+  "country_name":"Singapore",
+  "currency_code":"SGD",
+  "fips_code":"SN",
+  "iso_numeric":"702",
+  "north":"1.471278",
+  "south":"1.258556",
+  "east":"104.007469",
+  "west":"103.638275",
+  "capital":"Singapore",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"SGP",
+  "geoname_id":"1880251",
+  "languages":[
+    "cmn",
+    "en-SG",
+    "ms-SG",
+    "ta-SG",
+    "zh-SG"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Central Singapore",
+      "division_type":"District"
+    },
+    "02":{
+      "division_name":"North East",
+      "division_type":"District"
+    },
+    "03":{
+      "division_name":"North West",
+      "division_type":"District"
+    },
+    "04":{
+      "division_name":"South East",
+      "division_type":"District"
+    },
+    "05":{
+      "division_name":"South West",
+      "division_type":"District"
+    }
+  }
+}

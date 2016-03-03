@@ -1,0 +1,20 @@
+{
+  "country_code":"MN",
+  "country_name":"Mongolia",
+  "currency_code":"MNT",
+  "fips_code":"MG",
+  "iso_numeric":"496",
+  "north":"52.154251",
+  "south":"41.567638",
+  "east":"119.924309",
+  "west":"87.749664",
+  "capital":"Ulan Bator",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"MNG",
+  "geoname_id":"2029969",
+  "languages":[
+    "mn",
+    "ru"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "country_code":"GN",
+  "country_name":"Guinea",
+  "currency_code":"GNF",
+  "fips_code":"GV",
+  "iso_numeric":"324",
+  "north":"12.67622",
+  "south":"7.193553",
+  "east":"-7.641071",
+  "west":"-14.926619",
+  "capital":"Conakry",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"GIN",
+  "geoname_id":"2420477",
+  "languages":[
+    "fr-GN"
+  ]
+}

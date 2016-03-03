@@ -1,0 +1,21 @@
+{
+  "country_code":"IQ",
+  "country_name":"Iraq",
+  "currency_code":"IQD",
+  "fips_code":"IZ",
+  "iso_numeric":"368",
+  "north":"37.378029",
+  "south":"29.069445",
+  "east":"48.575916",
+  "west":"38.795887",
+  "capital":"Baghdad",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"IRQ",
+  "geoname_id":"99237",
+  "languages":[
+    "ar-IQ",
+    "ku",
+    "hy"
+  ]
+}

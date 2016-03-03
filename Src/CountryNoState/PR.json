@@ -1,0 +1,20 @@
+{
+  "country_code":"PR",
+  "country_name":"Puerto Rico",
+  "currency_code":"USD",
+  "fips_code":"RQ",
+  "iso_numeric":"630",
+  "north":"18.520166",
+  "south":"17.926405",
+  "east":"-65.242737",
+  "west":"-67.942726",
+  "capital":"San Juan",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"PRI",
+  "geoname_id":"4566966",
+  "languages":[
+    "en-PR",
+    "es-PR"
+  ]
+}

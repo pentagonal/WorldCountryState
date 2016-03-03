@@ -1,0 +1,19 @@
+{
+  "country_code":"GS",
+  "country_name":"South Georgia and the South Sandwich Islands",
+  "currency_code":"GBP",
+  "fips_code":"SX",
+  "iso_numeric":"239",
+  "north":"-53.970467",
+  "south":"-59.479259",
+  "east":"-26.229326",
+  "west":"-38.021175",
+  "capital":"Grytviken",
+  "continent_name":"Antarctica",
+  "continent":"AN",
+  "iso_alpha":"SGS",
+  "geoname_id":"3474415",
+  "languages":[
+    "en"
+  ]
+}

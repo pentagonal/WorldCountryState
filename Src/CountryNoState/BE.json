@@ -1,0 +1,21 @@
+{
+  "country_code":"BE",
+  "country_name":"Belgium",
+  "currency_code":"EUR",
+  "fips_code":"BE",
+  "iso_numeric":"056",
+  "north":"51.505444",
+  "south":"49.49361",
+  "east":"6.403861",
+  "west":"2.546944",
+  "capital":"Brussels",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"BEL",
+  "geoname_id":"2802361",
+  "languages":[
+    "nl-BE",
+    "fr-BE",
+    "de-BE"
+  ]
+}

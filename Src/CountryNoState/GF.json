@@ -1,0 +1,19 @@
+{
+  "country_code":"GF",
+  "country_name":"French Guiana",
+  "currency_code":"EUR",
+  "fips_code":"FG",
+  "iso_numeric":"254",
+  "north":"5.776496",
+  "south":"2.127094",
+  "east":"-51.613949",
+  "west":"-54.542511",
+  "capital":"Cayenne",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"GUF",
+  "geoname_id":"3381670",
+  "languages":[
+    "fr-GF"
+  ]
+}

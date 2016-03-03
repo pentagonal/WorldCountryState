@@ -1,0 +1,22 @@
+{
+  "country_code":"RS",
+  "country_name":"Serbia",
+  "currency_code":"RSD",
+  "fips_code":"RI",
+  "iso_numeric":"688",
+  "north":"46.18138885498047",
+  "south":"42.232215881347656",
+  "east":"23.00499725341797",
+  "west":"18.817020416259766",
+  "capital":"Belgrade",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"SRB",
+  "geoname_id":"6290252",
+  "languages":[
+    "sr",
+    "hu",
+    "bs",
+    "rom"
+  ]
+}

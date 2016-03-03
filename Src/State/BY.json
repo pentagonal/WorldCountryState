@@ -1,0 +1,30 @@
+{
+  "BR":{
+    "division_name":"Bresckaja voblasc",
+    "division_type":"Oblast"
+  },
+  "HM":{
+    "division_name":"Horad Minsk",
+    "division_type":"City"
+  },
+  "HO":{
+    "division_name":"Homyel'skaya voblasts'",
+    "division_type":"Oblast"
+  },
+  "HR":{
+    "division_name":"Hrodzenskaya voblasts'",
+    "division_type":"Oblast"
+  },
+  "MA":{
+    "division_name":"Mahilyowskaya voblasts'",
+    "division_type":"Oblast"
+  },
+  "MI":{
+    "division_name":"Minskaya voblasts'",
+    "division_type":"Oblast"
+  },
+  "VI":{
+    "division_name":"Vitsyebskaya voblasts'",
+    "division_type":"Oblast"
+  }
+}

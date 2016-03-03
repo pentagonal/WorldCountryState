@@ -1,0 +1,22 @@
+{
+  "country_code":"GI",
+  "country_name":"Gibraltar",
+  "currency_code":"GIP",
+  "fips_code":"GI",
+  "iso_numeric":"292",
+  "north":"36.155439135670726",
+  "south":"36.10903070140248",
+  "east":"-5.338285164001491",
+  "west":"-5.36626149743654",
+  "capital":"Gibraltar",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"GIB",
+  "geoname_id":"2411586",
+  "languages":[
+    "en-GI",
+    "es",
+    "it",
+    "pt"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "country_code":"CA",
+  "country_name":"Canada",
+  "currency_code":"CAD",
+  "fips_code":"CA",
+  "iso_numeric":"124",
+  "north":"83.110626",
+  "south":"41.67598",
+  "east":"-52.636291",
+  "west":"-141",
+  "capital":"Ottawa",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"CAN",
+  "geoname_id":"6251999",
+  "languages":[
+    "en-CA",
+    "fr-CA",
+    "iu"
+  ]
+}

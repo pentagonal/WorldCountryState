@@ -1,0 +1,49 @@
+{
+  "country_code":"GM",
+  "country_name":"Gambia",
+  "currency_code":"GMD",
+  "fips_code":"GA",
+  "iso_numeric":"270",
+  "north":"13.826571",
+  "south":"13.064252",
+  "east":"-13.797793",
+  "west":"-16.825079",
+  "capital":"Banjul",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"GMB",
+  "geoname_id":"2413451",
+  "languages":[
+    "en-GM",
+    "mnk",
+    "wof",
+    "wo",
+    "ff"
+  ],
+  "subdivision":{
+    "B":{
+      "division_name":"Banjul",
+      "division_type":"City"
+    },
+    "L":{
+      "division_name":"Lower River",
+      "division_type":"Division"
+    },
+    "M":{
+      "division_name":"Central River",
+      "division_type":"Division"
+    },
+    "N":{
+      "division_name":"North Bank",
+      "division_type":"Division"
+    },
+    "U":{
+      "division_name":"Upper River",
+      "division_type":"Division"
+    },
+    "W":{
+      "division_name":"Western",
+      "division_type":"Division"
+    }
+  }
+}

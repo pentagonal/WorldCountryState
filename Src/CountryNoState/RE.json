@@ -1,0 +1,19 @@
+{
+  "country_code":"RE",
+  "country_name":"R\u00e9union",
+  "currency_code":"EUR",
+  "fips_code":"RE",
+  "iso_numeric":"638",
+  "north":"-20.868391324576944",
+  "south":"-21.383747301469107",
+  "east":"55.838193901930026",
+  "west":"55.21219224792685",
+  "capital":"Saint-Denis",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"REU",
+  "geoname_id":"935317",
+  "languages":[
+    "fr-RE"
+  ]
+}

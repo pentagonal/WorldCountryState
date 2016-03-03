@@ -1,0 +1,21 @@
+{
+  "country_code":"TZ",
+  "country_name":"Tanzania",
+  "currency_code":"TZS",
+  "fips_code":"TZ",
+  "iso_numeric":"834",
+  "north":"-0.990736",
+  "south":"-11.745696",
+  "east":"40.443222",
+  "west":"29.327168",
+  "capital":"Dodoma",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"TZA",
+  "geoname_id":"149590",
+  "languages":[
+    "sw-TZ",
+    "en",
+    "ar"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "AN":{
+    "division_name":"AI Anbar",
+    "division_type":"Governorate"
+  },
+  "AR":{
+    "division_name":"Arbil",
+    "division_type":"Governorate"
+  },
+  "BA":{
+    "division_name":"Al Basrah",
+    "division_type":"Governorate"
+  },
+  "BB":{
+    "division_name":"Babil",
+    "division_type":"Governorate"
+  },
+  "BG":{
+    "division_name":"Baghdad",
+    "division_type":"Governorate"
+  },
+  "DA":{
+    "division_name":"Dahuk",
+    "division_type":"Governorate"
+  },
+  "DI":{
+    "division_name":"Diyal\u00e1",
+    "division_type":"Governorate"
+  },
+  "DQ":{
+    "division_name":"Dhi Qar",
+    "division_type":"Governorate"
+  },
+  "KA":{
+    "division_name":"Karbala'",
+    "division_type":"Governorate"
+  },
+  "KI":{
+    "division_name":"Kirkuk",
+    "division_type":"Governorate"
+  },
+  "MA":{
+    "division_name":"Maysan",
+    "division_type":"Governorate"
+  },
+  "MU":{
+    "division_name":"AI Muthann\u00e1",
+    "division_type":"Governorate"
+  },
+  "NA":{
+    "division_name":"An Najaf",
+    "division_type":"Governorate"
+  },
+  "NI":{
+    "division_name":"Ninaw\u00e1",
+    "division_type":"Governorate"
+  },
+  "QA":{
+    "division_name":"Al Qadisiyah",
+    "division_type":"Governorate"
+  },
+  "SD":{
+    "division_name":"Salah ad Din",
+    "division_type":"Governorate"
+  },
+  "SU":{
+    "division_name":"As Sulaymaniyah",
+    "division_type":"Governorate"
+  },
+  "WA":{
+    "division_name":"Wasit",
+    "division_type":"Governorate"
+  }
+}

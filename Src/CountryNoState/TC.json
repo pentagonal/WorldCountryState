@@ -1,0 +1,19 @@
+{
+  "country_code":"TC",
+  "country_name":"Turks and Caicos Islands",
+  "currency_code":"USD",
+  "fips_code":"TK",
+  "iso_numeric":"796",
+  "north":"21.961878",
+  "south":"21.422626",
+  "east":"-71.123642",
+  "west":"-72.483871",
+  "capital":"Cockburn Town",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"TCA",
+  "geoname_id":"3576916",
+  "languages":[
+    "en-TC"
+  ]
+}

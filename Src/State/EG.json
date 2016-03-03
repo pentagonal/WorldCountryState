@@ -1,0 +1,110 @@
+{
+  "ALX":{
+    "division_name":"AI Iskandariyah",
+    "division_type":"Governorate"
+  },
+  "ASN":{
+    "division_name":"Aswan",
+    "division_type":"Governorate"
+  },
+  "AST":{
+    "division_name":"Asyut",
+    "division_type":"Governorate"
+  },
+  "BA":{
+    "division_name":"Al Ba\u1e29r al A\u1e29mar",
+    "division_type":"Governorate"
+  },
+  "BH":{
+    "division_name":"Al Bu\u1e29ayrah",
+    "division_type":"Governorate"
+  },
+  "BNS":{
+    "division_name":"Bani Suwayf",
+    "division_type":"Governorate"
+  },
+  "C":{
+    "division_name":"AI Qahirah",
+    "division_type":"Governorate"
+  },
+  "DK":{
+    "division_name":"Ad Daqahliyah",
+    "division_type":"Governorate"
+  },
+  "DT":{
+    "division_name":"Dumyat",
+    "division_type":"Governorate"
+  },
+  "FYM":{
+    "division_name":"AI Fayyum",
+    "division_type":"Governorate"
+  },
+  "GH":{
+    "division_name":"AI Gharbiyah",
+    "division_type":"Governorate"
+  },
+  "GZ":{
+    "division_name":"AI Jizah",
+    "division_type":"Governorate"
+  },
+  "IS":{
+    "division_name":"AI Isma 'iliyah",
+    "division_type":"Governorate"
+  },
+  "JS":{
+    "division_name":"Janub Sina'",
+    "division_type":"Governorate"
+  },
+  "KB":{
+    "division_name":"AI Qalyubiyah",
+    "division_type":"Governorate"
+  },
+  "KFS":{
+    "division_name":"Kafr ash Shaykh",
+    "division_type":"Governorate"
+  },
+  "KN":{
+    "division_name":"Qina",
+    "division_type":"Governorate"
+  },
+  "LX":{
+    "division_name":"Al Uqsur",
+    "division_type":"Governorate"
+  },
+  "MN":{
+    "division_name":"AI Minya",
+    "division_type":"Governorate"
+  },
+  "MNF":{
+    "division_name":"AI Minufiyah",
+    "division_type":"Governorate"
+  },
+  "MT":{
+    "division_name":"Matruh",
+    "division_type":"Governorate"
+  },
+  "PTS":{
+    "division_name":"Bur Sa'id",
+    "division_type":"Governorate"
+  },
+  "SHG":{
+    "division_name":"Suhaj",
+    "division_type":"Governorate"
+  },
+  "SHR":{
+    "division_name":"Ash Sharqiyah",
+    "division_type":"Governorate"
+  },
+  "SIN":{
+    "division_name":"Shamal Sina'",
+    "division_type":"Governorate"
+  },
+  "SUZ":{
+    "division_name":"As Suways",
+    "division_type":"Governorate"
+  },
+  "WAD":{
+    "division_name":"AI Wadi al Jadid",
+    "division_type":"Governorate"
+  }
+}

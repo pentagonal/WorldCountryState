@@ -1,0 +1,24 @@
+{
+  "country_code":"SY",
+  "country_name":"Syria",
+  "currency_code":"SYP",
+  "fips_code":"SY",
+  "iso_numeric":"760",
+  "north":"37.319138",
+  "south":"32.310665",
+  "east":"42.385029",
+  "west":"35.727222",
+  "capital":"Damascus",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"SYR",
+  "geoname_id":"163843",
+  "languages":[
+    "ar-SY",
+    "ku",
+    "hy",
+    "arc",
+    "fr",
+    "en"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "country_code":"BI",
+  "country_name":"Burundi",
+  "currency_code":"BIF",
+  "fips_code":"BY",
+  "iso_numeric":"108",
+  "north":"-2.310123",
+  "south":"-4.465713",
+  "east":"30.847729",
+  "west":"28.993061",
+  "capital":"Bujumbura",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"BDI",
+  "geoname_id":"433561",
+  "languages":[
+    "fr-BI",
+    "rn"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "81":{
+    "division_name":"Nordjylland",
+    "division_type":"Region"
+  },
+  "82":{
+    "division_name":"Midtjylland",
+    "division_type":"Region"
+  },
+  "83":{
+    "division_name":"Syddanmark",
+    "division_type":"Region"
+  },
+  "84":{
+    "division_name":"Hovedstaden",
+    "division_type":"Region"
+  },
+  "85":{
+    "division_name":"Sj\u00e6lland",
+    "division_type":"Region"
+  }
+}

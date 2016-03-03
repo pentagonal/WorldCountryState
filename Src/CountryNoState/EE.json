@@ -1,0 +1,20 @@
+{
+  "country_code":"EE",
+  "country_name":"Estonia",
+  "currency_code":"EUR",
+  "fips_code":"EN",
+  "iso_numeric":"233",
+  "north":"59.676224",
+  "south":"57.516193",
+  "east":"28.209972",
+  "west":"21.837584",
+  "capital":"Tallinn",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"EST",
+  "geoname_id":"453733",
+  "languages":[
+    "et",
+    "ru"
+  ]
+}

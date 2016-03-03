@@ -1,0 +1,54 @@
+{
+  "BRU":{
+    "division_name":"Bruxelles-Capitale,\"R\u00e9gion de",
+    "division_type":"Region"
+  },
+  "VAN":{
+    "division_name":"Antwerpen",
+    "division_type":"Province"
+  },
+  "VBR":{
+    "division_name":"Vlaams Brabant",
+    "division_type":"Province"
+  },
+  "VLG":{
+    "division_name":"Vlaamse Gewest",
+    "division_type":"Region"
+  },
+  "VLI":{
+    "division_name":"Limburg",
+    "division_type":"Province"
+  },
+  "VOV":{
+    "division_name":"Oost-Vlaanderen",
+    "division_type":"Province"
+  },
+  "VWV":{
+    "division_name":"West-Vlaanderen",
+    "division_type":"Province"
+  },
+  "WAL":{
+    "division_name":"Wallonne,\"R\u00e9gion",
+    "division_type":"Region"
+  },
+  "WBR":{
+    "division_name":"Brabant wallon",
+    "division_type":"Province"
+  },
+  "WHT":{
+    "division_name":"Hainaut",
+    "division_type":"Province"
+  },
+  "WLG":{
+    "division_name":"Li\u00e8ge",
+    "division_type":"Province"
+  },
+  "WLX":{
+    "division_name":"Luxembourg",
+    "division_type":"Province"
+  },
+  "WNA":{
+    "division_name":"Namur",
+    "division_type":"Province"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "country_code":"NC",
+  "country_name":"New Caledonia",
+  "currency_code":"XPF",
+  "fips_code":"NC",
+  "iso_numeric":"540",
+  "north":"-19.549778",
+  "south":"-22.698",
+  "east":"168.129135",
+  "west":"163.564667",
+  "capital":"Noumea",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"NCL",
+  "geoname_id":"2139685",
+  "languages":[
+    "fr-NC"
+  ]
+}

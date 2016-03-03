@@ -1,0 +1,35 @@
+{
+  "country_code":"LU",
+  "country_name":"Luxembourg",
+  "currency_code":"EUR",
+  "fips_code":"LU",
+  "iso_numeric":"442",
+  "north":"50.184944",
+  "south":"49.446583",
+  "east":"6.528472",
+  "west":"5.734556",
+  "capital":"Luxembourg",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"LUX",
+  "geoname_id":"2960313",
+  "languages":[
+    "lb",
+    "de-LU",
+    "fr-LU"
+  ],
+  "subdivision":{
+    "D":{
+      "division_name":"Diekirch",
+      "division_type":"District"
+    },
+    "G":{
+      "division_name":"Grevenmacher",
+      "division_type":"District"
+    },
+    "L":{
+      "division_name":"Luxembourg",
+      "division_type":"District"
+    }
+  }
+}

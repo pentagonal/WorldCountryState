@@ -1,0 +1,42 @@
+{
+  "BA":{
+    "division_name":"Barima-Waini",
+    "division_type":"Region"
+  },
+  "CU":{
+    "division_name":"Cuyuni-Mazaruni",
+    "division_type":"Region"
+  },
+  "DE":{
+    "division_name":"Demerara-Mahaica",
+    "division_type":"Region"
+  },
+  "EB":{
+    "division_name":"East Berbice-Corentyne",
+    "division_type":"Region"
+  },
+  "ES":{
+    "division_name":"Essequibo Islands-West Demerara",
+    "division_type":"Region"
+  },
+  "MA":{
+    "division_name":"Mahaica-Berbice",
+    "division_type":"Region"
+  },
+  "PM":{
+    "division_name":"Pomeroon-Supenaam",
+    "division_type":"Region"
+  },
+  "PT":{
+    "division_name":"Potaro-Siparuni",
+    "division_type":"Region"
+  },
+  "UD":{
+    "division_name":"Upper Demerara-Berbice",
+    "division_type":"Region"
+  },
+  "UT":{
+    "division_name":"Upper Takutu-Upper Essequibo",
+    "division_type":"Region"
+  }
+}

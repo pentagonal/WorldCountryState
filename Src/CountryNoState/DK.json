@@ -1,0 +1,22 @@
+{
+  "country_code":"DK",
+  "country_name":"Denmark",
+  "currency_code":"DKK",
+  "fips_code":"DA",
+  "iso_numeric":"208",
+  "north":"57.748417",
+  "south":"54.562389",
+  "east":"15.158834",
+  "west":"8.075611",
+  "capital":"Copenhagen",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"DNK",
+  "geoname_id":"2623032",
+  "languages":[
+    "da-DK",
+    "en",
+    "fo",
+    "de-DK"
+  ]
+}

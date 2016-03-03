@@ -1,0 +1,19 @@
+{
+  "country_code":"LR",
+  "country_name":"Liberia",
+  "currency_code":"LRD",
+  "fips_code":"LI",
+  "iso_numeric":"430",
+  "north":"8.551791",
+  "south":"4.353057",
+  "east":"-7.365113",
+  "west":"-11.492083",
+  "capital":"Monrovia",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"LBR",
+  "geoname_id":"2275384",
+  "languages":[
+    "en-LR"
+  ]
+}

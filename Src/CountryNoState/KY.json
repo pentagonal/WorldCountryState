@@ -1,0 +1,19 @@
+{
+  "country_code":"KY",
+  "country_name":"Cayman Islands",
+  "currency_code":"KYD",
+  "fips_code":"CJ",
+  "iso_numeric":"136",
+  "north":"19.7617",
+  "south":"19.263029",
+  "east":"-79.727272",
+  "west":"-81.432777",
+  "capital":"George Town",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"CYM",
+  "geoname_id":"3580718",
+  "languages":[
+    "en-KY"
+  ]
+}

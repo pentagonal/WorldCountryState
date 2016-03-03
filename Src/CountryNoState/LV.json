@@ -1,0 +1,21 @@
+{
+  "country_code":"LV",
+  "country_name":"Latvia",
+  "currency_code":"EUR",
+  "fips_code":"LG",
+  "iso_numeric":"428",
+  "north":"58.082306",
+  "south":"55.668861",
+  "east":"28.241167",
+  "west":"20.974277",
+  "capital":"Riga",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"LVA",
+  "geoname_id":"458258",
+  "languages":[
+    "lv",
+    "ru",
+    "lt"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "country_code":"AS",
+  "country_name":"American Samoa",
+  "currency_code":"USD",
+  "fips_code":"AQ",
+  "iso_numeric":"016",
+  "north":"-11.0497",
+  "south":"-14.382478",
+  "east":"-169.416077",
+  "west":"-171.091888",
+  "capital":"Pago Pago",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"ASM",
+  "geoname_id":"5880801",
+  "languages":[
+    "en-AS",
+    "sm",
+    "to"
+  ]
+}

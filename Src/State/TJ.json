@@ -1,0 +1,18 @@
+{
+  "DU":{
+    "division_name":"Dushanbe",
+    "division_type":"Capital territory"
+  },
+  "GB":{
+    "division_name":"Kuhistoni Badakhshon",
+    "division_type":"Autonomous region"
+  },
+  "KT":{
+    "division_name":"Khatlon",
+    "division_type":"Region"
+  },
+  "SU":{
+    "division_name":"Sughd",
+    "division_type":"Region"
+  }
+}

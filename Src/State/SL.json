@@ -1,0 +1,18 @@
+{
+  "E":{
+    "division_name":"Eastern",
+    "division_type":"Province"
+  },
+  "N":{
+    "division_name":"Northern",
+    "division_type":"Province"
+  },
+  "S":{
+    "division_name":"Southern",
+    "division_type":"Province"
+  },
+  "W":{
+    "division_name":"Western Area (Freetown)",
+    "division_type":"Area"
+  }
+}

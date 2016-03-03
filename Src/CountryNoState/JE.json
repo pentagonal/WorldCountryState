@@ -1,0 +1,20 @@
+{
+  "country_code":"JE",
+  "country_name":"Jersey",
+  "currency_code":"GBP",
+  "fips_code":"JE",
+  "iso_numeric":"832",
+  "north":"49.265057",
+  "south":"49.169834",
+  "east":"-2.022083",
+  "west":"-2.260028",
+  "capital":"Saint Helier",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"JEY",
+  "geoname_id":"3042142",
+  "languages":[
+    "en",
+    "pt"
+  ]
+}

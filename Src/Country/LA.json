@@ -1,0 +1,95 @@
+{
+  "country_code":"LA",
+  "country_name":"Laos",
+  "currency_code":"LAK",
+  "fips_code":"LA",
+  "iso_numeric":"418",
+  "north":"22.500389",
+  "south":"13.910027",
+  "east":"107.697029",
+  "west":"100.093056",
+  "capital":"Vientiane",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"LAO",
+  "geoname_id":"1655842",
+  "languages":[
+    "lo",
+    "fr",
+    "en"
+  ],
+  "subdivision":{
+    "AT":{
+      "division_name":"Attapu [Attopeu]",
+      "division_type":"Province"
+    },
+    "BK":{
+      "division_name":"Bok\u00e8o",
+      "division_type":"Province"
+    },
+    "BL":{
+      "division_name":"Bolikhamxai [Borikhane]",
+      "division_type":"Province"
+    },
+    "CH":{
+      "division_name":"Champasak [Champassak]",
+      "division_type":"Province"
+    },
+    "HO":{
+      "division_name":"Houaphan",
+      "division_type":"Province"
+    },
+    "KH":{
+      "division_name":"Khammouan",
+      "division_type":"Province"
+    },
+    "LM":{
+      "division_name":"Louang Namtha",
+      "division_type":"Province"
+    },
+    "LP":{
+      "division_name":"Louangphabang [Louang Prabang)",
+      "division_type":"Province"
+    },
+    "OU":{
+      "division_name":"Oud\u00f4mxai [Oudomsai]",
+      "division_type":"Province"
+    },
+    "PH":{
+      "division_name":"Ph\u00f4ngsali [Phong Saly]",
+      "division_type":"Province"
+    },
+    "SL":{
+      "division_name":"Salavan [Saravane]",
+      "division_type":"Province"
+    },
+    "SV":{
+      "division_name":"Savannakh\u00e9t",
+      "division_type":"Province"
+    },
+    "VI":{
+      "division_name":"Vientiane",
+      "division_type":"Province"
+    },
+    "VT":{
+      "division_name":"Vientiane",
+      "division_type":"Prefecture"
+    },
+    "XA":{
+      "division_name":"Xaignabouli [Sayaboury]",
+      "division_type":"Province"
+    },
+    "XE":{
+      "division_name":"X\u00e9kong [S\u00e9kong]",
+      "division_type":"Province"
+    },
+    "XI":{
+      "division_name":"Xiangkhouang [Xieng Khouang]",
+      "division_type":"Province"
+    },
+    "XN":{
+      "division_name":"Xais\u00f4mboun",
+      "division_type":"Special zone"
+    }
+  }
+}

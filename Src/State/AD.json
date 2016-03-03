@@ -1,0 +1,30 @@
+{
+  "02":{
+    "division_name":"Canillo",
+    "division_type":"Parish"
+  },
+  "03":{
+    "division_name":"Encamp",
+    "division_type":"Parish"
+  },
+  "04":{
+    "division_name":"La Massana",
+    "division_type":"Parish"
+  },
+  "05":{
+    "division_name":"Ordino",
+    "division_type":"Parish"
+  },
+  "06":{
+    "division_name":"Sant Juli\u00e0 de L\u00f2ria",
+    "division_type":"Parish"
+  },
+  "07":{
+    "division_name":"Andorra la Vella",
+    "division_type":"Parish"
+  },
+  "08":{
+    "division_name":"Escaldes-Engordany",
+    "division_type":"Parish"
+  }
+}

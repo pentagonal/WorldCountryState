@@ -1,0 +1,20 @@
+{
+  "country_code":"KR",
+  "country_name":"South Korea",
+  "currency_code":"KRW",
+  "fips_code":"KS",
+  "iso_numeric":"410",
+  "north":"38.612446",
+  "south":"33.190945",
+  "east":"129.584671",
+  "west":"125.887108",
+  "capital":"Seoul",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"KOR",
+  "geoname_id":"1835841",
+  "languages":[
+    "ko-KR",
+    "en"
+  ]
+}

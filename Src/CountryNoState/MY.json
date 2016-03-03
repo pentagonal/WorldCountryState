@@ -1,0 +1,26 @@
+{
+  "country_code":"MY",
+  "country_name":"Malaysia",
+  "currency_code":"MYR",
+  "fips_code":"MY",
+  "iso_numeric":"458",
+  "north":"7.363417",
+  "south":"0.855222",
+  "east":"119.267502",
+  "west":"99.643448",
+  "capital":"Kuala Lumpur",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"MYS",
+  "geoname_id":"1733045",
+  "languages":[
+    "ms-MY",
+    "en",
+    "zh",
+    "ta",
+    "te",
+    "ml",
+    "pa",
+    "th"
+  ]
+}

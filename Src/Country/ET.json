@@ -1,0 +1,70 @@
+{
+  "country_code":"ET",
+  "country_name":"Ethiopia",
+  "currency_code":"ETB",
+  "fips_code":"ET",
+  "iso_numeric":"231",
+  "north":"14.89375",
+  "south":"3.402422",
+  "east":"47.986179",
+  "west":"32.999939",
+  "capital":"Addis Ababa",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ETH",
+  "geoname_id":"337996",
+  "languages":[
+    "am",
+    "en-ET",
+    "om-ET",
+    "ti-ET",
+    "so-ET",
+    "sid"
+  ],
+  "subdivision":{
+    "AA":{
+      "division_name":"Adis Abeba",
+      "division_type":"Administration"
+    },
+    "AF":{
+      "division_name":"Afar",
+      "division_type":"State"
+    },
+    "AM":{
+      "division_name":"Amara",
+      "division_type":"State"
+    },
+    "BE":{
+      "division_name":"Binshangul Gumuz",
+      "division_type":"State"
+    },
+    "DD":{
+      "division_name":"Dire Dawa",
+      "division_type":"Administration"
+    },
+    "GA":{
+      "division_name":"Gambela Hizboch",
+      "division_type":"State"
+    },
+    "HA":{
+      "division_name":"Hareri Hizb",
+      "division_type":"State"
+    },
+    "OR":{
+      "division_name":"Oromiya",
+      "division_type":"State"
+    },
+    "SN":{
+      "division_name":"YeDebub Biheroch Bihereseboch na Hizboch",
+      "division_type":"State"
+    },
+    "SO":{
+      "division_name":"Sumale",
+      "division_type":"State"
+    },
+    "TI":{
+      "division_name":"Tigray",
+      "division_type":"State"
+    }
+  }
+}

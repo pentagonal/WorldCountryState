@@ -1,0 +1,19 @@
+{
+  "country_code":"FK",
+  "country_name":"Falkland Islands",
+  "currency_code":"FKP",
+  "fips_code":"FK",
+  "iso_numeric":"238",
+  "north":"-51.24065",
+  "south":"-52.360512",
+  "east":"-57.712486",
+  "west":"-61.345192",
+  "capital":"Stanley",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"FLK",
+  "geoname_id":"3474414",
+  "languages":[
+    "en-FK"
+  ]
+}

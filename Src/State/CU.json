@@ -1,0 +1,70 @@
+{
+  "01":{
+    "division_name":"Pinar del R\u00edo",
+    "division_type":"Province"
+  },
+  "02":{
+    "division_name":"La Habana",
+    "division_type":"Province"
+  },
+  "03":{
+    "division_name":"Ciudad de La Habana",
+    "division_type":"Province"
+  },
+  "04":{
+    "division_name":"Matanzas",
+    "division_type":"Province"
+  },
+  "05":{
+    "division_name":"Villa Clara",
+    "division_type":"Province"
+  },
+  "06":{
+    "division_name":"Cienfuegos",
+    "division_type":"Province"
+  },
+  "07":{
+    "division_name":"Sancti Sp\u00edritus",
+    "division_type":"Province"
+  },
+  "08":{
+    "division_name":"Ciego de \u00c1vila",
+    "division_type":"Province"
+  },
+  "09":{
+    "division_name":"Camag\u00fcey",
+    "division_type":"Province"
+  },
+  "10":{
+    "division_name":"Las Tunas",
+    "division_type":"Province"
+  },
+  "11":{
+    "division_name":"Holgu\u00edn",
+    "division_type":"Province"
+  },
+  "12":{
+    "division_name":"Granma",
+    "division_type":"Province"
+  },
+  "13":{
+    "division_name":"Santiago de Cuba",
+    "division_type":"Province"
+  },
+  "14":{
+    "division_name":"Guant\u00e1namo",
+    "division_type":"Province"
+  },
+  "15":{
+    "division_name":"Artemisa",
+    "division_type":"Province"
+  },
+  "16":{
+    "division_name":"Mayabeque",
+    "division_type":"Province"
+  },
+  "99":{
+    "division_name":"Isla de la Juventud",
+    "division_type":"Special municipality"
+  }
+}

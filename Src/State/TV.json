@@ -1,0 +1,34 @@
+{
+  "FUN":{
+    "division_name":"Funafuti",
+    "division_type":"Town council"
+  },
+  "NIT":{
+    "division_name":"Niutao",
+    "division_type":"Island council"
+  },
+  "NIU":{
+    "division_name":"Nui",
+    "division_type":"Island council"
+  },
+  "NKF":{
+    "division_name":"Nukufetau",
+    "division_type":"Island council"
+  },
+  "NKL":{
+    "division_name":"Nukulaelae",
+    "division_type":"Island council"
+  },
+  "NMA":{
+    "division_name":"Nanumea",
+    "division_type":"Island council"
+  },
+  "NMG":{
+    "division_name":"Nanumanga",
+    "division_type":"Island council"
+  },
+  "VAI":{
+    "division_name":"Vaitupu",
+    "division_type":"Island council"
+  }
+}

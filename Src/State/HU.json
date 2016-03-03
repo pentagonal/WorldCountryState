@@ -1,0 +1,174 @@
+{
+  "BA":{
+    "division_name":"Baranya",
+    "division_type":"County"
+  },
+  "BC":{
+    "division_name":"B\u00e9k\u00e9scsaba",
+    "division_type":"City of county right"
+  },
+  "BE":{
+    "division_name":"B\u00e9k\u00e9s",
+    "division_type":"County"
+  },
+  "BK":{
+    "division_name":"B\u00e1cs-Kiskun",
+    "division_type":"County"
+  },
+  "BU":{
+    "division_name":"Budapest",
+    "division_type":"Capital City"
+  },
+  "BZ":{
+    "division_name":"Borsod-Aba\u00faj-Zempl\u00e9n",
+    "division_type":"County"
+  },
+  "CS":{
+    "division_name":"Csongr\u00e1d",
+    "division_type":"County"
+  },
+  "DE":{
+    "division_name":"Debrecen",
+    "division_type":"City of county right"
+  },
+  "DU":{
+    "division_name":"Duna\u00fajv\u00e1ros",
+    "division_type":"City of county right"
+  },
+  "EG":{
+    "division_name":"Eger",
+    "division_type":"City of county right"
+  },
+  "ER":{
+    "division_name":"\u00c9rd",
+    "division_type":"City of county right"
+  },
+  "FE":{
+    "division_name":"Fej\u00e9r",
+    "division_type":"County"
+  },
+  "GS":{
+    "division_name":"Gyor-Moson-Sopron",
+    "division_type":"County"
+  },
+  "GY":{
+    "division_name":"Gyor",
+    "division_type":"City of county right"
+  },
+  "HB":{
+    "division_name":"Hajd\u00fa-Bihar",
+    "division_type":"County"
+  },
+  "HE":{
+    "division_name":"Heves",
+    "division_type":"County"
+  },
+  "HV":{
+    "division_name":"H\u00f3dmezov\u00e1s\u00e1rhely",
+    "division_type":"City of county right"
+  },
+  "JN":{
+    "division_name":"J\u00e1sz-Nagykun-Szolnok",
+    "division_type":"County"
+  },
+  "KE":{
+    "division_name":"Kom\u00e1rom-Esztergom",
+    "division_type":"County"
+  },
+  "KM":{
+    "division_name":"Kecskem\u00e9t",
+    "division_type":"City of county right"
+  },
+  "KV":{
+    "division_name":"Kaposv\u00e1r",
+    "division_type":"City of county right"
+  },
+  "MI":{
+    "division_name":"Miskolc",
+    "division_type":"City of county right"
+  },
+  "NK":{
+    "division_name":"Nagykanizsa",
+    "division_type":"City of county right"
+  },
+  "NO":{
+    "division_name":"N\u00f3gr\u00e1d",
+    "division_type":"County"
+  },
+  "NY":{
+    "division_name":"Ny\u00edregyh\u00e1za",
+    "division_type":"City of county right"
+  },
+  "PE":{
+    "division_name":"Pest",
+    "division_type":"County"
+  },
+  "PS":{
+    "division_name":"P\u00e9cs",
+    "division_type":"City of county right"
+  },
+  "SD":{
+    "division_name":"Szeged",
+    "division_type":"City of county right"
+  },
+  "SF":{
+    "division_name":"Sz\u00e9kesfeh\u00e9rv\u00e1r",
+    "division_type":"City of county right"
+  },
+  "SH":{
+    "division_name":"Szombathely",
+    "division_type":"City of county right"
+  },
+  "SK":{
+    "division_name":"Szolnok",
+    "division_type":"City of county right"
+  },
+  "SN":{
+    "division_name":"Sopron",
+    "division_type":"City of county right"
+  },
+  "SO":{
+    "division_name":"Somogy",
+    "division_type":"County"
+  },
+  "SS":{
+    "division_name":"Szeksz\u00e1rd",
+    "division_type":"City of county right"
+  },
+  "ST":{
+    "division_name":"Salg\u00f3tarj\u00e1n",
+    "division_type":"City of county right"
+  },
+  "SZ":{
+    "division_name":"Szabolcs-Szatm\u00e1r-Bereg",
+    "division_type":"County"
+  },
+  "TB":{
+    "division_name":"Tatab\u00e1nya",
+    "division_type":"City of county right"
+  },
+  "TO":{
+    "division_name":"Tolna",
+    "division_type":"County"
+  },
+  "VA":{
+    "division_name":"Vas",
+    "division_type":"County"
+  },
+  "VE":{
+    "division_name":"Veszpr\u00e9m",
+    "division_type":"County"
+  },
+  "VM":{
+    "division_name":"Veszpr\u00e9m",
+    "division_type":"City of county right"
+  },
+  "ZA":{
+    "division_name":"Zala",
+    "division_type":"County"
+  },
+  "ZE":{
+    "division_name":"Zalaegerszeg",
+    "division_type":"City of county right"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "country_code":"SJ",
+  "country_name":"Svalbard and Jan Mayen",
+  "currency_code":"NOK",
+  "fips_code":"SV",
+  "iso_numeric":"744",
+  "north":"80.762085",
+  "south":"79.220306",
+  "east":"33.287334",
+  "west":"17.699389",
+  "capital":"Longyearbyen",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"SJM",
+  "geoname_id":"607072",
+  "languages":[
+    "no",
+    "ru"
+  ]
+}

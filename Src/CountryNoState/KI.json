@@ -1,0 +1,20 @@
+{
+  "country_code":"KI",
+  "country_name":"Kiribati",
+  "currency_code":"AUD",
+  "fips_code":"KR",
+  "iso_numeric":"296",
+  "north":"4.71957",
+  "south":"-11.446881150186856",
+  "east":"-150.215347",
+  "west":"169.556137",
+  "capital":"Tarawa",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"KIR",
+  "geoname_id":"4030945",
+  "languages":[
+    "en-KI",
+    "gil"
+  ]
+}

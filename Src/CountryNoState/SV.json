@@ -1,0 +1,19 @@
+{
+  "country_code":"SV",
+  "country_name":"El Salvador",
+  "currency_code":"USD",
+  "fips_code":"ES",
+  "iso_numeric":"222",
+  "north":"14.445067",
+  "south":"13.148679",
+  "east":"-87.692162",
+  "west":"-90.128662",
+  "capital":"San Salvador",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"SLV",
+  "geoname_id":"3585968",
+  "languages":[
+    "es-SV"
+  ]
+}

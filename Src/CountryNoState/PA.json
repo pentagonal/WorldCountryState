@@ -1,0 +1,20 @@
+{
+  "country_code":"PA",
+  "country_name":"Panama",
+  "currency_code":"PAB",
+  "fips_code":"PM",
+  "iso_numeric":"591",
+  "north":"9.637514",
+  "south":"7.197906",
+  "east":"-77.17411",
+  "west":"-83.051445",
+  "capital":"Panama City",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"PAN",
+  "geoname_id":"3703430",
+  "languages":[
+    "es-PA",
+    "en"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "country_code":"SS",
+  "country_name":"South Sudan",
+  "currency_code":"SSP",
+  "fips_code":"OD",
+  "iso_numeric":"728",
+  "north":"12.219148635864258",
+  "south":"3.493394374847412",
+  "east":"35.9405517578125",
+  "west":"24.140274047851562",
+  "capital":"Juba",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SSD",
+  "geoname_id":"7909807",
+  "languages":[
+    "en"
+  ]
+}

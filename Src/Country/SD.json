@@ -1,0 +1,91 @@
+{
+  "country_code":"SD",
+  "country_name":"Sudan",
+  "currency_code":"SDG",
+  "fips_code":"SU",
+  "iso_numeric":"729",
+  "north":"22.232219696044922",
+  "south":"8.684720993041992",
+  "east":"38.60749816894531",
+  "west":"21.827774047851562",
+  "capital":"Khartoum",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SDN",
+  "geoname_id":"366755",
+  "languages":[
+    "ar-SD",
+    "en",
+    "fia"
+  ],
+  "subdivision":{
+    "DC":{
+      "division_name":"Zalingei",
+      "division_type":"State"
+    },
+    "DE":{
+      "division_name":"Sharq Darfur",
+      "division_type":"State"
+    },
+    "DN":{
+      "division_name":"Shamal Darfur",
+      "division_type":"State"
+    },
+    "DS":{
+      "division_name":"Janub Darfur",
+      "division_type":"State"
+    },
+    "DW":{
+      "division_name":"Gharb Darfur",
+      "division_type":"State"
+    },
+    "GD":{
+      "division_name":"Al Qadarif",
+      "division_type":"State"
+    },
+    "GZ":{
+      "division_name":"Al Jazirah",
+      "division_type":"State"
+    },
+    "KA":{
+      "division_name":"Kassala",
+      "division_type":"State"
+    },
+    "KH":{
+      "division_name":"Al Khartum",
+      "division_type":"State"
+    },
+    "KN":{
+      "division_name":"Shamal Kurdufan",
+      "division_type":"State"
+    },
+    "KS":{
+      "division_name":"Janub Kurdufan",
+      "division_type":"State"
+    },
+    "NB":{
+      "division_name":"An Nil al Azraq",
+      "division_type":"State"
+    },
+    "NO":{
+      "division_name":"Ash Shamaliyah",
+      "division_type":"State"
+    },
+    "NR":{
+      "division_name":"An Nil",
+      "division_type":"State"
+    },
+    "NW":{
+      "division_name":"An Nil al Abya\u1e0d",
+      "division_type":"State"
+    },
+    "RS":{
+      "division_name":"Al Ba\u1e29r al A\u1e29mar",
+      "division_type":"State"
+    },
+    "SI":{
+      "division_name":"Sinnar",
+      "division_type":"State"
+    }
+  }
+}

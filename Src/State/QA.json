@@ -1,0 +1,30 @@
+{
+  "DA":{
+    "division_name":"Ad Dawhah",
+    "division_type":"Municipality"
+  },
+  "KH":{
+    "division_name":"Al Khawr wa adh Dhakhirah",
+    "division_type":"Municipality"
+  },
+  "MS":{
+    "division_name":"Ash Shamal",
+    "division_type":"Municipality"
+  },
+  "RA":{
+    "division_name":"Ar Rayyan",
+    "division_type":"Municipality"
+  },
+  "US":{
+    "division_name":"Umm Salal",
+    "division_type":"Municipality"
+  },
+  "WA":{
+    "division_name":"Al Wakrah",
+    "division_type":"Municipality"
+  },
+  "ZA":{
+    "division_name":"Az\u00b8 Z\u00b8a\u2018ayin",
+    "division_type":"Municipality"
+  }
+}

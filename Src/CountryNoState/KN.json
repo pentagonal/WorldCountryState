@@ -1,0 +1,19 @@
+{
+  "country_code":"KN",
+  "country_name":"Saint Kitts and Nevis",
+  "currency_code":"XCD",
+  "fips_code":"SC",
+  "iso_numeric":"659",
+  "north":"17.420118",
+  "south":"17.095343",
+  "east":"-62.543266",
+  "west":"-62.86956",
+  "capital":"Basseterre",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"KNA",
+  "geoname_id":"3575174",
+  "languages":[
+    "en-KN"
+  ]
+}

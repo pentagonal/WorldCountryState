@@ -1,0 +1,20 @@
+{
+  "country_code":"IE",
+  "country_name":"Ireland",
+  "currency_code":"EUR",
+  "fips_code":"EI",
+  "iso_numeric":"372",
+  "north":"55.387917",
+  "south":"51.451584",
+  "east":"-6.002389",
+  "west":"-10.478556",
+  "capital":"Dublin",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"IRL",
+  "geoname_id":"2963597",
+  "languages":[
+    "en-IE",
+    "ga-IE"
+  ]
+}

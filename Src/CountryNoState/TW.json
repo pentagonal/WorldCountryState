@@ -1,0 +1,22 @@
+{
+  "country_code":"TW",
+  "country_name":"Taiwan",
+  "currency_code":"TWD",
+  "fips_code":"TW",
+  "iso_numeric":"158",
+  "north":"25.3002899036181",
+  "south":"21.896606934717",
+  "east":"122.006739823315",
+  "west":"119.534691",
+  "capital":"Taipei",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"TWN",
+  "geoname_id":"1668284",
+  "languages":[
+    "zh-TW",
+    "zh",
+    "nan",
+    "hak"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "01":{
+    "division_name":"Akmene",
+    "division_type":"District municipality"
+  },
+  "02":{
+    "division_name":"Alytaus miestas",
+    "division_type":"City municipality"
+  },
+  "03":{
+    "division_name":"Alytus",
+    "division_type":"District municipality"
+  },
+  "04":{
+    "division_name":"Anyk\u0161ciai",
+    "division_type":"District municipality"
+  },
+  "05":{
+    "division_name":"Bir\u0161tono",
+    "division_type":"Municipality"
+  },
+  "06":{
+    "division_name":"Bir\u017eai",
+    "division_type":"District municipality"
+  },
+  "07":{
+    "division_name":"Druskininkai",
+    "division_type":"Municipality"
+  },
+  "08":{
+    "division_name":"Elektr\u00e9nai",
+    "division_type":"Municipality"
+  },
+  "09":{
+    "division_name":"Ignalina",
+    "division_type":"District municipality"
+  },
+  "10":{
+    "division_name":"Jonava",
+    "division_type":"District municipality"
+  },
+  "11":{
+    "division_name":"Joni\u0161kis",
+    "division_type":"District municipality"
+  },
+  "12":{
+    "division_name":"Jurbarkas",
+    "division_type":"District municipality"
+  },
+  "13":{
+    "division_name":"Kai\u0161iadorys",
+    "division_type":"District municipality"
+  },
+  "14":{
+    "division_name":"Kalvarijos",
+    "division_type":"Municipality"
+  },
+  "15":{
+    "division_name":"Kauno miestas",
+    "division_type":"City municipality"
+  },
+  "16":{
+    "division_name":"Kaunas",
+    "division_type":"District municipality"
+  },
+  "17":{
+    "division_name":"Kazlu Rudos",
+    "division_type":"Municipality"
+  },
+  "18":{
+    "division_name":"Kedainiai",
+    "division_type":"District municipality"
+  },
+  "19":{
+    "division_name":"Kelme",
+    "division_type":"District municipality"
+  },
+  "20":{
+    "division_name":"Klaipedos miestas",
+    "division_type":"City municipality"
+  },
+  "21":{
+    "division_name":"Klaipeda",
+    "division_type":"District municipality"
+  },
+  "22":{
+    "division_name":"Kretinga",
+    "division_type":"District municipality"
+  },
+  "23":{
+    "division_name":"Kupi\u0161kis",
+    "division_type":"District municipality"
+  },
+  "24":{
+    "division_name":"Lazdijai",
+    "division_type":"District municipality"
+  },
+  "25":{
+    "division_name":"Marijampole",
+    "division_type":"District municipality"
+  },
+  "26":{
+    "division_name":"Ma\u017eeikiai",
+    "division_type":"District municipality"
+  },
+  "27":{
+    "division_name":"Moletai",
+    "division_type":"District municipality"
+  },
+  "28":{
+    "division_name":"Neringa",
+    "division_type":"Municipality"
+  },
+  "29":{
+    "division_name":"Pag\u00e9giai",
+    "division_type":"Municipality"
+  },
+  "30":{
+    "division_name":"Pakruojis",
+    "division_type":"District municipality"
+  },
+  "31":{
+    "division_name":"Palangos miestas",
+    "division_type":"City municipality"
+  },
+  "32":{
+    "division_name":"Paneve\u017eio miestas",
+    "division_type":"City municipality"
+  },
+  "33":{
+    "division_name":"Paneve\u017eys",
+    "division_type":"District municipality"
+  },
+  "34":{
+    "division_name":"Pasvalys",
+    "division_type":"District municipality"
+  },
+  "35":{
+    "division_name":"Plunge",
+    "division_type":"District municipality"
+  },
+  "36":{
+    "division_name":"Prienai",
+    "division_type":"District municipality"
+  },
+  "37":{
+    "division_name":"Radvili\u0161kis",
+    "division_type":"District municipality"
+  },
+  "38":{
+    "division_name":"Raseiniai",
+    "division_type":"District municipality"
+  },
+  "39":{
+    "division_name":"Rietavo",
+    "division_type":"Municipality"
+  },
+  "40":{
+    "division_name":"Roki\u0161kis",
+    "division_type":"District municipality"
+  },
+  "41":{
+    "division_name":"\u0160akiai",
+    "division_type":"District municipality"
+  },
+  "42":{
+    "division_name":"\u0160alcininkai",
+    "division_type":"District municipality"
+  },
+  "43":{
+    "division_name":"\u0160iauliu miestas",
+    "division_type":"City municipality"
+  },
+  "44":{
+    "division_name":"\u0160iauliai",
+    "division_type":"District municipality"
+  },
+  "45":{
+    "division_name":"\u0160ilale",
+    "division_type":"District municipality"
+  },
+  "46":{
+    "division_name":"\u0160ilute",
+    "division_type":"District municipality"
+  },
+  "47":{
+    "division_name":"\u0160irvintos",
+    "division_type":"District municipality"
+  },
+  "48":{
+    "division_name":"Skuodas",
+    "division_type":"District municipality"
+  },
+  "49":{
+    "division_name":"\u0160vencionys",
+    "division_type":"District municipality"
+  },
+  "50":{
+    "division_name":"Taurage",
+    "division_type":"District municipality"
+  },
+  "51":{
+    "division_name":"Tel\u0161iai",
+    "division_type":"District municipality"
+  },
+  "52":{
+    "division_name":"Trakai",
+    "division_type":"District municipality"
+  },
+  "53":{
+    "division_name":"Ukmerge",
+    "division_type":"District municipality"
+  },
+  "54":{
+    "division_name":"Utena",
+    "division_type":"District municipality"
+  },
+  "55":{
+    "division_name":"Varena",
+    "division_type":"District municipality"
+  },
+  "56":{
+    "division_name":"Vilkavi\u0161kis",
+    "division_type":"District municipality"
+  },
+  "57":{
+    "division_name":"Vilniaus miestas",
+    "division_type":"City municipality"
+  },
+  "58":{
+    "division_name":"Vilnius",
+    "division_type":"District municipality"
+  },
+  "59":{
+    "division_name":"Visaginas",
+    "division_type":"Municipality"
+  },
+  "60":{
+    "division_name":"Zarasai",
+    "division_type":"District municipality"
+  },
+  "AL":{
+    "division_name":"Alytaus Apskritis",
+    "division_type":"County"
+  },
+  "KL":{
+    "division_name":"Klaipedos apskritis",
+    "division_type":"County"
+  },
+  "KU":{
+    "division_name":"Kauno Apskritis",
+    "division_type":"County"
+  },
+  "MR":{
+    "division_name":"Marijampoles apskritis",
+    "division_type":"County"
+  },
+  "PN":{
+    "division_name":"Paneve\u017eio apskritis",
+    "division_type":"County"
+  },
+  "SA":{
+    "division_name":"\u0160iauliu Apskritis",
+    "division_type":"County"
+  },
+  "TA":{
+    "division_name":"Taurages apskritis",
+    "division_type":"County"
+  },
+  "TE":{
+    "division_name":"Tel\u0161iu Apskritis",
+    "division_type":"County"
+  },
+  "UT":{
+    "division_name":"Utenos Apskritis",
+    "division_type":"County"
+  },
+  "VL":{
+    "division_name":"Vilniaus Apskritis",
+    "division_type":"County"
+  }
+}

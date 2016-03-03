@@ -1,0 +1,74 @@
+{
+  "AT":{
+    "division_name":"Atl\u00e1ntida",
+    "division_type":"Department"
+  },
+  "CH":{
+    "division_name":"Choluteca",
+    "division_type":"Department"
+  },
+  "CL":{
+    "division_name":"Col\u00f3n",
+    "division_type":"Department"
+  },
+  "CM":{
+    "division_name":"Comayagua",
+    "division_type":"Department"
+  },
+  "CP":{
+    "division_name":"Cop\u00e1n",
+    "division_type":"Department"
+  },
+  "CR":{
+    "division_name":"Cort\u00e9s",
+    "division_type":"Department"
+  },
+  "EP":{
+    "division_name":"El Para\u00edso",
+    "division_type":"Department"
+  },
+  "FM":{
+    "division_name":"Francisco Moraz\u00e1n",
+    "division_type":"Department"
+  },
+  "GD":{
+    "division_name":"Gracias a Dios",
+    "division_type":"Department"
+  },
+  "IB":{
+    "division_name":"Islas de la Bah\u00eda",
+    "division_type":"Department"
+  },
+  "IN":{
+    "division_name":"Intibuc\u00e1",
+    "division_type":"Department"
+  },
+  "LE":{
+    "division_name":"Lempira",
+    "division_type":"Department"
+  },
+  "LP":{
+    "division_name":"La Paz",
+    "division_type":"Department"
+  },
+  "OC":{
+    "division_name":"Ocotepeque",
+    "division_type":"Department"
+  },
+  "OL":{
+    "division_name":"Olancho",
+    "division_type":"Department"
+  },
+  "SB":{
+    "division_name":"Santa B\u00e1rbara",
+    "division_type":"Department"
+  },
+  "VA":{
+    "division_name":"Valle",
+    "division_type":"Department"
+  },
+  "YO":{
+    "division_name":"Yoro",
+    "division_type":"Department"
+  }
+}

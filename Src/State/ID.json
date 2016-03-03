@@ -1,0 +1,138 @@
+{
+  "AC":{
+    "division_name":"Aceh",
+    "division_type":"Autononous province"
+  },
+  "BA":{
+    "division_name":"Bali",
+    "division_type":"Province"
+  },
+  "BB":{
+    "division_name":"Bangka Belitung",
+    "division_type":"Province"
+  },
+  "BE":{
+    "division_name":"Bengkulu",
+    "division_type":"Province"
+  },
+  "BT":{
+    "division_name":"Banten",
+    "division_type":"Province"
+  },
+  "GO":{
+    "division_name":"Gorontalo",
+    "division_type":"Province"
+  },
+  "JA":{
+    "division_name":"Jambi",
+    "division_type":"Province"
+  },
+  "JB":{
+    "division_name":"Jawa Barat",
+    "division_type":"Province"
+  },
+  "JI":{
+    "division_name":"Jawa Timur",
+    "division_type":"Province"
+  },
+  "JK":{
+    "division_name":"Jakarta Raya",
+    "division_type":"Special district"
+  },
+  "JT":{
+    "division_name":"Jawa Tengah",
+    "division_type":"Province"
+  },
+  "KB":{
+    "division_name":"Kalimantan Barat",
+    "division_type":"Province"
+  },
+  "KI":{
+    "division_name":"Kalimantan Timur",
+    "division_type":"Province"
+  },
+  "KR":{
+    "division_name":"Kepulauan Riau",
+    "division_type":"Province"
+  },
+  "KS":{
+    "division_name":"Kalimantan Selatan",
+    "division_type":"Province"
+  },
+  "KT":{
+    "division_name":"Kalimantan Tengah",
+    "division_type":"Province"
+  },
+  "KU":{
+    "division_name":"Kalimantan Utara",
+    "division_type":"Province"
+  },
+  "LA":{
+    "division_name":"Lampung",
+    "division_type":"Province"
+  },
+  "MA":{
+    "division_name":"Maluku",
+    "division_type":"Province"
+  },
+  "MU":{
+    "division_name":"Maluku Utara",
+    "division_type":"Province"
+  },
+  "NB":{
+    "division_name":"Nusa Tenggara Barat",
+    "division_type":"Province"
+  },
+  "NT":{
+    "division_name":"Nusa Tenggara Timur",
+    "division_type":"Province"
+  },
+  "PA":{
+    "division_name":"Papua",
+    "division_type":"Province"
+  },
+  "PB":{
+    "division_name":"Papua Barat",
+    "division_type":"Province"
+  },
+  "RI":{
+    "division_name":"Riau",
+    "division_type":"Province"
+  },
+  "SA":{
+    "division_name":"Sulawesi Utara",
+    "division_type":"Province"
+  },
+  "SB":{
+    "division_name":"Sumatera Barat",
+    "division_type":"Province"
+  },
+  "SG":{
+    "division_name":"Sulawesi Tenggara",
+    "division_type":"Province"
+  },
+  "SN":{
+    "division_name":"Sulawesi Selatan",
+    "division_type":"Province"
+  },
+  "SR":{
+    "division_name":"Sulawesi Barat",
+    "division_type":"Province"
+  },
+  "SS":{
+    "division_name":"Sumatera Selatan",
+    "division_type":"Province"
+  },
+  "ST":{
+    "division_name":"Sulawesi Tengah",
+    "division_type":"Province"
+  },
+  "SU":{
+    "division_name":"Sumatera Utara",
+    "division_type":"Province"
+  },
+  "YO":{
+    "division_name":"Yogyakarta",
+    "division_type":"Special region"
+  }
+}

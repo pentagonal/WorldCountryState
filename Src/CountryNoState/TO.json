@@ -1,0 +1,20 @@
+{
+  "country_code":"TO",
+  "country_name":"Tonga",
+  "currency_code":"TOP",
+  "fips_code":"TN",
+  "iso_numeric":"776",
+  "north":"-15.562988",
+  "south":"-21.455057",
+  "east":"-173.907578",
+  "west":"-175.682266",
+  "capital":"Nuku'alofa",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"TON",
+  "geoname_id":"4032283",
+  "languages":[
+    "to",
+    "en-TO"
+  ]
+}

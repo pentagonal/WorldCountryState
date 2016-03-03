@@ -1,0 +1,38 @@
+{
+  "BA":{
+    "division_name":"Al Batinah",
+    "division_type":"Region"
+  },
+  "BU":{
+    "division_name":"Al Buraymi",
+    "division_type":"governorate"
+  },
+  "DA":{
+    "division_name":"Ad Dakhiliyah",
+    "division_type":"Region"
+  },
+  "MA":{
+    "division_name":"Masqat",
+    "division_type":"governorate"
+  },
+  "MU":{
+    "division_name":"Musandam",
+    "division_type":"governorate"
+  },
+  "SH":{
+    "division_name":"Ash Sharqiyah",
+    "division_type":"Region"
+  },
+  "WU":{
+    "division_name":"AI Wusta",
+    "division_type":"Region"
+  },
+  "ZA":{
+    "division_name":"Az Zahirah",
+    "division_type":"Region"
+  },
+  "ZU":{
+    "division_name":"Z\u00b8ufar",
+    "division_type":"governorate"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "country_code":"MM",
+  "country_name":"Myanmar [Burma]",
+  "currency_code":"MMK",
+  "fips_code":"BM",
+  "iso_numeric":"104",
+  "north":"28.543249",
+  "south":"9.784583",
+  "east":"101.176781",
+  "west":"92.189278",
+  "capital":"Nay Pyi Taw",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"MMR",
+  "geoname_id":"1327865",
+  "languages":[
+    "my"
+  ]
+}

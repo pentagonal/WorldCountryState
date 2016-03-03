@@ -1,0 +1,23 @@
+{
+  "country_code":"NA",
+  "country_name":"Namibia",
+  "currency_code":"NAD",
+  "fips_code":"WA",
+  "iso_numeric":"516",
+  "north":"-16.959894",
+  "south":"-28.97143",
+  "east":"25.256701",
+  "west":"11.71563",
+  "capital":"Windhoek",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"NAM",
+  "geoname_id":"3355338",
+  "languages":[
+    "en-NA",
+    "af",
+    "de",
+    "hz",
+    "naq"
+  ]
+}

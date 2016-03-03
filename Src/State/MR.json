@@ -1,0 +1,54 @@
+{
+  "01":{
+    "division_name":"Hodh ech Chargui",
+    "division_type":"Region"
+  },
+  "02":{
+    "division_name":"Hodh el Gharbi",
+    "division_type":"Region"
+  },
+  "03":{
+    "division_name":"Assaba",
+    "division_type":"Region"
+  },
+  "04":{
+    "division_name":"Gorgol",
+    "division_type":"Region"
+  },
+  "05":{
+    "division_name":"Brakna",
+    "division_type":"Region"
+  },
+  "06":{
+    "division_name":"Trarza",
+    "division_type":"Region"
+  },
+  "07":{
+    "division_name":"Adrar",
+    "division_type":"Region"
+  },
+  "08":{
+    "division_name":"Dakhlet Nou\u00e2dhibou",
+    "division_type":"Region"
+  },
+  "09":{
+    "division_name":"Tagant",
+    "division_type":"Region"
+  },
+  "10":{
+    "division_name":"Guidimaka",
+    "division_type":"Region"
+  },
+  "11":{
+    "division_name":"Tiris Zemmour",
+    "division_type":"Region"
+  },
+  "12":{
+    "division_name":"Inchiri",
+    "division_type":"Region"
+  },
+  "NKC":{
+    "division_name":"Nouakchott",
+    "division_type":"District"
+  }
+}

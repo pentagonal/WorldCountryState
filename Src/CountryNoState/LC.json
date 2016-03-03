@@ -1,0 +1,19 @@
+{
+  "country_code":"LC",
+  "country_name":"Saint Lucia",
+  "currency_code":"XCD",
+  "fips_code":"ST",
+  "iso_numeric":"662",
+  "north":"14.103245",
+  "south":"13.704778",
+  "east":"-60.874203",
+  "west":"-61.07415",
+  "capital":"Castries",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"LCA",
+  "geoname_id":"3576468",
+  "languages":[
+    "en-LC"
+  ]
+}

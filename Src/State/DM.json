@@ -1,0 +1,42 @@
+{
+  "02":{
+    "division_name":"Saint Andrew",
+    "division_type":"Parish"
+  },
+  "03":{
+    "division_name":"Saint David",
+    "division_type":"Parish"
+  },
+  "04":{
+    "division_name":"Saint George",
+    "division_type":"Parish"
+  },
+  "05":{
+    "division_name":"Saint John",
+    "division_type":"Parish"
+  },
+  "06":{
+    "division_name":"Saint Joseph",
+    "division_type":"Parish"
+  },
+  "07":{
+    "division_name":"Saint Luke",
+    "division_type":"Parish"
+  },
+  "08":{
+    "division_name":"Saint Mark",
+    "division_type":"Parish"
+  },
+  "09":{
+    "division_name":"Saint Patrick",
+    "division_type":"Parish"
+  },
+  "10":{
+    "division_name":"Saint Paul",
+    "division_type":"Parish"
+  },
+  "11":{
+    "division_name":"Saint Peter",
+    "division_type":"Parish"
+  }
+}

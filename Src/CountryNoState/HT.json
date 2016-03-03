@@ -1,0 +1,20 @@
+{
+  "country_code":"HT",
+  "country_name":"Haiti",
+  "currency_code":"HTG",
+  "fips_code":"HA",
+  "iso_numeric":"332",
+  "north":"20.08782",
+  "south":"18.021032",
+  "east":"-71.613358",
+  "west":"-74.478584",
+  "capital":"Port-au-Prince",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"HTI",
+  "geoname_id":"3723988",
+  "languages":[
+    "ht",
+    "fr-HT"
+  ]
+}

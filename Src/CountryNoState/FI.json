@@ -1,0 +1,21 @@
+{
+  "country_code":"FI",
+  "country_name":"Finland",
+  "currency_code":"EUR",
+  "fips_code":"FI",
+  "iso_numeric":"246",
+  "north":"70.096054",
+  "south":"59.808777",
+  "east":"31.580944",
+  "west":"20.556944",
+  "capital":"Helsinki",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"FIN",
+  "geoname_id":"660013",
+  "languages":[
+    "fi-FI",
+    "sv-FI",
+    "smn"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "1":{
+    "division_name":"Agadez",
+    "division_type":"Region"
+  },
+  "2":{
+    "division_name":"Diffa",
+    "division_type":"Region"
+  },
+  "3":{
+    "division_name":"Dosso",
+    "division_type":"Region"
+  },
+  "4":{
+    "division_name":"Maradi",
+    "division_type":"Region"
+  },
+  "5":{
+    "division_name":"Tahoua",
+    "division_type":"Region"
+  },
+  "6":{
+    "division_name":"Tillab\u00e9ri",
+    "division_type":"Region"
+  },
+  "7":{
+    "division_name":"Zinder",
+    "division_type":"Region"
+  },
+  "8":{
+    "division_name":"Niamey",
+    "division_type":"Urban community"
+  }
+}

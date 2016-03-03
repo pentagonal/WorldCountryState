@@ -1,0 +1,20 @@
+{
+  "country_code":"BM",
+  "country_name":"Bermuda",
+  "currency_code":"BMD",
+  "fips_code":"BD",
+  "iso_numeric":"060",
+  "north":"32.393833",
+  "south":"32.246639",
+  "east":"-64.651993",
+  "west":"-64.89605",
+  "capital":"Hamilton",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"BMU",
+  "geoname_id":"3573345",
+  "languages":[
+    "en-BM",
+    "pt"
+  ]
+}

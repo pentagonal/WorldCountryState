@@ -1,0 +1,19 @@
+{
+  "country_code":"AO",
+  "country_name":"Angola",
+  "currency_code":"AOA",
+  "fips_code":"AO",
+  "iso_numeric":"024",
+  "north":"-4.376826",
+  "south":"-18.042076",
+  "east":"24.082119",
+  "west":"11.679219",
+  "capital":"Luanda",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"AGO",
+  "geoname_id":"3351879",
+  "languages":[
+    "pt-AO"
+  ]
+}

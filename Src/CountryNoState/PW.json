@@ -1,0 +1,25 @@
+{
+  "country_code":"PW",
+  "country_name":"Palau",
+  "currency_code":"USD",
+  "fips_code":"PS",
+  "iso_numeric":"585",
+  "north":"8.46966",
+  "south":"2.8036",
+  "east":"134.72307",
+  "west":"131.11788",
+  "capital":"Melekeok - Palau State Capital",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"PLW",
+  "geoname_id":"1559582",
+  "languages":[
+    "pau",
+    "sov",
+    "en-PW",
+    "tox",
+    "ja",
+    "fil",
+    "zh"
+  ]
+}

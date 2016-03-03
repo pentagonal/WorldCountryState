@@ -1,0 +1,22 @@
+{
+  "country_code":"CF",
+  "country_name":"Central African Republic",
+  "currency_code":"XAF",
+  "fips_code":"CT",
+  "iso_numeric":"140",
+  "north":"11.007569",
+  "south":"2.220514",
+  "east":"27.463421",
+  "west":"14.420097",
+  "capital":"Bangui",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"CAF",
+  "geoname_id":"239880",
+  "languages":[
+    "fr-CF",
+    "sg",
+    "ln",
+    "kg"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "country_code":"TM",
+  "country_name":"Turkmenistan",
+  "currency_code":"TMT",
+  "fips_code":"TX",
+  "iso_numeric":"795",
+  "north":"42.795555",
+  "south":"35.141083",
+  "east":"66.684303",
+  "west":"52.441444",
+  "capital":"Ashgabat",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"TKM",
+  "geoname_id":"1218197",
+  "languages":[
+    "tk",
+    "ru",
+    "uz"
+  ]
+}

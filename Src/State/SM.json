@@ -1,0 +1,38 @@
+{
+  "01":{
+    "division_name":"Acquaviva",
+    "division_type":"Municipality"
+  },
+  "02":{
+    "division_name":"Chiesanuova",
+    "division_type":"Municipality"
+  },
+  "03":{
+    "division_name":"Domagnano",
+    "division_type":"Municipality"
+  },
+  "04":{
+    "division_name":"Faetano",
+    "division_type":"Municipality"
+  },
+  "05":{
+    "division_name":"Fiorentino",
+    "division_type":"Municipality"
+  },
+  "06":{
+    "division_name":"Borgo Maggiore",
+    "division_type":"Municipality"
+  },
+  "07":{
+    "division_name":"San Marino",
+    "division_type":"Municipality"
+  },
+  "08":{
+    "division_name":"Montegiardino",
+    "division_type":"Municipality"
+  },
+  "09":{
+    "division_name":"Serravalle",
+    "division_type":"Municipality"
+  }
+}

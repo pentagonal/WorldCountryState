@@ -1,0 +1,20 @@
+{
+  "country_code":"PY",
+  "country_name":"Paraguay",
+  "currency_code":"PYG",
+  "fips_code":"PA",
+  "iso_numeric":"600",
+  "north":"-19.294041",
+  "south":"-27.608738",
+  "east":"-54.259354",
+  "west":"-62.647076",
+  "capital":"Asunci\u00f3n",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"PRY",
+  "geoname_id":"3437598",
+  "languages":[
+    "es-PY",
+    "gn"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "country_code":"KN",
+  "country_name":"Saint Kitts and Nevis",
+  "currency_code":"XCD",
+  "fips_code":"SC",
+  "iso_numeric":"659",
+  "north":"17.420118",
+  "south":"17.095343",
+  "east":"-62.543266",
+  "west":"-62.86956",
+  "capital":"Basseterre",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"KNA",
+  "geoname_id":"3575174",
+  "languages":[
+    "en-KN"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Christ Church Nichola Town",
+      "division_type":"Parish"
+    },
+    "02":{
+      "division_name":"Saint Anne Sandy Point",
+      "division_type":"Parish"
+    },
+    "03":{
+      "division_name":"Saint George Basseterre",
+      "division_type":"Parish"
+    },
+    "04":{
+      "division_name":"Saint George Gingerland",
+      "division_type":"Parish"
+    },
+    "05":{
+      "division_name":"Saint James Windward",
+      "division_type":"Parish"
+    },
+    "06":{
+      "division_name":"Saint John Capisterre",
+      "division_type":"Parish"
+    },
+    "07":{
+      "division_name":"Saint John Figtree",
+      "division_type":"Parish"
+    },
+    "08":{
+      "division_name":"Saint Mary Cayon",
+      "division_type":"Parish"
+    },
+    "09":{
+      "division_name":"Saint Paul Capisterre",
+      "division_type":"Parish"
+    },
+    "10":{
+      "division_name":"Saint Paul Charlestown",
+      "division_type":"Parish"
+    },
+    "11":{
+      "division_name":"Saint Peter Basseterre",
+      "division_type":"Parish"
+    },
+    "12":{
+      "division_name":"Saint Thomas Lowland",
+      "division_type":"Parish"
+    },
+    "13":{
+      "division_name":"Saint Thomas Middle Island",
+      "division_type":"Parish"
+    },
+    "15":{
+      "division_name":"Trinity Palmetto Point",
+      "division_type":"Parish"
+    }
+  }
+}

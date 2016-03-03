@@ -1,0 +1,46 @@
+{
+  "AA":{
+    "division_name":"A'ana",
+    "division_type":"District"
+  },
+  "AL":{
+    "division_name":"Aiga-i-le-Tai",
+    "division_type":"District"
+  },
+  "AT":{
+    "division_name":"Atua",
+    "division_type":"District"
+  },
+  "FA":{
+    "division_name":"Fa'asaleleaga",
+    "division_type":"District"
+  },
+  "GE":{
+    "division_name":"Gaga'emauga",
+    "division_type":"District"
+  },
+  "GI":{
+    "division_name":"Gagaifomauga",
+    "division_type":"District"
+  },
+  "PA":{
+    "division_name":"Palauli",
+    "division_type":"District"
+  },
+  "SA":{
+    "division_name":"Satupa 'itea",
+    "division_type":"District"
+  },
+  "TU":{
+    "division_name":"Tuamasaga",
+    "division_type":"District"
+  },
+  "VF":{
+    "division_name":"Va'a-o-Fonoti",
+    "division_type":"District"
+  },
+  "VS":{
+    "division_name":"Vaisigano",
+    "division_type":"District"
+  }
+}

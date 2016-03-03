@@ -1,0 +1,21 @@
+{
+  "country_code":"SD",
+  "country_name":"Sudan",
+  "currency_code":"SDG",
+  "fips_code":"SU",
+  "iso_numeric":"729",
+  "north":"22.232219696044922",
+  "south":"8.684720993041992",
+  "east":"38.60749816894531",
+  "west":"21.827774047851562",
+  "capital":"Khartoum",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SDN",
+  "geoname_id":"366755",
+  "languages":[
+    "ar-SD",
+    "en",
+    "fia"
+  ]
+}

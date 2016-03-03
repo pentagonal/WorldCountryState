@@ -1,0 +1,98 @@
+{
+  "A":{
+    "division_name":"Salta",
+    "division_type":"Province"
+  },
+  "B":{
+    "division_name":"Buenos Aires",
+    "division_type":"Province"
+  },
+  "C":{
+    "division_name":"Ciudad Aut\u00f3noma de Buenos Aires",
+    "division_type":"City"
+  },
+  "D":{
+    "division_name":"San Luis",
+    "division_type":"Province"
+  },
+  "E":{
+    "division_name":"Entre R\u00edos",
+    "division_type":"Province"
+  },
+  "F":{
+    "division_name":"La Rioja",
+    "division_type":"Province"
+  },
+  "G":{
+    "division_name":"Santiago del Estero",
+    "division_type":"Province"
+  },
+  "H":{
+    "division_name":"Chaco",
+    "division_type":"Province"
+  },
+  "J":{
+    "division_name":"San Juan",
+    "division_type":"Province"
+  },
+  "K":{
+    "division_name":"Catamarca",
+    "division_type":"Province"
+  },
+  "L":{
+    "division_name":"La Pampa",
+    "division_type":"Province"
+  },
+  "M":{
+    "division_name":"Mendoza",
+    "division_type":"Province"
+  },
+  "N":{
+    "division_name":"Misiones",
+    "division_type":"Province"
+  },
+  "P":{
+    "division_name":"Formosa",
+    "division_type":"Province"
+  },
+  "Q":{
+    "division_name":"Neuqu\u00e9n",
+    "division_type":"Province"
+  },
+  "R":{
+    "division_name":"R\u00edo Negro",
+    "division_type":"Province"
+  },
+  "S":{
+    "division_name":"Santa Fe",
+    "division_type":"Province"
+  },
+  "T":{
+    "division_name":"Tucum\u00e1n",
+    "division_type":"Province"
+  },
+  "U":{
+    "division_name":"Chubut",
+    "division_type":"Province"
+  },
+  "V":{
+    "division_name":"Tierra del Fuego",
+    "division_type":"Province"
+  },
+  "W":{
+    "division_name":"Corrientes",
+    "division_type":"Province"
+  },
+  "X":{
+    "division_name":"C\u00f3rdoba",
+    "division_type":"Province"
+  },
+  "Y":{
+    "division_name":"Jujuy",
+    "division_type":"Province"
+  },
+  "Z":{
+    "division_name":"Santa Cruz",
+    "division_type":"Province"
+  }
+}

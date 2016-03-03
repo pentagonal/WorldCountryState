@@ -1,0 +1,19 @@
+{
+  "country_code":"PM",
+  "country_name":"Saint Pierre and Miquelon",
+  "currency_code":"EUR",
+  "fips_code":"SB",
+  "iso_numeric":"666",
+  "north":"47.146286",
+  "south":"46.786041",
+  "east":"-56.252991",
+  "west":"-56.420658",
+  "capital":"Saint-Pierre",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"SPM",
+  "geoname_id":"3424932",
+  "languages":[
+    "fr-PM"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "AK":{
+    "division_name":"Aakk\u00e2r",
+    "division_type":"Governorate"
+  },
+  "AS":{
+    "division_name":"Liban-Nord",
+    "division_type":"Governorate"
+  },
+  "BA":{
+    "division_name":"Beyrouth",
+    "division_type":"Governorate"
+  },
+  "BH":{
+    "division_name":"Baalbek-Hermel",
+    "division_type":"Governorate"
+  },
+  "BI":{
+    "division_name":"El B\u00e9qaa",
+    "division_type":"Governorate"
+  },
+  "JA":{
+    "division_name":"Liban-Sud",
+    "division_type":"Governorate"
+  },
+  "JL":{
+    "division_name":"Mont-Liban",
+    "division_type":"Governorate"
+  },
+  "NA":{
+    "division_name":"Nabat\u00eey\u00e9",
+    "division_type":"Governorate"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "country_code":"SN",
+  "country_name":"Senegal",
+  "currency_code":"XOF",
+  "fips_code":"SG",
+  "iso_numeric":"686",
+  "north":"16.691633",
+  "south":"12.307275",
+  "east":"-11.355887",
+  "west":"-17.535236",
+  "capital":"Dakar",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SEN",
+  "geoname_id":"2245662",
+  "languages":[
+    "fr-SN",
+    "wo",
+    "fuc",
+    "mnk"
+  ]
+}

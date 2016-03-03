@@ -1,0 +1,21 @@
+{
+  "country_code":"BG",
+  "country_name":"Bulgaria",
+  "currency_code":"BGN",
+  "fips_code":"BU",
+  "iso_numeric":"100",
+  "north":"44.21764",
+  "south":"41.242084",
+  "east":"28.612167",
+  "west":"22.371166",
+  "capital":"Sofia",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"BGR",
+  "geoname_id":"732800",
+  "languages":[
+    "bg",
+    "tr-BG",
+    "rom"
+  ]
+}

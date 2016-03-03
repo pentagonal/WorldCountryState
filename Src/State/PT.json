@@ -1,0 +1,82 @@
+{
+  "01":{
+    "division_name":"Aveiro",
+    "division_type":"District"
+  },
+  "02":{
+    "division_name":"Beja",
+    "division_type":"District"
+  },
+  "03":{
+    "division_name":"Braga",
+    "division_type":"District"
+  },
+  "04":{
+    "division_name":"Bragan\u00e7a",
+    "division_type":"District"
+  },
+  "05":{
+    "division_name":"Castelo Branco",
+    "division_type":"District"
+  },
+  "06":{
+    "division_name":"Coimbra",
+    "division_type":"District"
+  },
+  "07":{
+    "division_name":"\u00c9vora",
+    "division_type":"District"
+  },
+  "08":{
+    "division_name":"Faro",
+    "division_type":"District"
+  },
+  "09":{
+    "division_name":"Guarda",
+    "division_type":"District"
+  },
+  "10":{
+    "division_name":"Leiria",
+    "division_type":"District"
+  },
+  "11":{
+    "division_name":"Lisboa",
+    "division_type":"District"
+  },
+  "12":{
+    "division_name":"Portalegre",
+    "division_type":"District"
+  },
+  "13":{
+    "division_name":"Porto",
+    "division_type":"District"
+  },
+  "14":{
+    "division_name":"Santar\u00e9m",
+    "division_type":"District"
+  },
+  "15":{
+    "division_name":"Set\u00fabal",
+    "division_type":"District"
+  },
+  "16":{
+    "division_name":"Viana do Castelo",
+    "division_type":"District"
+  },
+  "17":{
+    "division_name":"Vila Real",
+    "division_type":"District"
+  },
+  "18":{
+    "division_name":"Viseu",
+    "division_type":"District"
+  },
+  "20":{
+    "division_name":"Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "division_type":"Autonomous region"
+  },
+  "30":{
+    "division_name":"Regi\u00e3o Aut\u00f3noma da Madeira",
+    "division_type":"Autonomous region"
+  }
+}

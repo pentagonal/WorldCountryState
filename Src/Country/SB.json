@@ -1,0 +1,62 @@
+{
+  "country_code":"SB",
+  "country_name":"Solomon Islands",
+  "currency_code":"SBD",
+  "fips_code":"BP",
+  "iso_numeric":"090",
+  "north":"-6.589611",
+  "south":"-11.850555",
+  "east":"166.980865",
+  "west":"155.508606",
+  "capital":"Honiara",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"SLB",
+  "geoname_id":"2103350",
+  "languages":[
+    "en-SB",
+    "tpi"
+  ],
+  "subdivision":{
+    "CE":{
+      "division_name":"Central",
+      "division_type":"Province"
+    },
+    "CH":{
+      "division_name":"Choiseul",
+      "division_type":"Province"
+    },
+    "CT":{
+      "division_name":"Capital Territory (Honiara)",
+      "division_type":"Capital territory"
+    },
+    "GU":{
+      "division_name":"Guadalcanal",
+      "division_type":"Province"
+    },
+    "IS":{
+      "division_name":"Isabel",
+      "division_type":"Province"
+    },
+    "MK":{
+      "division_name":"Makira-Ulawa",
+      "division_type":"Province"
+    },
+    "ML":{
+      "division_name":"Malaita",
+      "division_type":"Province"
+    },
+    "RB":{
+      "division_name":"Rennell and Bellona",
+      "division_type":"Province"
+    },
+    "TE":{
+      "division_name":"Temotu",
+      "division_type":"Province"
+    },
+    "WE":{
+      "division_name":"Western",
+      "division_type":"Province"
+    }
+  }
+}

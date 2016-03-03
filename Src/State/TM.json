@@ -1,0 +1,26 @@
+{
+  "A":{
+    "division_name":"Ahal",
+    "division_type":"Region"
+  },
+  "B":{
+    "division_name":"Balkan",
+    "division_type":"Region"
+  },
+  "D":{
+    "division_name":"Dasoguz",
+    "division_type":"Region"
+  },
+  "L":{
+    "division_name":"Lebap",
+    "division_type":"Region"
+  },
+  "M":{
+    "division_name":"Mary",
+    "division_type":"Region"
+  },
+  "S":{
+    "division_name":"Asgabat",
+    "division_type":"City"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "country_code":"SK",
+  "country_name":"Slovakia",
+  "currency_code":"EUR",
+  "fips_code":"LO",
+  "iso_numeric":"703",
+  "north":"49.603168",
+  "south":"47.728111",
+  "east":"22.570444",
+  "west":"16.84775",
+  "capital":"Bratislava",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"SVK",
+  "geoname_id":"3057568",
+  "languages":[
+    "sk",
+    "hu"
+  ]
+}

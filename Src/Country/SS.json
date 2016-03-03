@@ -1,0 +1,61 @@
+{
+  "country_code":"SS",
+  "country_name":"South Sudan",
+  "currency_code":"SSP",
+  "fips_code":"OD",
+  "iso_numeric":"728",
+  "north":"12.219148635864258",
+  "south":"3.493394374847412",
+  "east":"35.9405517578125",
+  "west":"24.140274047851562",
+  "capital":"Juba",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SSD",
+  "geoname_id":"7909807",
+  "languages":[
+    "en"
+  ],
+  "subdivision":{
+    "BN":{
+      "division_name":"Northern Bahr el Ghazal",
+      "division_type":"State"
+    },
+    "BW":{
+      "division_name":"Western Bahr el Ghazal",
+      "division_type":"State"
+    },
+    "EC":{
+      "division_name":"Central Equatoria",
+      "division_type":"State"
+    },
+    "EE":{
+      "division_name":"Eastern Equatoria",
+      "division_type":"State"
+    },
+    "EW":{
+      "division_name":"Western Equatoria",
+      "division_type":"State"
+    },
+    "JG":{
+      "division_name":"Jonglei",
+      "division_type":"State"
+    },
+    "LK":{
+      "division_name":"Lakes",
+      "division_type":"State"
+    },
+    "NU":{
+      "division_name":"Upper Nile",
+      "division_type":"State"
+    },
+    "UY":{
+      "division_name":"Unity",
+      "division_type":"State"
+    },
+    "WR":{
+      "division_name":"Warrap",
+      "division_type":"State"
+    }
+  }
+}

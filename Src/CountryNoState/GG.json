@@ -1,0 +1,20 @@
+{
+  "country_code":"GG",
+  "country_name":"Guernsey",
+  "currency_code":"GBP",
+  "fips_code":"GK",
+  "iso_numeric":"831",
+  "north":"49.731727816705416",
+  "south":"49.40764156876899",
+  "east":"-2.1577152112246267",
+  "west":"-2.673194593476069",
+  "capital":"St Peter Port",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"GGY",
+  "geoname_id":"3042362",
+  "languages":[
+    "en",
+    "fr"
+  ]
+}

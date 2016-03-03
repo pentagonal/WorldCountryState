@@ -1,0 +1,19 @@
+{
+  "country_code":"AI",
+  "country_name":"Anguilla",
+  "currency_code":"XCD",
+  "fips_code":"AV",
+  "iso_numeric":"660",
+  "north":"18.283424",
+  "south":"18.166815",
+  "east":"-62.971359",
+  "west":"-63.172901",
+  "capital":"The Valley",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"AIA",
+  "geoname_id":"3573511",
+  "languages":[
+    "en-AI"
+  ]
+}

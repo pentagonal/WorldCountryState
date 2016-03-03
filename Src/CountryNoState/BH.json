@@ -1,0 +1,22 @@
+{
+  "country_code":"BH",
+  "country_name":"Bahrain",
+  "currency_code":"BHD",
+  "fips_code":"BA",
+  "iso_numeric":"048",
+  "north":"26.282583",
+  "south":"25.796862",
+  "east":"50.664471",
+  "west":"50.45414",
+  "capital":"Manama",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"BHR",
+  "geoname_id":"290291",
+  "languages":[
+    "ar-BH",
+    "en",
+    "fa",
+    "ur"
+  ]
+}

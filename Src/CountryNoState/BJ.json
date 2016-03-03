@@ -1,0 +1,19 @@
+{
+  "country_code":"BJ",
+  "country_name":"Benin",
+  "currency_code":"XOF",
+  "fips_code":"BN",
+  "iso_numeric":"204",
+  "north":"12.418347",
+  "south":"6.225748",
+  "east":"3.851701",
+  "west":"0.774575",
+  "capital":"Porto-Novo",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"BEN",
+  "geoname_id":"2395170",
+  "languages":[
+    "fr-BJ"
+  ]
+}

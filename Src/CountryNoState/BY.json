@@ -1,0 +1,20 @@
+{
+  "country_code":"BY",
+  "country_name":"Belarus",
+  "currency_code":"BYR",
+  "fips_code":"BO",
+  "iso_numeric":"112",
+  "north":"56.165806",
+  "south":"51.256416",
+  "east":"32.770805",
+  "west":"23.176889",
+  "capital":"Minsk",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"BLR",
+  "geoname_id":"630336",
+  "languages":[
+    "be",
+    "ru"
+  ]
+}

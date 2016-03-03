@@ -1,0 +1,20 @@
+{
+  "country_code":"SI",
+  "country_name":"Slovenia",
+  "currency_code":"EUR",
+  "fips_code":"SI",
+  "iso_numeric":"705",
+  "north":"46.8766275518195",
+  "south":"45.421812998164",
+  "east":"16.6106311807",
+  "west":"13.3753342064709",
+  "capital":"Ljubljana",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"SVN",
+  "geoname_id":"3190538",
+  "languages":[
+    "sl",
+    "sh"
+  ]
+}

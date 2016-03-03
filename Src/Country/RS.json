@@ -1,0 +1,152 @@
+{
+  "country_code":"RS",
+  "country_name":"Serbia",
+  "currency_code":"RSD",
+  "fips_code":"RI",
+  "iso_numeric":"688",
+  "north":"46.18138885498047",
+  "south":"42.232215881347656",
+  "east":"23.00499725341797",
+  "west":"18.817020416259766",
+  "capital":"Belgrade",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"SRB",
+  "geoname_id":"6290252",
+  "languages":[
+    "sr",
+    "hu",
+    "bs",
+    "rom"
+  ],
+  "subdivision":{
+    "00":{
+      "division_name":"Beograd",
+      "division_type":"City"
+    },
+    "01":{
+      "division_name":"Severnobacki okrug",
+      "division_type":"District"
+    },
+    "02":{
+      "division_name":"Srednjebanatski okrug",
+      "division_type":"District"
+    },
+    "03":{
+      "division_name":"Severnobanatski okrug",
+      "division_type":"District"
+    },
+    "04":{
+      "division_name":"Ju\u017enobanatski okrug",
+      "division_type":"District"
+    },
+    "05":{
+      "division_name":"Zapadnobacki okrug",
+      "division_type":"District"
+    },
+    "06":{
+      "division_name":"Ju\u017enobacki okrug",
+      "division_type":"District"
+    },
+    "07":{
+      "division_name":"Sremski okrug",
+      "division_type":"District"
+    },
+    "08":{
+      "division_name":"Macvanski okrug",
+      "division_type":"District"
+    },
+    "09":{
+      "division_name":"Kolubarski okrug",
+      "division_type":"District"
+    },
+    "10":{
+      "division_name":"Podunavski okrug",
+      "division_type":"District"
+    },
+    "11":{
+      "division_name":"Branicevski okrug",
+      "division_type":"District"
+    },
+    "12":{
+      "division_name":"\u0160umadijski okrug",
+      "division_type":"District"
+    },
+    "13":{
+      "division_name":"Pomoravski okrug",
+      "division_type":"District"
+    },
+    "14":{
+      "division_name":"Borski okrug",
+      "division_type":"District"
+    },
+    "15":{
+      "division_name":"Zajecarski okrug",
+      "division_type":"District"
+    },
+    "16":{
+      "division_name":"Zlatiborski okrug",
+      "division_type":"District"
+    },
+    "17":{
+      "division_name":"Moravicki okrug",
+      "division_type":"District"
+    },
+    "18":{
+      "division_name":"Ra\u0161ki okrug",
+      "division_type":"District"
+    },
+    "19":{
+      "division_name":"Rasinski okrug",
+      "division_type":"District"
+    },
+    "20":{
+      "division_name":"Ni\u0161avski okrug",
+      "division_type":"District"
+    },
+    "21":{
+      "division_name":"Toplicki okrug",
+      "division_type":"District"
+    },
+    "22":{
+      "division_name":"Pirotski okrug",
+      "division_type":"District"
+    },
+    "23":{
+      "division_name":"Jablanicki okrug",
+      "division_type":"District"
+    },
+    "24":{
+      "division_name":"Pcinjski okrug",
+      "division_type":"District"
+    },
+    "25":{
+      "division_name":"Kosovski okrug",
+      "division_type":"District"
+    },
+    "26":{
+      "division_name":"Pecki okrug",
+      "division_type":"District"
+    },
+    "27":{
+      "division_name":"Prizrenski okrug",
+      "division_type":"District"
+    },
+    "28":{
+      "division_name":"Kosovsko-Mitrovacki okrug",
+      "division_type":"District"
+    },
+    "29":{
+      "division_name":"Kosovsko-Pomoravski okrug",
+      "division_type":"District"
+    },
+    "KM":{
+      "division_name":"Kosovo-Metohija",
+      "division_type":"Autonomous province"
+    },
+    "VO":{
+      "division_name":"Vojvodina",
+      "division_type":"Autonomous province"
+    }
+  }
+}

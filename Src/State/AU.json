@@ -1,0 +1,34 @@
+{
+  "ACT":{
+    "division_name":"Australian Capital Territory",
+    "division_type":"Territory"
+  },
+  "NSW":{
+    "division_name":"New South Wales",
+    "division_type":"State"
+  },
+  "NT":{
+    "division_name":"Northern Territory",
+    "division_type":"Territory"
+  },
+  "QLD":{
+    "division_name":"Queensland",
+    "division_type":"State"
+  },
+  "SA":{
+    "division_name":"South Australia",
+    "division_type":"State"
+  },
+  "TAS":{
+    "division_name":"Tasmania",
+    "division_type":"State"
+  },
+  "VIC":{
+    "division_name":"Victoria",
+    "division_type":"State"
+  },
+  "WA":{
+    "division_name":"Western Australia",
+    "division_type":"State"
+  }
+}

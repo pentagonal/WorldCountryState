@@ -1,0 +1,64 @@
+{
+  "country_code":"GH",
+  "country_name":"Ghana",
+  "currency_code":"GHS",
+  "fips_code":"GH",
+  "iso_numeric":"288",
+  "north":"11.173301",
+  "south":"4.736723",
+  "east":"1.191781",
+  "west":"-3.25542",
+  "capital":"Accra",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"GHA",
+  "geoname_id":"2300660",
+  "languages":[
+    "en-GH",
+    "ak",
+    "ee",
+    "tw"
+  ],
+  "subdivision":{
+    "AA":{
+      "division_name":"Greater Accra",
+      "division_type":"Region"
+    },
+    "AH":{
+      "division_name":"Ashanti",
+      "division_type":"Region"
+    },
+    "BA":{
+      "division_name":"Brong-Ahafo",
+      "division_type":"Region"
+    },
+    "CP":{
+      "division_name":"Central",
+      "division_type":"Region"
+    },
+    "EP":{
+      "division_name":"Eastern",
+      "division_type":"Region"
+    },
+    "NP":{
+      "division_name":"Northern",
+      "division_type":"Region"
+    },
+    "TV":{
+      "division_name":"Volta",
+      "division_type":"Region"
+    },
+    "UE":{
+      "division_name":"Upper East",
+      "division_type":"Region"
+    },
+    "UW":{
+      "division_name":"Upper West",
+      "division_type":"Region"
+    },
+    "WP":{
+      "division_name":"Western",
+      "division_type":"Region"
+    }
+  }
+}

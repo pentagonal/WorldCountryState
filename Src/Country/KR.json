@@ -1,0 +1,90 @@
+{
+  "country_code":"KR",
+  "country_name":"South Korea",
+  "currency_code":"KRW",
+  "fips_code":"KS",
+  "iso_numeric":"410",
+  "north":"38.612446",
+  "south":"33.190945",
+  "east":"129.584671",
+  "west":"125.887108",
+  "capital":"Seoul",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"KOR",
+  "geoname_id":"1835841",
+  "languages":[
+    "ko-KR",
+    "en"
+  ],
+  "subdivision":{
+    "11":{
+      "division_name":"Seoul-teukbyeolsi [Seoul]",
+      "division_type":"Special city"
+    },
+    "26":{
+      "division_name":"Busan Gwang'yeogsi [Pusan-Kwangyokshi]",
+      "division_type":"Metropolitan city"
+    },
+    "27":{
+      "division_name":"Daegu Gwang'yeogsi [Taegu-Kwangyokshi]",
+      "division_type":"Metropolitan city"
+    },
+    "28":{
+      "division_name":"Incheon Gwang'yeogsi [Incheon]",
+      "division_type":"Metropolitan city"
+    },
+    "29":{
+      "division_name":"Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]",
+      "division_type":"Metropolitan city"
+    },
+    "30":{
+      "division_name":"Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]",
+      "division_type":"Metropolitan city"
+    },
+    "31":{
+      "division_name":"Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]",
+      "division_type":"Metropolitan city"
+    },
+    "41":{
+      "division_name":"Gyeonggido [Kyonggi-do]",
+      "division_type":"Province"
+    },
+    "42":{
+      "division_name":"Gang'weondo [Kang-won-do]",
+      "division_type":"Province"
+    },
+    "43":{
+      "division_name":"Chungcheongbugdo [Ch'ungch'ongbuk-do]",
+      "division_type":"Province"
+    },
+    "44":{
+      "division_name":"Chungcheongnamdo [Ch'ungch'ongnam-do]",
+      "division_type":"Province"
+    },
+    "45":{
+      "division_name":"Jeonrabugdo [Chollabuk-do]",
+      "division_type":"Province"
+    },
+    "46":{
+      "division_name":"Jeonranamdo [Chollanam-do]",
+      "division_type":"Province"
+    },
+    "47":{
+      "division_name":"Gyeongsangbugdo [Kyongsangbuk-do]",
+      "division_type":"Province"
+    },
+    "48":{
+      "division_name":"Gyeongsangnamdo [Kyongsangnam-do]",
+      "division_type":"Province"
+    },
+    "49":{
+      "division_name":"Jeju-teukbyeoljachido [Jeju]",
+      "division_type":"Special self-governing province"
+    },
+    "50":{
+      "division_name":"Sejong",
+      "division_type":"Special self-governing city"
+    }
+  }
+}

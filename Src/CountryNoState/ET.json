@@ -1,0 +1,24 @@
+{
+  "country_code":"ET",
+  "country_name":"Ethiopia",
+  "currency_code":"ETB",
+  "fips_code":"ET",
+  "iso_numeric":"231",
+  "north":"14.89375",
+  "south":"3.402422",
+  "east":"47.986179",
+  "west":"32.999939",
+  "capital":"Addis Ababa",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ETH",
+  "geoname_id":"337996",
+  "languages":[
+    "am",
+    "en-ET",
+    "om-ET",
+    "ti-ET",
+    "so-ET",
+    "sid"
+  ]
+}

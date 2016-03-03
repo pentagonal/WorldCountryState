@@ -1,0 +1,21 @@
+{
+  "country_code":"TD",
+  "country_name":"Chad",
+  "currency_code":"XAF",
+  "fips_code":"CD",
+  "iso_numeric":"148",
+  "north":"23.450369",
+  "south":"7.441068",
+  "east":"24.002661",
+  "west":"13.473475",
+  "capital":"N'Djamena",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"TCD",
+  "geoname_id":"2434508",
+  "languages":[
+    "fr-TD",
+    "ar-TD",
+    "sre"
+  ]
+}

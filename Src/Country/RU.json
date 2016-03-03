@@ -1,0 +1,376 @@
+{
+  "country_code":"RU",
+  "country_name":"Russia",
+  "currency_code":"RUB",
+  "fips_code":"RS",
+  "iso_numeric":"643",
+  "north":"81.857361",
+  "south":"41.188862",
+  "east":"-169.05",
+  "west":"19.25",
+  "capital":"Moscow",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"RUS",
+  "geoname_id":"2017370",
+  "languages":[
+    "ru",
+    "tt",
+    "xal",
+    "cau",
+    "ady",
+    "kv",
+    "ce",
+    "tyv",
+    "cv",
+    "udm",
+    "tut",
+    "mns",
+    "bua",
+    "myv",
+    "mdf",
+    "chm",
+    "ba",
+    "inh",
+    "tut",
+    "kbd",
+    "krc",
+    "ava",
+    "sah",
+    "nog"
+  ],
+  "subdivision":{
+    "AD":{
+      "division_name":"Adygeya,\"Respublika",
+      "division_type":"Republic"
+    },
+    "AL":{
+      "division_name":"Altay,\"Respublika",
+      "division_type":"Republic"
+    },
+    "ALT":{
+      "division_name":"Altayskiy kray",
+      "division_type":"Administrative territory"
+    },
+    "AMU":{
+      "division_name":"Amurskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "ARK":{
+      "division_name":"Arkhangel'skaya oblast,",
+      "division_type":"Administrative region"
+    },
+    "AST":{
+      "division_name":"Astrakhanskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "BA":{
+      "division_name":"Bashkortostan,\"Respublika",
+      "division_type":"Republic"
+    },
+    "BEL":{
+      "division_name":"Belgorodskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "BRY":{
+      "division_name":"Bryanskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "BU":{
+      "division_name":"Buryatiya,\"Respublika",
+      "division_type":"Republic"
+    },
+    "CE":{
+      "division_name":"Chechenskaya Respublika",
+      "division_type":"Republic"
+    },
+    "CHE":{
+      "division_name":"Chelyabinskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "CHU":{
+      "division_name":"Chukotskiy avtonomnyy okrug",
+      "division_type":"Autonomous district"
+    },
+    "CU":{
+      "division_name":"Chuvashskaya Respublika",
+      "division_type":"Republic"
+    },
+    "DA":{
+      "division_name":"Dagestan,\"Respublika",
+      "division_type":"Republic"
+    },
+    "IN":{
+      "division_name":"Ingushskaya Respublika [Respublika Ingushetiya]",
+      "division_type":"Republic"
+    },
+    "IRK":{
+      "division_name":"Irkutskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "IVA":{
+      "division_name":"Ivanovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "KAM":{
+      "division_name":"Kamchatskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "KB":{
+      "division_name":"Kabardino-Balkarskaya Respublika",
+      "division_type":"Republic"
+    },
+    "KC":{
+      "division_name":"Karachayevo-Cherkesskaya Respublika",
+      "division_type":"Republic"
+    },
+    "KDA":{
+      "division_name":"Krasnodarskiy kray",
+      "division_type":"Administrative territory"
+    },
+    "KEM":{
+      "division_name":"Kemerovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "KGD":{
+      "division_name":"Kaliningradskaya oblast,",
+      "division_type":"Administrative region"
+    },
+    "KGN":{
+      "division_name":"Kurganskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "KHA":{
+      "division_name":"Khabarovskiy kray",
+      "division_type":"Administrative territory"
+    },
+    "KHM":{
+      "division_name":"Khanty-Mansiyskiy avtonomnyy okrug",
+      "division_type":"Autonomous district"
+    },
+    "KIR":{
+      "division_name":"Kirovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "KK":{
+      "division_name":"Khakasiya,\"Respublika",
+      "division_type":"Republic"
+    },
+    "KL":{
+      "division_name":"Kalmykiya,\"Respublika",
+      "division_type":"Republic"
+    },
+    "KLU":{
+      "division_name":"Kaluzhskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "KO":{
+      "division_name":"Komi,\"Respublika",
+      "division_type":"Republic"
+    },
+    "KOS":{
+      "division_name":"Kostromskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "KR":{
+      "division_name":"Kareliya,\"Respublika",
+      "division_type":"Republic"
+    },
+    "KRS":{
+      "division_name":"Kurskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "KYA":{
+      "division_name":"Krasnoyarskiy kray",
+      "division_type":"Administrative territory"
+    },
+    "LEN":{
+      "division_name":"Leningradskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "LIP":{
+      "division_name":"Lipetskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "MAG":{
+      "division_name":"Magadanskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "ME":{
+      "division_name":"Mariy El,\"Respublika",
+      "division_type":"Republic"
+    },
+    "MO":{
+      "division_name":"Mordoviya,\"Respublika",
+      "division_type":"Republic"
+    },
+    "MOS":{
+      "division_name":"Moskovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "MOW":{
+      "division_name":"Moskva",
+      "division_type":"Autonomous city"
+    },
+    "MUR":{
+      "division_name":"Murmanskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "NEN":{
+      "division_name":"Nenetskiy avtonomnyy okrug",
+      "division_type":"Autonomous district"
+    },
+    "NGR":{
+      "division_name":"Novgorodskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "NIZ":{
+      "division_name":"Nizhegorodskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "NVS":{
+      "division_name":"Novosibirskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "OMS":{
+      "division_name":"Omskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "ORE":{
+      "division_name":"Orenburgskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "ORL":{
+      "division_name":"Orlovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "PER":{
+      "division_name":"Perm",
+      "division_type":"Administrative territory"
+    },
+    "PNZ":{
+      "division_name":"Penzenskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "PRI":{
+      "division_name":"Primorskiy kray",
+      "division_type":"Administrative territory"
+    },
+    "PSK":{
+      "division_name":"Pskovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "ROS":{
+      "division_name":"Rostovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "RYA":{
+      "division_name":"Ryazanskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "SA":{
+      "division_name":"Sakha,\"Respublika [Yakutiya]",
+      "division_type":"Republic"
+    },
+    "SAK":{
+      "division_name":"Sakhalinskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "SAM":{
+      "division_name":"Samarskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "SAR":{
+      "division_name":"Saratovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "SE":{
+      "division_name":"Severnaya Osetiya,\"Respublika Alaniya] [Respublika Severnaya Osetiya-Alaniya]",
+      "division_type":"Republic"
+    },
+    "SMO":{
+      "division_name":"Smolenskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "SPE":{
+      "division_name":"Sankt-Peterburg",
+      "division_type":"Autonomous city"
+    },
+    "STA":{
+      "division_name":"Stavropol'skiy kray",
+      "division_type":"Administrative territory"
+    },
+    "SVE":{
+      "division_name":"Sverdlovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "TA":{
+      "division_name":"Tatarstan,\"Respublika",
+      "division_type":"Republic"
+    },
+    "TAM":{
+      "division_name":"Tambovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "TOM":{
+      "division_name":"Tomskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "TUL":{
+      "division_name":"Tul'skaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "TVE":{
+      "division_name":"Tverskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "TY":{
+      "division_name":"Tyva,\"Respublika [Tuva]",
+      "division_type":"Republic"
+    },
+    "TYU":{
+      "division_name":"Tyumenskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "UD":{
+      "division_name":"Udmurtskaya Respublika",
+      "division_type":"Republic"
+    },
+    "ULY":{
+      "division_name":"Ul'yanovskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "VGG":{
+      "division_name":"Volgogradskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "VLA":{
+      "division_name":"Vladimirskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "VLG":{
+      "division_name":"Vologodskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "VOR":{
+      "division_name":"Voronezhskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "YAN":{
+      "division_name":"Yamalo-Nenetskiy avtonomnyy okrug",
+      "division_type":"Autonomous district"
+    },
+    "YAR":{
+      "division_name":"Yaroslavskaya oblast'",
+      "division_type":"Administrative region"
+    },
+    "YEV":{
+      "division_name":"Yevreyskaya avtonomnaya oblast'",
+      "division_type":"Autonomous region"
+    },
+    "ZAB":{
+      "division_name":"Zabaykal'skiy kray",
+      "division_type":"Administrative territory"
+    }
+  }
+}

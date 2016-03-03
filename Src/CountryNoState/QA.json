@@ -1,0 +1,20 @@
+{
+  "country_code":"QA",
+  "country_name":"Qatar",
+  "currency_code":"QAR",
+  "fips_code":"QA",
+  "iso_numeric":"634",
+  "north":"26.154722",
+  "south":"24.482944",
+  "east":"51.636639",
+  "west":"50.757221",
+  "capital":"Doha",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"QAT",
+  "geoname_id":"289688",
+  "languages":[
+    "ar-QA",
+    "es"
+  ]
+}

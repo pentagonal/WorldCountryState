@@ -1,0 +1,58 @@
+{
+  "DI":{
+    "division_name":"Dimashq",
+    "division_type":"Province"
+  },
+  "DR":{
+    "division_name":"Dar'a",
+    "division_type":"Province"
+  },
+  "DY":{
+    "division_name":"Dayr az Zawr",
+    "division_type":"Province"
+  },
+  "HA":{
+    "division_name":"AI Hasakah",
+    "division_type":"Province"
+  },
+  "HI":{
+    "division_name":"Hims",
+    "division_type":"Province"
+  },
+  "HL":{
+    "division_name":"Halab",
+    "division_type":"Province"
+  },
+  "HM":{
+    "division_name":"Hamah",
+    "division_type":"Province"
+  },
+  "ID":{
+    "division_name":"Idlib",
+    "division_type":"Province"
+  },
+  "LA":{
+    "division_name":"AI Ladhiqiyah",
+    "division_type":"Province"
+  },
+  "Qu":{
+    "division_name":"AI Qunaytirah",
+    "division_type":"Province"
+  },
+  "RA":{
+    "division_name":"Ar Raqqah",
+    "division_type":"Province"
+  },
+  "RD":{
+    "division_name":"Rif Dimashq",
+    "division_type":"Province"
+  },
+  "SU":{
+    "division_name":"As Suwayda'",
+    "division_type":"Province"
+  },
+  "TA":{
+    "division_name":"Tartus",
+    "division_type":"Province"
+  }
+}

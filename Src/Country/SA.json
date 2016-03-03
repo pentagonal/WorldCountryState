@@ -1,0 +1,73 @@
+{
+  "country_code":"SA",
+  "country_name":"Saudi Arabia",
+  "currency_code":"SAR",
+  "fips_code":"SA",
+  "iso_numeric":"682",
+  "north":"32.158333",
+  "south":"15.61425",
+  "east":"55.666584",
+  "west":"34.495693",
+  "capital":"Riyadh",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"SAU",
+  "geoname_id":"102358",
+  "languages":[
+    "ar-SA"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Ar Riyad",
+      "division_type":"Province"
+    },
+    "02":{
+      "division_name":"Makkah al Mukarramah",
+      "division_type":"Province"
+    },
+    "03":{
+      "division_name":"Al Madinah al Munawwarah",
+      "division_type":"Province"
+    },
+    "04":{
+      "division_name":"Ash Sharqiyah",
+      "division_type":"Province"
+    },
+    "05":{
+      "division_name":"AI Qasim",
+      "division_type":"Province"
+    },
+    "06":{
+      "division_name":"Ha'il",
+      "division_type":"Province"
+    },
+    "07":{
+      "division_name":"Tabuk",
+      "division_type":"Province"
+    },
+    "08":{
+      "division_name":"AI Hudud ash Shamaliyah",
+      "division_type":"Province"
+    },
+    "09":{
+      "division_name":"Jazan",
+      "division_type":"Province"
+    },
+    "10":{
+      "division_name":"Najran",
+      "division_type":"Province"
+    },
+    "11":{
+      "division_name":"AI Bahah",
+      "division_type":"Province"
+    },
+    "12":{
+      "division_name":"AI Jawf",
+      "division_type":"Province"
+    },
+    "14":{
+      "division_name":"'Asir",
+      "division_type":"Province"
+    }
+  }
+}

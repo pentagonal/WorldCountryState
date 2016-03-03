@@ -1,0 +1,26 @@
+{
+  "01":{
+    "division_name":"Lefkosia",
+    "division_type":"District"
+  },
+  "02":{
+    "division_name":"Lemesos",
+    "division_type":"District"
+  },
+  "03":{
+    "division_name":"Larnaka",
+    "division_type":"District"
+  },
+  "04":{
+    "division_name":"Ammochostos",
+    "division_type":"District"
+  },
+  "05":{
+    "division_name":"Pafos",
+    "division_type":"District"
+  },
+  "06":{
+    "division_name":"Keryneia",
+    "division_type":"District"
+  }
+}

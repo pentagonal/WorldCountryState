@@ -1,0 +1,19 @@
+{
+  "country_code":"IO",
+  "country_name":"British Indian Ocean Territory",
+  "currency_code":"USD",
+  "fips_code":"IO",
+  "iso_numeric":"086",
+  "north":"-5.268333",
+  "south":"-7.438028",
+  "east":"72.493164",
+  "west":"71.259972",
+  "capital":"",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"IOT",
+  "geoname_id":"1282588",
+  "languages":[
+    "en-IO"
+  ]
+}

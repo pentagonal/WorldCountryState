@@ -1,0 +1,20 @@
+{
+  "country_code":"CZ",
+  "country_name":"Czech Republic",
+  "currency_code":"CZK",
+  "fips_code":"EZ",
+  "iso_numeric":"203",
+  "north":"51.058887",
+  "south":"48.542915",
+  "east":"18.860111",
+  "west":"12.096194",
+  "capital":"Prague",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"CZE",
+  "geoname_id":"3077311",
+  "languages":[
+    "cs",
+    "sk"
+  ]
+}

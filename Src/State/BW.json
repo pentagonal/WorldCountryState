@@ -1,0 +1,66 @@
+{
+  "CE":{
+    "division_name":"Central",
+    "division_type":"District"
+  },
+  "CH":{
+    "division_name":"Chobe",
+    "division_type":"District"
+  },
+  "FR":{
+    "division_name":"Francistown",
+    "division_type":"City"
+  },
+  "GA":{
+    "division_name":"Gaborone",
+    "division_type":"City"
+  },
+  "GH":{
+    "division_name":"Ghanzi",
+    "division_type":"District"
+  },
+  "JW":{
+    "division_name":"Jwaneng",
+    "division_type":"Town"
+  },
+  "KG":{
+    "division_name":"Kgalagadi",
+    "division_type":"District"
+  },
+  "KL":{
+    "division_name":"Kgatleng",
+    "division_type":"District"
+  },
+  "KW":{
+    "division_name":"Kweneng",
+    "division_type":"District"
+  },
+  "LO":{
+    "division_name":"Lobatse",
+    "division_type":"Town"
+  },
+  "NE":{
+    "division_name":"North East",
+    "division_type":"District"
+  },
+  "NW":{
+    "division_name":"North West",
+    "division_type":"District"
+  },
+  "SE":{
+    "division_name":"South East",
+    "division_type":"District"
+  },
+  "SO":{
+    "division_name":"Southern",
+    "division_type":"District"
+  },
+  "SP":{
+    "division_name":"Selibe Phikwe",
+    "division_type":"Town"
+  },
+  "ST":{
+    "division_name":"Sowa Town",
+    "division_type":"Town"
+  }
+}

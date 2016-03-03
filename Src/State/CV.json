@@ -1,0 +1,90 @@
+{
+  "BR":{
+    "division_name":"Brava",
+    "division_type":"Municipality"
+  },
+  "BV":{
+    "division_name":"Boa Vista",
+    "division_type":"Municipality"
+  },
+  "CA":{
+    "division_name":"Santa Catarina",
+    "division_type":"Municipality"
+  },
+  "CF":{
+    "division_name":"Santa Catarina do Fogo",
+    "division_type":"Municipality"
+  },
+  "CR":{
+    "division_name":"Santa Cruz",
+    "division_type":"Municipality"
+  },
+  "MA":{
+    "division_name":"Maio",
+    "division_type":"Municipality"
+  },
+  "MO":{
+    "division_name":"Mosteiros",
+    "division_type":"Municipality"
+  },
+  "PA":{
+    "division_name":"Paul",
+    "division_type":"Municipality"
+  },
+  "PN":{
+    "division_name":"Porto Novo",
+    "division_type":"Municipality"
+  },
+  "PR":{
+    "division_name":"Praia",
+    "division_type":"Municipality"
+  },
+  "RB":{
+    "division_name":"Ribeira Brava",
+    "division_type":"Municipality"
+  },
+  "RG":{
+    "division_name":"Ribeira Grande",
+    "division_type":"Municipality"
+  },
+  "RS":{
+    "division_name":"Ribeira Grande de Santiago",
+    "division_type":"Municipality"
+  },
+  "SD":{
+    "division_name":"S\u00e3o Domingos",
+    "division_type":"Municipality"
+  },
+  "SF":{
+    "division_name":"S\u00e3o Filipe",
+    "division_type":"Municipality"
+  },
+  "SL":{
+    "division_name":"Sal",
+    "division_type":"Municipality"
+  },
+  "SM":{
+    "division_name":"S\u00e3o Miguel",
+    "division_type":"Municipality"
+  },
+  "SO":{
+    "division_name":"S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+    "division_type":"Municipality"
+  },
+  "SS":{
+    "division_name":"S\u00e3o Salvador do Mundo",
+    "division_type":"Municipality"
+  },
+  "SV":{
+    "division_name":"S\u00e3o Vicente",
+    "division_type":"Municipality"
+  },
+  "TA":{
+    "division_name":"Tarrafal",
+    "division_type":"Municipality"
+  },
+  "TS":{
+    "division_name":"Tarrafal de S\u00e3o Nicolau",
+    "division_type":"Municipality"
+  }
+}

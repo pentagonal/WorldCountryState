@@ -1,0 +1,19 @@
+{
+  "country_code":"BS",
+  "country_name":"Bahamas",
+  "currency_code":"BSD",
+  "fips_code":"BF",
+  "iso_numeric":"044",
+  "north":"26.919243",
+  "south":"22.852743",
+  "east":"-74.423874",
+  "west":"-78.995911",
+  "capital":"Nassau",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"BHS",
+  "geoname_id":"3572887",
+  "languages":[
+    "en-BS"
+  ]
+}

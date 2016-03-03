@@ -1,0 +1,61 @@
+{
+  "country_code":"LC",
+  "country_name":"Saint Lucia",
+  "currency_code":"XCD",
+  "fips_code":"ST",
+  "iso_numeric":"662",
+  "north":"14.103245",
+  "south":"13.704778",
+  "east":"-60.874203",
+  "west":"-61.07415",
+  "capital":"Castries",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"LCA",
+  "geoname_id":"3576468",
+  "languages":[
+    "en-LC"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Anse la Raye",
+      "division_type":"District"
+    },
+    "02":{
+      "division_name":"Castries",
+      "division_type":"District"
+    },
+    "03":{
+      "division_name":"Choiseul",
+      "division_type":"District"
+    },
+    "05":{
+      "division_name":"Dennery",
+      "division_type":"District"
+    },
+    "06":{
+      "division_name":"Gros Islet",
+      "division_type":"District"
+    },
+    "07":{
+      "division_name":"Laborie",
+      "division_type":"District"
+    },
+    "08":{
+      "division_name":"Micoud",
+      "division_type":"District"
+    },
+    "10":{
+      "division_name":"Soufri\u00e8re",
+      "division_type":"District"
+    },
+    "11":{
+      "division_name":"Vieux Fort",
+      "division_type":"District"
+    },
+    "12":{
+      "division_name":"Canaries",
+      "division_type":"District"
+    }
+  }
+}

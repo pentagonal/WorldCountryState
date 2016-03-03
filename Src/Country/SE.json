@@ -1,0 +1,108 @@
+{
+  "country_code":"SE",
+  "country_name":"Sweden",
+  "currency_code":"SEK",
+  "fips_code":"SW",
+  "iso_numeric":"752",
+  "north":"69.0625",
+  "south":"55.337112",
+  "east":"24.1562924839185",
+  "west":"11.118694",
+  "capital":"Stockholm",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"SWE",
+  "geoname_id":"2661886",
+  "languages":[
+    "sv-SE",
+    "se",
+    "sma",
+    "fi-SE"
+  ],
+  "subdivision":{
+    "AB":{
+      "division_name":"Stockholms l\u00e4n",
+      "division_type":"County"
+    },
+    "AC":{
+      "division_name":"V\u00e4sterbottens l\u00e4n",
+      "division_type":"County"
+    },
+    "BD":{
+      "division_name":"Norrbottens l\u00e4n",
+      "division_type":"County"
+    },
+    "C":{
+      "division_name":"Uppsala l\u00e4n",
+      "division_type":"County"
+    },
+    "D":{
+      "division_name":"S\u00f6dermanlands l\u00e4n",
+      "division_type":"County"
+    },
+    "E":{
+      "division_name":"\u00d6sterg\u00f6tlands l\u00e4n",
+      "division_type":"County"
+    },
+    "F":{
+      "division_name":"J\u00f6nk\u00f6pings l\u00e4n",
+      "division_type":"County"
+    },
+    "G":{
+      "division_name":"Kronoborgs l\u00e4n",
+      "division_type":"County"
+    },
+    "H":{
+      "division_name":"Kalmar l\u00e4n",
+      "division_type":"County"
+    },
+    "I":{
+      "division_name":"Gotlands l\u00e4n",
+      "division_type":"County"
+    },
+    "K":{
+      "division_name":"Blekinge l\u00e4n",
+      "division_type":"County"
+    },
+    "M":{
+      "division_name":"Sk\u00e5ne l\u00e4n",
+      "division_type":"County"
+    },
+    "N":{
+      "division_name":"Hallands l\u00e4n",
+      "division_type":"County"
+    },
+    "O":{
+      "division_name":"V\u00e4stra G\u00f6talands l\u00e4n",
+      "division_type":"County"
+    },
+    "S":{
+      "division_name":"V\u00e4rmlands l\u00e4n",
+      "division_type":"County"
+    },
+    "T":{
+      "division_name":"\u00d6rebro l\u00e4n",
+      "division_type":"County"
+    },
+    "U":{
+      "division_name":"V\u00e4stmanlands l\u00e4n",
+      "division_type":"County"
+    },
+    "W":{
+      "division_name":"Dalarnes l\u00e4n",
+      "division_type":"County"
+    },
+    "X":{
+      "division_name":"G\u00e4vleborgs l\u00e4n",
+      "division_type":"County"
+    },
+    "Y":{
+      "division_name":"V\u00e4sternorrlands l\u00e4n",
+      "division_type":"County"
+    },
+    "Z":{
+      "division_name":"J\u00e4mtlands l\u00e4n",
+      "division_type":"County"
+    }
+  }
+}

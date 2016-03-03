@@ -1,0 +1,26 @@
+{
+  "D":{
+    "division_name":"HaDarom",
+    "division_type":"District"
+  },
+  "HA":{
+    "division_name":"H_efa",
+    "division_type":"District"
+  },
+  "JM":{
+    "division_name":"Yerushalayim",
+    "division_type":"District"
+  },
+  "M":{
+    "division_name":"HaMerkaz",
+    "division_type":"District"
+  },
+  "TA":{
+    "division_name":"Tel-Aviv",
+    "division_type":"District"
+  },
+  "Z":{
+    "division_name":"HaTsafon",
+    "division_type":"District"
+  }
+}

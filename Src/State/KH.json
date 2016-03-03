@@ -1,0 +1,98 @@
+{
+  "1":{
+    "division_name":"Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+    "division_type":"Province"
+  },
+  "10":{
+    "division_name":"Kracheh [Kr\u00e2ch\u00e9h]",
+    "division_type":"Province"
+  },
+  "11":{
+    "division_name":"Mondol Kiri [M\u00f4nd\u00f3l Kiri]",
+    "division_type":"Province"
+  },
+  "12":{
+    "division_name":"Phnom Penh [Phnum P\u00e9nh]",
+    "division_type":"Autonomous municipality"
+  },
+  "13":{
+    "division_name":"Preah Vihear [Preah Vih\u00e9ar]",
+    "division_type":"Province"
+  },
+  "14":{
+    "division_name":"Prey Veaeng [Prey V\u00eang]",
+    "division_type":"Province"
+  },
+  "15":{
+    "division_name":"Pousaat [Pouthisat]",
+    "division_type":"Province"
+  },
+  "16":{
+    "division_name":"Rotanak Kiri [R\u00f4t\u00e2n\u00f4kiri]",
+    "division_type":"Province"
+  },
+  "17":{
+    "division_name":"Siem Reab [Siemr\u00e9ab]",
+    "division_type":"Province"
+  },
+  "18":{
+    "division_name":"Krong Preah Sihanouk [Krong Preah Sihanouk]",
+    "division_type":"Autonomous municipality"
+  },
+  "19":{
+    "division_name":"Stueng Traeng [Stoeng Tr\u00eang]",
+    "division_type":"Province"
+  },
+  "2":{
+    "division_name":"Baat Dambang [Batd\u00e2mb\u00e2ng]",
+    "division_type":"Province"
+  },
+  "20":{
+    "division_name":"Svaay Rieng [Svay Rieng]",
+    "division_type":"Province"
+  },
+  "21":{
+    "division_name":"Taakaev [Tak\u00eav]",
+    "division_type":"Province"
+  },
+  "22":{
+    "division_name":"Otdar Mean Chey [Otd\u00e2r M\u00e9anchey]",
+    "division_type":"Province"
+  },
+  "23":{
+    "division_name":"Krong Kaeb [Krong K\u00eab]",
+    "division_type":"Autonomous municipality"
+  },
+  "24":{
+    "division_name":"Krong Pailin [Krong Pailin]",
+    "division_type":"Autonomous municipality"
+  },
+  "3":{
+    "division_name":"Kampong Chaam [K\u00e2mp\u00f3ng Cham]",
+    "division_type":"Province"
+  },
+  "4":{
+    "division_name":"Kampong Chhnang [K\u00e2mp\u00f3ng Chhnang]",
+    "division_type":"Province"
+  },
+  "5":{
+    "division_name":"Kampong Spueu [K\u00e2mp\u00f3ng Sp\u0153]",
+    "division_type":"Province"
+  },
+  "6":{
+    "division_name":"Kampong Thum [K\u00e2mp\u00f3ng Thum]",
+    "division_type":"Province"
+  },
+  "7":{
+    "division_name":"Kampot [K\u00e2mp\u00f4t]",
+    "division_type":"Province"
+  },
+  "8":{
+    "division_name":"Kandaal [K\u00e2ndal]",
+    "division_type":"Province"
+  },
+  "9":{
+    "division_name":"Kaoh Kong [Ka\u00f4h Kong]",
+    "division_type":"Province"
+  }
+}

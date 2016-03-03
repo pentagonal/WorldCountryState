@@ -1,0 +1,38 @@
+{
+  "1":{
+    "division_name":"Burgenland",
+    "division_type":"federal L\u00e4nder"
+  },
+  "2":{
+    "division_name":"K\u00e4rnten",
+    "division_type":"federal L\u00e4nder"
+  },
+  "3":{
+    "division_name":"Nieder\u00f6sterreich",
+    "division_type":"federal L\u00e4nder"
+  },
+  "4":{
+    "division_name":"Ober\u00f6sterreich",
+    "division_type":"federal L\u00e4nder"
+  },
+  "5":{
+    "division_name":"Salzburg",
+    "division_type":"federal L\u00e4nder"
+  },
+  "6":{
+    "division_name":"Steiermark",
+    "division_type":"federal L\u00e4nder"
+  },
+  "7":{
+    "division_name":"Tirol",
+    "division_type":"federal L\u00e4nder"
+  },
+  "8":{
+    "division_name":"Vorarlberg",
+    "division_type":"federal L\u00e4nder"
+  },
+  "9":{
+    "division_name":"Wien",
+    "division_type":"federal L\u00e4nder"
+  }
+}

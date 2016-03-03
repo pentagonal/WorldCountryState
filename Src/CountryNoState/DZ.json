@@ -1,0 +1,19 @@
+{
+  "country_code":"DZ",
+  "country_name":"Algeria",
+  "currency_code":"DZD",
+  "fips_code":"AG",
+  "iso_numeric":"012",
+  "north":"37.093723",
+  "south":"18.960028",
+  "east":"11.979548",
+  "west":"-8.673868",
+  "capital":"Algiers",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"DZA",
+  "geoname_id":"2589581",
+  "languages":[
+    "ar-DZ"
+  ]
+}

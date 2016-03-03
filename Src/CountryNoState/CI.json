@@ -1,0 +1,19 @@
+{
+  "country_code":"CI",
+  "country_name":"Ivory Coast",
+  "currency_code":"XOF",
+  "fips_code":"IV",
+  "iso_numeric":"384",
+  "north":"10.736642",
+  "south":"4.357067",
+  "east":"-2.494897",
+  "west":"-8.599302",
+  "capital":"Yamoussoukro",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"CIV",
+  "geoname_id":"2287781",
+  "languages":[
+    "fr-CI"
+  ]
+}

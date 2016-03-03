@@ -1,0 +1,20 @@
+{
+  "country_code":"CW",
+  "country_name":"Curacao",
+  "currency_code":"ANG",
+  "fips_code":"UC",
+  "iso_numeric":"531",
+  "north":"12.385672",
+  "south":"12.032745",
+  "east":"-68.733948",
+  "west":"-69.157204",
+  "capital":"Willemstad",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"CUW",
+  "geoname_id":"7626836",
+  "languages":[
+    "nl",
+    "pap"
+  ]
+}

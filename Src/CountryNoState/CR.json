@@ -1,0 +1,20 @@
+{
+  "country_code":"CR",
+  "country_name":"Costa Rica",
+  "currency_code":"CRC",
+  "fips_code":"CS",
+  "iso_numeric":"188",
+  "north":"11.216819",
+  "south":"8.032975",
+  "east":"-82.555992",
+  "west":"-85.950623",
+  "capital":"San Jos\u00e9",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"CRI",
+  "geoname_id":"3624060",
+  "languages":[
+    "es-CR",
+    "en"
+  ]
+}

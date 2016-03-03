@@ -1,0 +1,22 @@
+{
+  "country_code":"GE",
+  "country_name":"Georgia",
+  "currency_code":"GEL",
+  "fips_code":"GG",
+  "iso_numeric":"268",
+  "north":"43.586498",
+  "south":"41.053196",
+  "east":"46.725971",
+  "west":"40.010139",
+  "capital":"Tbilisi",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"GEO",
+  "geoname_id":"614540",
+  "languages":[
+    "ka",
+    "ru",
+    "hy",
+    "az"
+  ]
+}

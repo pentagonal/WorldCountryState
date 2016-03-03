@@ -1,0 +1,25 @@
+{
+  "country_code":"FR",
+  "country_name":"France",
+  "currency_code":"EUR",
+  "fips_code":"FR",
+  "iso_numeric":"250",
+  "north":"51.092804",
+  "south":"41.371582",
+  "east":"9.561556",
+  "west":"-5.142222",
+  "capital":"Paris",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"FRA",
+  "geoname_id":"3017382",
+  "languages":[
+    "fr-FR",
+    "frp",
+    "br",
+    "co",
+    "ca",
+    "eu",
+    "oc"
+  ]
+}

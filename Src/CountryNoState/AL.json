@@ -1,0 +1,20 @@
+{
+  "country_code":"AL",
+  "country_name":"Albania",
+  "currency_code":"ALL",
+  "fips_code":"AL",
+  "iso_numeric":"008",
+  "north":"42.665611",
+  "south":"39.648361",
+  "east":"21.068472",
+  "west":"19.293972",
+  "capital":"Tirana",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"ALB",
+  "geoname_id":"783754",
+  "languages":[
+    "sq",
+    "el"
+  ]
+}

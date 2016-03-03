@@ -1,0 +1,386 @@
+{
+  "01":{
+    "division_name":"Ain",
+    "division_type":"Metropolitan department"
+  },
+  "02":{
+    "division_name":"Aisne",
+    "division_type":"Metropolitan department"
+  },
+  "03":{
+    "division_name":"Allier",
+    "division_type":"Metropolitan department"
+  },
+  "04":{
+    "division_name":"Alpes-de-Haute-Provence",
+    "division_type":"Metropolitan department"
+  },
+  "05":{
+    "division_name":"Hautes-Alpes",
+    "division_type":"Metropolitan department"
+  },
+  "06":{
+    "division_name":"Alpes-Maritimes",
+    "division_type":"Metropolitan department"
+  },
+  "07":{
+    "division_name":"Ard\u00e8che",
+    "division_type":"Metropolitan department"
+  },
+  "08":{
+    "division_name":"Ardennes",
+    "division_type":"Metropolitan department"
+  },
+  "09":{
+    "division_name":"Ari\u00e8ge",
+    "division_type":"Metropolitan department"
+  },
+  "10":{
+    "division_name":"Aube",
+    "division_type":"Metropolitan department"
+  },
+  "11":{
+    "division_name":"Aude",
+    "division_type":"Metropolitan department"
+  },
+  "12":{
+    "division_name":"Aveyron",
+    "division_type":"Metropolitan department"
+  },
+  "13":{
+    "division_name":"Bouches-du-Rh\u00f4ne",
+    "division_type":"Metropolitan department"
+  },
+  "14":{
+    "division_name":"Calvados",
+    "division_type":"Metropolitan department"
+  },
+  "15":{
+    "division_name":"Cantal",
+    "division_type":"Metropolitan department"
+  },
+  "16":{
+    "division_name":"Charente",
+    "division_type":"Metropolitan department"
+  },
+  "17":{
+    "division_name":"Charente-Maritime",
+    "division_type":"Metropolitan department"
+  },
+  "18":{
+    "division_name":"Cher",
+    "division_type":"Metropolitan department"
+  },
+  "19":{
+    "division_name":"Corr\u00e8ze",
+    "division_type":"Metropolitan department"
+  },
+  "21":{
+    "division_name":"C\u00f4te-d'Or",
+    "division_type":"Metropolitan department"
+  },
+  "22":{
+    "division_name":"C\u00f4tes-d'Armor",
+    "division_type":"Metropolitan department"
+  },
+  "23":{
+    "division_name":"Creuse",
+    "division_type":"Metropolitan department"
+  },
+  "24":{
+    "division_name":"Dordogne",
+    "division_type":"Metropolitan department"
+  },
+  "25":{
+    "division_name":"Doubs",
+    "division_type":"Metropolitan department"
+  },
+  "26":{
+    "division_name":"Dr\u00f4me",
+    "division_type":"Metropolitan department"
+  },
+  "27":{
+    "division_name":"Eure",
+    "division_type":"Metropolitan department"
+  },
+  "28":{
+    "division_name":"Eure-et-Loir",
+    "division_type":"Metropolitan department"
+  },
+  "29":{
+    "division_name":"Finist\u00e8re",
+    "division_type":"Metropolitan department"
+  },
+  "2A":{
+    "division_name":"Corse-du-Sud",
+    "division_type":"Metropolitan department"
+  },
+  "2B":{
+    "division_name":"Haute-Corse",
+    "division_type":"Metropolitan department"
+  },
+  "30":{
+    "division_name":"Gard",
+    "division_type":"Metropolitan department"
+  },
+  "31":{
+    "division_name":"Haute-Garonne",
+    "division_type":"Metropolitan department"
+  },
+  "32":{
+    "division_name":"Gers",
+    "division_type":"Metropolitan department"
+  },
+  "33":{
+    "division_name":"Gironde",
+    "division_type":"Metropolitan department"
+  },
+  "34":{
+    "division_name":"H\u00e9rault",
+    "division_type":"Metropolitan department"
+  },
+  "35":{
+    "division_name":"Ille-et-Vilaine",
+    "division_type":"Metropolitan department"
+  },
+  "36":{
+    "division_name":"Indre",
+    "division_type":"Metropolitan department"
+  },
+  "37":{
+    "division_name":"Indre-et-Loire",
+    "division_type":"Metropolitan department"
+  },
+  "38":{
+    "division_name":"Is\u00e8re",
+    "division_type":"Metropolitan department"
+  },
+  "39":{
+    "division_name":"Jura",
+    "division_type":"Metropolitan department"
+  },
+  "40":{
+    "division_name":"Landes",
+    "division_type":"Metropolitan department"
+  },
+  "41":{
+    "division_name":"Loir-et-Cher",
+    "division_type":"Metropolitan department"
+  },
+  "42":{
+    "division_name":"Loire",
+    "division_type":"Metropolitan department"
+  },
+  "43":{
+    "division_name":"Haute-Loire",
+    "division_type":"Metropolitan department"
+  },
+  "44":{
+    "division_name":"Loire-Atlantique",
+    "division_type":"Metropolitan department"
+  },
+  "45":{
+    "division_name":"Loiret",
+    "division_type":"Metropolitan department"
+  },
+  "46":{
+    "division_name":"Lot",
+    "division_type":"Metropolitan department"
+  },
+  "47":{
+    "division_name":"Lot-et-Garonne",
+    "division_type":"Metropolitan department"
+  },
+  "48":{
+    "division_name":"Loz\u00e8re",
+    "division_type":"Metropolitan department"
+  },
+  "49":{
+    "division_name":"Maine-et-Loire",
+    "division_type":"Metropolitan department"
+  },
+  "50":{
+    "division_name":"Manche",
+    "division_type":"Metropolitan department"
+  },
+  "51":{
+    "division_name":"Marne",
+    "division_type":"Metropolitan department"
+  },
+  "52":{
+    "division_name":"Haute-Marne",
+    "division_type":"Metropolitan department"
+  },
+  "53":{
+    "division_name":"Mayenne",
+    "division_type":"Metropolitan department"
+  },
+  "54":{
+    "division_name":"Meurthe-et-Moselle",
+    "division_type":"Metropolitan department"
+  },
+  "55":{
+    "division_name":"Meuse",
+    "division_type":"Metropolitan department"
+  },
+  "56":{
+    "division_name":"Morbihan",
+    "division_type":"Metropolitan department"
+  },
+  "57":{
+    "division_name":"Moselle",
+    "division_type":"Metropolitan department"
+  },
+  "58":{
+    "division_name":"Ni\u00e8vre",
+    "division_type":"Metropolitan department"
+  },
+  "59":{
+    "division_name":"Nord",
+    "division_type":"Metropolitan department"
+  },
+  "60":{
+    "division_name":"Oise",
+    "division_type":"Metropolitan department"
+  },
+  "61":{
+    "division_name":"Orne",
+    "division_type":"Metropolitan department"
+  },
+  "62":{
+    "division_name":"Pas-de-Calais",
+    "division_type":"Metropolitan department"
+  },
+  "63":{
+    "division_name":"Puy-de-D\u00f4me",
+    "division_type":"Metropolitan department"
+  },
+  "64":{
+    "division_name":"Pyr\u00e9n\u00e9es-Atlantiques",
+    "division_type":"Metropolitan department"
+  },
+  "65":{
+    "division_name":"Hautes-Pyr\u00e9n\u00e9es",
+    "division_type":"Metropolitan department"
+  },
+  "66":{
+    "division_name":"Pyr\u00e9n\u00e9es-Orientales",
+    "division_type":"Metropolitan department"
+  },
+  "67":{
+    "division_name":"Bas-Rhin",
+    "division_type":"Metropolitan department"
+  },
+  "68":{
+    "division_name":"Haut-Rhin",
+    "division_type":"Metropolitan department"
+  },
+  "69":{
+    "division_name":"Rh\u00f4ne",
+    "division_type":"Metropolitan department"
+  },
+  "70":{
+    "division_name":"Haute-Sa\u00f4ne",
+    "division_type":"Metropolitan department"
+  },
+  "71":{
+    "division_name":"Sa\u00f4ne-et-Loire",
+    "division_type":"Metropolitan department"
+  },
+  "72":{
+    "division_name":"Sarthe",
+    "division_type":"Metropolitan department"
+  },
+  "73":{
+    "division_name":"Savoie",
+    "division_type":"Metropolitan department"
+  },
+  "74":{
+    "division_name":"Haute-Savoie",
+    "division_type":"Metropolitan department"
+  },
+  "75":{
+    "division_name":"Paris",
+    "division_type":"Metropolitan department"
+  },
+  "76":{
+    "division_name":"Seine-Maritime",
+    "division_type":"Metropolitan department"
+  },
+  "77":{
+    "division_name":"Seine-et-Marne",
+    "division_type":"Metropolitan department"
+  },
+  "78":{
+    "division_name":"Yvelines",
+    "division_type":"Metropolitan department"
+  },
+  "79":{
+    "division_name":"Deux-S\u00e8vres",
+    "division_type":"Metropolitan department"
+  },
+  "80":{
+    "division_name":"Somme",
+    "division_type":"Metropolitan department"
+  },
+  "81":{
+    "division_name":"Tarn",
+    "division_type":"Metropolitan department"
+  },
+  "82":{
+    "division_name":"Tarn-et-Garonne",
+    "division_type":"Metropolitan department"
+  },
+  "83":{
+    "division_name":"Var",
+    "division_type":"Metropolitan department"
+  },
+  "84":{
+    "division_name":"Vaucluse",
+    "division_type":"Metropolitan department"
+  },
+  "85":{
+    "division_name":"Vend\u00e9e",
+    "division_type":"Metropolitan department"
+  },
+  "86":{
+    "division_name":"Vienne",
+    "division_type":"Metropolitan department"
+  },
+  "87":{
+    "division_name":"Haute-Vienne",
+    "division_type":"Metropolitan department"
+  },
+  "88":{
+    "division_name":"Vosges",
+    "division_type":"Metropolitan department"
+  },
+  "89":{
+    "division_name":"Yonne",
+    "division_type":"Metropolitan department"
+  },
+  "90":{
+    "division_name":"Territoire de Belfort",
+    "division_type":"Metropolitan department"
+  },
+  "91":{
+    "division_name":"Essonne",
+    "division_type":"Metropolitan department"
+  },
+  "92":{
+    "division_name":"Hauts-de-Seine",
+    "division_type":"Metropolitan department"
+  },
+  "93":{
+    "division_name":"Seine-Saint-Denis",
+    "division_type":"Metropolitan department"
+  },
+  "94":{
+    "division_name":"Val-de-Marne",
+    "division_type":"Metropolitan department"
+  },
+  "95":{
+    "division_name":"Val-d'Oise",
+    "division_type":"Metropolitan department"
+  }
+}

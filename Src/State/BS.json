@@ -1,0 +1,126 @@
+{
+  "AK":{
+    "division_name":"Acklins",
+    "division_type":"District"
+  },
+  "BI":{
+    "division_name":"Bimini",
+    "division_type":"District"
+  },
+  "BP":{
+    "division_name":"Black Point",
+    "division_type":"District"
+  },
+  "BY":{
+    "division_name":"Berry Islands",
+    "division_type":"District"
+  },
+  "CE":{
+    "division_name":"Central Eleuthera",
+    "division_type":"District"
+  },
+  "CI":{
+    "division_name":"Cat Island",
+    "division_type":"District"
+  },
+  "CK":{
+    "division_name":"Crooked Island and Long Cay",
+    "division_type":"District"
+  },
+  "CO":{
+    "division_name":"Central Abaco",
+    "division_type":"District"
+  },
+  "CS":{
+    "division_name":"Central Andros",
+    "division_type":"District"
+  },
+  "EG":{
+    "division_name":"East Grand Bahama",
+    "division_type":"District"
+  },
+  "EX":{
+    "division_name":"Exuma",
+    "division_type":"District"
+  },
+  "FP":{
+    "division_name":"City of Freeport",
+    "division_type":"District"
+  },
+  "GC":{
+    "division_name":"Grand Cay",
+    "division_type":"District"
+  },
+  "HI":{
+    "division_name":"Harbour Island",
+    "division_type":"District"
+  },
+  "HT":{
+    "division_name":"Hope Town",
+    "division_type":"District"
+  },
+  "IN":{
+    "division_name":"Inagua",
+    "division_type":"District"
+  },
+  "LI":{
+    "division_name":"Long Island",
+    "division_type":"District"
+  },
+  "MC":{
+    "division_name":"Mangrove Cay",
+    "division_type":"District"
+  },
+  "MG":{
+    "division_name":"Mayaguana",
+    "division_type":"District"
+  },
+  "MI":{
+    "division_name":"Moore's Island",
+    "division_type":"District"
+  },
+  "NE":{
+    "division_name":"North Eleuthera",
+    "division_type":"District"
+  },
+  "NO":{
+    "division_name":"North Abaco",
+    "division_type":"District"
+  },
+  "NS":{
+    "division_name":"North Andros",
+    "division_type":"District"
+  },
+  "RC":{
+    "division_name":"Rum Cay",
+    "division_type":"District"
+  },
+  "RI":{
+    "division_name":"Ragged Island",
+    "division_type":"District"
+  },
+  "SA":{
+    "division_name":"South Andros",
+    "division_type":"District"
+  },
+  "SE":{
+    "division_name":"South Eleuthera",
+    "division_type":"District"
+  },
+  "SO":{
+    "division_name":"South Abaco",
+    "division_type":"District"
+  },
+  "SS":{
+    "division_name":"San Salvador",
+    "division_type":"District"
+  },
+  "SW":{
+    "division_name":"Spanish Wells",
+    "division_type":"District"
+  },
+  "WG":{
+    "division_name":"West Grand Bahama",
+    "division_type":"District"
+  }
+}

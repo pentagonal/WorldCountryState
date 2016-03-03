@@ -1,0 +1,19 @@
+{
+  "country_code":"GD",
+  "country_name":"Grenada",
+  "currency_code":"XCD",
+  "fips_code":"GJ",
+  "iso_numeric":"308",
+  "north":"12.318283928171299",
+  "south":"11.986893",
+  "east":"-61.57676970108031",
+  "west":"-61.802344",
+  "capital":"St. George's",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"GRD",
+  "geoname_id":"3580239",
+  "languages":[
+    "en-GD"
+  ]
+}

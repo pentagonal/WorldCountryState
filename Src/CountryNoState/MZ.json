@@ -1,0 +1,20 @@
+{
+  "country_code":"MZ",
+  "country_name":"Mozambique",
+  "currency_code":"MZN",
+  "fips_code":"MZ",
+  "iso_numeric":"508",
+  "north":"-10.471883",
+  "south":"-26.868685",
+  "east":"40.842995",
+  "west":"30.217319",
+  "capital":"Maputo",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"MOZ",
+  "geoname_id":"1036973",
+  "languages":[
+    "pt-MZ",
+    "vmw"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "country_code":"JM",
+  "country_name":"Jamaica",
+  "currency_code":"JMD",
+  "fips_code":"JM",
+  "iso_numeric":"388",
+  "north":"18.526976",
+  "south":"17.703554",
+  "east":"-76.180321",
+  "west":"-78.366638",
+  "capital":"Kingston",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"JAM",
+  "geoname_id":"3489940",
+  "languages":[
+    "en-JM"
+  ]
+}

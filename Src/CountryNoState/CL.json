@@ -1,0 +1,19 @@
+{
+  "country_code":"CL",
+  "country_name":"Chile",
+  "currency_code":"CLP",
+  "fips_code":"CI",
+  "iso_numeric":"152",
+  "north":"-17.507553",
+  "south":"-55.9256225109217",
+  "east":"-66.417557",
+  "west":"-80.785851",
+  "capital":"Santiago",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"CHL",
+  "geoname_id":"3895114",
+  "languages":[
+    "es-CL"
+  ]
+}

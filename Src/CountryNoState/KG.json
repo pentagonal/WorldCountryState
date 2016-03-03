@@ -1,0 +1,21 @@
+{
+  "country_code":"KG",
+  "country_name":"Kyrgyzstan",
+  "currency_code":"KGS",
+  "fips_code":"KG",
+  "iso_numeric":"417",
+  "north":"43.238224",
+  "south":"39.172832",
+  "east":"80.283165",
+  "west":"69.276611",
+  "capital":"Bishkek",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"KGZ",
+  "geoname_id":"1527747",
+  "languages":[
+    "ky",
+    "uz",
+    "ru"
+  ]
+}

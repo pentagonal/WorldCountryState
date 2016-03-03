@@ -1,0 +1,62 @@
+{
+  "AI":{
+    "division_name":"Ays\u00e9n",
+    "division_type":"Region"
+  },
+  "AN":{
+    "division_name":"Antofagasta",
+    "division_type":"Region"
+  },
+  "AP":{
+    "division_name":"Arica y Parinacota",
+    "division_type":"Region"
+  },
+  "AR":{
+    "division_name":"Araucan\u00eda",
+    "division_type":"Region"
+  },
+  "AT":{
+    "division_name":"Atacama",
+    "division_type":"Region"
+  },
+  "BI":{
+    "division_name":"Biob\u00edo",
+    "division_type":"Region"
+  },
+  "CO":{
+    "division_name":"Coquimbo",
+    "division_type":"Region"
+  },
+  "LI":{
+    "division_name":"Libertador General Bernardo O'Higgins",
+    "division_type":"Region"
+  },
+  "LL":{
+    "division_name":"Los Lagos",
+    "division_type":"Region"
+  },
+  "LR":{
+    "division_name":"Los R\u00edos",
+    "division_type":"Region"
+  },
+  "MA":{
+    "division_name":"Magallanes",
+    "division_type":"Region"
+  },
+  "ML":{
+    "division_name":"Maule",
+    "division_type":"Region"
+  },
+  "RM":{
+    "division_name":"Regi\u00f3n Metropolitana de Santiago",
+    "division_type":"Region"
+  },
+  "TA":{
+    "division_name":"Tarapac\u00e1",
+    "division_type":"Region"
+  },
+  "VS":{
+    "division_name":"Valpara\u00edso",
+    "division_type":"Region"
+  }
+}

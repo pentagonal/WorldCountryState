@@ -1,0 +1,21 @@
+{
+  "country_code":"BA",
+  "country_name":"Bosnia and Herzegovina",
+  "currency_code":"BAM",
+  "fips_code":"BK",
+  "iso_numeric":"070",
+  "north":"45.239193",
+  "south":"42.546112",
+  "east":"19.622223",
+  "west":"15.718945",
+  "capital":"Sarajevo",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"BIH",
+  "geoname_id":"3277605",
+  "languages":[
+    "bs",
+    "hr-BA",
+    "sr-BA"
+  ]
+}

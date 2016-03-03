@@ -1,0 +1,19 @@
+{
+  "country_code":"PS",
+  "country_name":"Palestine",
+  "currency_code":"ILS",
+  "fips_code":"WE",
+  "iso_numeric":"275",
+  "north":"32.54638671875",
+  "south":"31.216541290283203",
+  "east":"35.5732955932617",
+  "west":"34.21665954589844",
+  "capital":"",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"PSE",
+  "geoname_id":"6254930",
+  "languages":[
+    "ar-PS"
+  ]
+}

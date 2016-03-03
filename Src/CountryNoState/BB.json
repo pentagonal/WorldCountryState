@@ -1,0 +1,19 @@
+{
+  "country_code":"BB",
+  "country_name":"Barbados",
+  "currency_code":"BBD",
+  "fips_code":"BB",
+  "iso_numeric":"052",
+  "north":"13.327257",
+  "south":"13.039844",
+  "east":"-59.420376",
+  "west":"-59.648922",
+  "capital":"Bridgetown",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"BRB",
+  "geoname_id":"3374084",
+  "languages":[
+    "en-BB"
+  ]
+}

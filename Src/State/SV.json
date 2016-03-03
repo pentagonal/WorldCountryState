@@ -1,0 +1,58 @@
+{
+  "AH":{
+    "division_name":"Ahuachap\u00e1n",
+    "division_type":"Department"
+  },
+  "CA":{
+    "division_name":"Caba\u00f1as",
+    "division_type":"Department"
+  },
+  "CH":{
+    "division_name":"Chalatenango",
+    "division_type":"Department"
+  },
+  "CU":{
+    "division_name":"Cuscatl\u00e1n",
+    "division_type":"Department"
+  },
+  "LI":{
+    "division_name":"La Libertad",
+    "division_type":"Department"
+  },
+  "MO":{
+    "division_name":"Moraz\u00e1n",
+    "division_type":"Department"
+  },
+  "PA":{
+    "division_name":"La Paz",
+    "division_type":"Department"
+  },
+  "SA":{
+    "division_name":"Santa Ana",
+    "division_type":"Department"
+  },
+  "SM":{
+    "division_name":"San Miguel",
+    "division_type":"Department"
+  },
+  "SO":{
+    "division_name":"Sonsonate",
+    "division_type":"Department"
+  },
+  "SS":{
+    "division_name":"San Salvador",
+    "division_type":"Department"
+  },
+  "SV":{
+    "division_name":"San Vicente",
+    "division_type":"Department"
+  },
+  "UN":{
+    "division_name":"La Uni\u00f3n",
+    "division_type":"Department"
+  },
+  "US":{
+    "division_name":"Usulut\u00e1n",
+    "division_type":"Department"
+  }
+}

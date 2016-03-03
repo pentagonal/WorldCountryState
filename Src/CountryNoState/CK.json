@@ -1,0 +1,20 @@
+{
+  "country_code":"CK",
+  "country_name":"Cook Islands",
+  "currency_code":"NZD",
+  "fips_code":"CW",
+  "iso_numeric":"184",
+  "north":"-10.023114",
+  "south":"-21.944164",
+  "east":"-157.312134",
+  "west":"-161.093658",
+  "capital":"Avarua",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"COK",
+  "geoname_id":"1899402",
+  "languages":[
+    "en-CK",
+    "mi"
+  ]
+}

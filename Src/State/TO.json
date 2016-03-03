@@ -1,0 +1,22 @@
+{
+  "01":{
+    "division_name":"'Eua",
+    "division_type":"Division"
+  },
+  "02":{
+    "division_name":"Ha'apai",
+    "division_type":"Division"
+  },
+  "03":{
+    "division_name":"Niuas",
+    "division_type":"Division"
+  },
+  "04":{
+    "division_name":"Tongatapu",
+    "division_type":"Division"
+  },
+  "05":{
+    "division_name":"Vava'u",
+    "division_type":"Division"
+  }
+}

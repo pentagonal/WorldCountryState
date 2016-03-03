@@ -1,0 +1,33 @@
+{
+  "country_code":"SH",
+  "country_name":"Saint Helena",
+  "currency_code":"SHP",
+  "fips_code":"SH",
+  "iso_numeric":"654",
+  "north":"-7.887815",
+  "south":"-16.019543",
+  "east":"-5.638753",
+  "west":"-14.42123",
+  "capital":"Jamestown",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SHN",
+  "geoname_id":"3370751",
+  "languages":[
+    "en-SH"
+  ],
+  "subdivision":{
+    "AC":{
+      "division_name":"Ascension",
+      "division_type":"Geographical entity"
+    },
+    "HL":{
+      "division_name":"Saint Helena",
+      "division_type":"Geographical entity"
+    },
+    "TA":{
+      "division_name":"Tristan da Cunha",
+      "division_type":"Geographical entity"
+    }
+  }
+}

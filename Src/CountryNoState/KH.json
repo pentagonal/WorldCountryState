@@ -1,0 +1,21 @@
+{
+  "country_code":"KH",
+  "country_name":"Cambodia",
+  "currency_code":"KHR",
+  "fips_code":"CB",
+  "iso_numeric":"116",
+  "north":"14.686417",
+  "south":"10.409083",
+  "east":"107.627724",
+  "west":"102.339996",
+  "capital":"Phnom Penh",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"KHM",
+  "geoname_id":"1831722",
+  "languages":[
+    "km",
+    "fr",
+    "en"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "country_code":"FJ",
+  "country_name":"Fiji",
+  "currency_code":"FJD",
+  "fips_code":"FJ",
+  "iso_numeric":"242",
+  "north":"-12.480111",
+  "south":"-20.67597",
+  "east":"-178.424438",
+  "west":"177.129334",
+  "capital":"Suva",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"FJI",
+  "geoname_id":"2205218",
+  "languages":[
+    "en-FJ",
+    "fj"
+  ]
+}

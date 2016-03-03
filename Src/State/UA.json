@@ -1,0 +1,110 @@
+{
+  "05":{
+    "division_name":"Vinnytska oblast",
+    "division_type":"Region"
+  },
+  "07":{
+    "division_name":"Volynska oblast",
+    "division_type":"Region"
+  },
+  "09":{
+    "division_name":"Luhanska oblast",
+    "division_type":"Region"
+  },
+  "12":{
+    "division_name":"Dnipropetrovska oblast",
+    "division_type":"Region"
+  },
+  "14":{
+    "division_name":"Donetska oblast",
+    "division_type":"Region"
+  },
+  "18":{
+    "division_name":"Zhytomyrska oblast",
+    "division_type":"Region"
+  },
+  "21":{
+    "division_name":"Zakarpatska oblast",
+    "division_type":"Region"
+  },
+  "23":{
+    "division_name":"Zaporizka oblast",
+    "division_type":"Region"
+  },
+  "26":{
+    "division_name":"Ivano-Frankivska oblast",
+    "division_type":"Region"
+  },
+  "30":{
+    "division_name":"Kyiv",
+    "division_type":"City"
+  },
+  "32":{
+    "division_name":"Kyivska oblast",
+    "division_type":"Region"
+  },
+  "35":{
+    "division_name":"Kirovohradska oblast",
+    "division_type":"Region"
+  },
+  "40":{
+    "division_name":"Sevastopol",
+    "division_type":"City"
+  },
+  "43":{
+    "division_name":"Avtonomna Respublika Krym",
+    "division_type":"Republic"
+  },
+  "46":{
+    "division_name":"Lvivska oblast",
+    "division_type":"Region"
+  },
+  "48":{
+    "division_name":"Mykolaivska oblast",
+    "division_type":"Region"
+  },
+  "51":{
+    "division_name":"Odeska oblast",
+    "division_type":"Region"
+  },
+  "53":{
+    "division_name":"Poltavska oblast",
+    "division_type":"Region"
+  },
+  "56":{
+    "division_name":"Rivnenska oblast",
+    "division_type":"Region"
+  },
+  "59":{
+    "division_name":"Sumska oblast",
+    "division_type":"Region"
+  },
+  "61":{
+    "division_name":"Ternopilska oblast",
+    "division_type":"Region"
+  },
+  "63":{
+    "division_name":"Kharkivska oblast",
+    "division_type":"Region"
+  },
+  "65":{
+    "division_name":"Khersonska oblast",
+    "division_type":"Region"
+  },
+  "68":{
+    "division_name":"Khmelnytska oblast",
+    "division_type":"Region"
+  },
+  "71":{
+    "division_name":"Cherkaska oblast",
+    "division_type":"Region"
+  },
+  "74":{
+    "division_name":"Chernihivska oblast",
+    "division_type":"Region"
+  },
+  "77":{
+    "division_name":"Chernivetska oblast",
+    "division_type":"Region"
+  }
+}

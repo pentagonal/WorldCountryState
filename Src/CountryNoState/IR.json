@@ -1,0 +1,20 @@
+{
+  "country_code":"IR",
+  "country_name":"Iran",
+  "currency_code":"IRR",
+  "fips_code":"IR",
+  "iso_numeric":"364",
+  "north":"39.777222",
+  "south":"25.064083",
+  "east":"63.317471",
+  "west":"44.047279",
+  "capital":"Tehran",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"IRN",
+  "geoname_id":"130758",
+  "languages":[
+    "fa-IR",
+    "ku"
+  ]
+}

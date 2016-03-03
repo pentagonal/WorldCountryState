@@ -1,0 +1,30 @@
+{
+  "AJ":{
+    "division_name":"'Ajman",
+    "division_type":"Emirate"
+  },
+  "AZ":{
+    "division_name":"Abu Z\u00b8aby [Abu Dhabi]",
+    "division_type":"Emirate"
+  },
+  "DU":{
+    "division_name":"Dubayy [Dubai]",
+    "division_type":"Emirate"
+  },
+  "FU":{
+    "division_name":"Al Fujayrah",
+    "division_type":"Emirate"
+  },
+  "RK":{
+    "division_name":"Ra\u2019s al Khaymah",
+    "division_type":"Emirate"
+  },
+  "SH":{
+    "division_name":"Ash Shariqah [Sharjah]",
+    "division_type":"Emirate"
+  },
+  "UQ":{
+    "division_name":"Umm al Qaywayn",
+    "division_type":"Emirate"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "country_code":"GR",
+  "country_name":"Greece",
+  "currency_code":"EUR",
+  "fips_code":"GR",
+  "iso_numeric":"300",
+  "north":"41.7484999849641",
+  "south":"34.8020663391466",
+  "east":"28.2470831714347",
+  "west":"19.3736035624134",
+  "capital":"Athens",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"GRC",
+  "geoname_id":"390903",
+  "languages":[
+    "el-GR",
+    "en",
+    "fr"
+  ]
+}

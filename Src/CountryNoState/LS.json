@@ -1,0 +1,22 @@
+{
+  "country_code":"LS",
+  "country_name":"Lesotho",
+  "currency_code":"LSL",
+  "fips_code":"LT",
+  "iso_numeric":"426",
+  "north":"-28.572058",
+  "south":"-30.668964",
+  "east":"29.465761",
+  "west":"27.029068",
+  "capital":"Maseru",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"LSO",
+  "geoname_id":"932692",
+  "languages":[
+    "en-LS",
+    "st",
+    "zu",
+    "xh"
+  ]
+}

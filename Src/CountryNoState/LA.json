@@ -1,0 +1,21 @@
+{
+  "country_code":"LA",
+  "country_name":"Laos",
+  "currency_code":"LAK",
+  "fips_code":"LA",
+  "iso_numeric":"418",
+  "north":"22.500389",
+  "south":"13.910027",
+  "east":"107.697029",
+  "west":"100.093056",
+  "capital":"Vientiane",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"LAO",
+  "geoname_id":"1655842",
+  "languages":[
+    "lo",
+    "fr",
+    "en"
+  ]
+}

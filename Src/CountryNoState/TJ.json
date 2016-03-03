@@ -1,0 +1,20 @@
+{
+  "country_code":"TJ",
+  "country_name":"Tajikistan",
+  "currency_code":"TJS",
+  "fips_code":"TI",
+  "iso_numeric":"762",
+  "north":"41.042252",
+  "south":"36.674137",
+  "east":"75.137222",
+  "west":"67.387138",
+  "capital":"Dushanbe",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"TJK",
+  "geoname_id":"1220409",
+  "languages":[
+    "tg",
+    "ru"
+  ]
+}

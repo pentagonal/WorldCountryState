@@ -1,0 +1,65 @@
+{
+  "country_code":"KP",
+  "country_name":"North Korea",
+  "currency_code":"KPW",
+  "fips_code":"KN",
+  "iso_numeric":"408",
+  "north":"43.006054",
+  "south":"37.673332",
+  "east":"130.674866",
+  "west":"124.315887",
+  "capital":"Pyongyang",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"PRK",
+  "geoname_id":"1873107",
+  "languages":[
+    "ko-KP"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Phyeongyang",
+      "division_type":"Capital City"
+    },
+    "02":{
+      "division_name":"Phyeongannamto",
+      "division_type":"Province"
+    },
+    "03":{
+      "division_name":"Phyeonganpukto",
+      "division_type":"Province"
+    },
+    "04":{
+      "division_name":"Jakangto",
+      "division_type":"Province"
+    },
+    "05":{
+      "division_name":"Hwanghainamto",
+      "division_type":"Province"
+    },
+    "06":{
+      "division_name":"Hwanghaipukto",
+      "division_type":"Province"
+    },
+    "07":{
+      "division_name":"Kangweonto",
+      "division_type":"Province"
+    },
+    "08":{
+      "division_name":"Hamkyeongnamto",
+      "division_type":"Province"
+    },
+    "09":{
+      "division_name":"Hamkyeongpukto",
+      "division_type":"Province"
+    },
+    "10":{
+      "division_name":"Yanggang-do",
+      "division_type":"Province"
+    },
+    "13":{
+      "division_name":"Nason",
+      "division_type":"Special City"
+    }
+  }
+}

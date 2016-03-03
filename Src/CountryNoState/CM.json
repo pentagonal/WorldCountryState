@@ -1,0 +1,20 @@
+{
+  "country_code":"CM",
+  "country_name":"Cameroon",
+  "currency_code":"XAF",
+  "fips_code":"CM",
+  "iso_numeric":"120",
+  "north":"13.078056",
+  "south":"1.652548",
+  "east":"16.192116",
+  "west":"8.494763",
+  "capital":"Yaound\u00e9",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"CMR",
+  "geoname_id":"2233387",
+  "languages":[
+    "en-CM",
+    "fr-CM"
+  ]
+}

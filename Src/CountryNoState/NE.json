@@ -1,0 +1,22 @@
+{
+  "country_code":"NE",
+  "country_name":"Niger",
+  "currency_code":"XOF",
+  "fips_code":"NG",
+  "iso_numeric":"562",
+  "north":"23.525026",
+  "south":"11.696975",
+  "east":"15.995643",
+  "west":"0.16625",
+  "capital":"Niamey",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"NER",
+  "geoname_id":"2440476",
+  "languages":[
+    "fr-NE",
+    "ha",
+    "kr",
+    "dje"
+  ]
+}

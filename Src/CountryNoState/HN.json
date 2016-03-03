@@ -1,0 +1,19 @@
+{
+  "country_code":"HN",
+  "country_name":"Honduras",
+  "currency_code":"HNL",
+  "fips_code":"HO",
+  "iso_numeric":"340",
+  "north":"16.510256",
+  "south":"12.982411",
+  "east":"-83.155403",
+  "west":"-89.350792",
+  "capital":"Tegucigalpa",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"HND",
+  "geoname_id":"3608932",
+  "languages":[
+    "es-HN"
+  ]
+}

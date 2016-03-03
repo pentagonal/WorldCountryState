@@ -1,0 +1,29 @@
+{
+  "country_code":"ZA",
+  "country_name":"South Africa",
+  "currency_code":"ZAR",
+  "fips_code":"SF",
+  "iso_numeric":"710",
+  "north":"-22.126612",
+  "south":"-34.839828",
+  "east":"32.895973",
+  "west":"16.458021",
+  "capital":"Pretoria",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ZAF",
+  "geoname_id":"953987",
+  "languages":[
+    "zu",
+    "xh",
+    "af",
+    "nso",
+    "en-ZA",
+    "tn",
+    "st",
+    "ts",
+    "ss",
+    "ve",
+    "nr"
+  ]
+}

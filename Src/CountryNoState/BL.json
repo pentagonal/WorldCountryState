@@ -1,0 +1,19 @@
+{
+  "country_code":"BL",
+  "country_name":"Saint Barth\u00e9lemy",
+  "currency_code":"EUR",
+  "fips_code":"TB",
+  "iso_numeric":"652",
+  "north":"17.928808791949283",
+  "south":"17.878183227405575",
+  "east":"-62.788983372985854",
+  "west":"-62.8739118253784",
+  "capital":"Gustavia",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"BLM",
+  "geoname_id":"3578476",
+  "languages":[
+    "fr"
+  ]
+}

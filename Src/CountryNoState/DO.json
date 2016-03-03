@@ -1,0 +1,19 @@
+{
+  "country_code":"DO",
+  "country_name":"Dominican Republic",
+  "currency_code":"DOP",
+  "fips_code":"DR",
+  "iso_numeric":"214",
+  "north":"19.929859",
+  "south":"17.543159",
+  "east":"-68.32",
+  "west":"-72.003487",
+  "capital":"Santo Domingo",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"DOM",
+  "geoname_id":"3508796",
+  "languages":[
+    "es-DO"
+  ]
+}

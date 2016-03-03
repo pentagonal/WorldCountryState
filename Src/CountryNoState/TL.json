@@ -1,0 +1,22 @@
+{
+  "country_code":"TL",
+  "country_name":"East Timor",
+  "currency_code":"USD",
+  "fips_code":"TT",
+  "iso_numeric":"626",
+  "north":"-8.135833740234375",
+  "south":"-9.463626861572266",
+  "east":"127.30859375",
+  "west":"124.04609680175781",
+  "capital":"Dili",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"TLS",
+  "geoname_id":"1966436",
+  "languages":[
+    "tet",
+    "pt-TL",
+    "id",
+    "en"
+  ]
+}

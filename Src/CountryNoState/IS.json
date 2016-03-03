@@ -1,0 +1,24 @@
+{
+  "country_code":"IS",
+  "country_name":"Iceland",
+  "currency_code":"ISK",
+  "fips_code":"IC",
+  "iso_numeric":"352",
+  "north":"66.53463",
+  "south":"63.393253",
+  "east":"-13.495815",
+  "west":"-24.546524",
+  "capital":"Reykjavik",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"ISL",
+  "geoname_id":"2629691",
+  "languages":[
+    "is",
+    "en",
+    "de",
+    "da",
+    "sv",
+    "no"
+  ]
+}

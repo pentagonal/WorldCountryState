@@ -1,0 +1,20 @@
+{
+  "country_code":"SB",
+  "country_name":"Solomon Islands",
+  "currency_code":"SBD",
+  "fips_code":"BP",
+  "iso_numeric":"090",
+  "north":"-6.589611",
+  "south":"-11.850555",
+  "east":"166.980865",
+  "west":"155.508606",
+  "capital":"Honiara",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"SLB",
+  "geoname_id":"2103350",
+  "languages":[
+    "en-SB",
+    "tpi"
+  ]
+}

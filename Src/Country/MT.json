@@ -1,0 +1,294 @@
+{
+  "country_code":"MT",
+  "country_name":"Malta",
+  "currency_code":"EUR",
+  "fips_code":"MT",
+  "iso_numeric":"470",
+  "north":"36.0821530995456",
+  "south":"35.8061835000002",
+  "east":"14.5764915000002",
+  "west":"14.1834251000001",
+  "capital":"Valletta",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"MLT",
+  "geoname_id":"2562770",
+  "languages":[
+    "mt",
+    "en-MT"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Attard",
+      "division_type":"Local council"
+    },
+    "02":{
+      "division_name":"Balzan",
+      "division_type":"Local council"
+    },
+    "03":{
+      "division_name":"Birgu",
+      "division_type":"Local council"
+    },
+    "04":{
+      "division_name":"Birkirkara",
+      "division_type":"Local council"
+    },
+    "05":{
+      "division_name":"Birzebbuga",
+      "division_type":"Local council"
+    },
+    "06":{
+      "division_name":"Bormla",
+      "division_type":"Local council"
+    },
+    "07":{
+      "division_name":"Dingli",
+      "division_type":"Local council"
+    },
+    "08":{
+      "division_name":"Fgura",
+      "division_type":"Local council"
+    },
+    "09":{
+      "division_name":"Floriana",
+      "division_type":"Local council"
+    },
+    "10":{
+      "division_name":"Fontana",
+      "division_type":"Local council"
+    },
+    "11":{
+      "division_name":"Gudja",
+      "division_type":"Local council"
+    },
+    "12":{
+      "division_name":"Gzira",
+      "division_type":"Local council"
+    },
+    "13":{
+      "division_name":"Ghajnsielem",
+      "division_type":"Local council"
+    },
+    "14":{
+      "division_name":"Gharb",
+      "division_type":"Local council"
+    },
+    "15":{
+      "division_name":"Gharghur",
+      "division_type":"Local council"
+    },
+    "16":{
+      "division_name":"Ghasri",
+      "division_type":"Local council"
+    },
+    "17":{
+      "division_name":"Ghaxaq",
+      "division_type":"Local council"
+    },
+    "18":{
+      "division_name":"Hamrun",
+      "division_type":"Local council"
+    },
+    "19":{
+      "division_name":"Iklin",
+      "division_type":"Local council"
+    },
+    "20":{
+      "division_name":"Isla",
+      "division_type":"Local council"
+    },
+    "21":{
+      "division_name":"Kalkara",
+      "division_type":"Local council"
+    },
+    "22":{
+      "division_name":"Kercem",
+      "division_type":"Local council"
+    },
+    "23":{
+      "division_name":"Kirkop",
+      "division_type":"Local council"
+    },
+    "24":{
+      "division_name":"Lija",
+      "division_type":"Local council"
+    },
+    "25":{
+      "division_name":"Luqa",
+      "division_type":"Local council"
+    },
+    "26":{
+      "division_name":"Marsa",
+      "division_type":"Local council"
+    },
+    "27":{
+      "division_name":"Marsaskala",
+      "division_type":"Local council"
+    },
+    "28":{
+      "division_name":"Marsaxlokk",
+      "division_type":"Local council"
+    },
+    "29":{
+      "division_name":"Mdina",
+      "division_type":"Local council"
+    },
+    "30":{
+      "division_name":"Mellieha",
+      "division_type":"Local council"
+    },
+    "31":{
+      "division_name":"Mgarr",
+      "division_type":"Local council"
+    },
+    "32":{
+      "division_name":"Mosta",
+      "division_type":"Local council"
+    },
+    "33":{
+      "division_name":"Mqabba",
+      "division_type":"Local council"
+    },
+    "34":{
+      "division_name":"Msida",
+      "division_type":"Local council"
+    },
+    "35":{
+      "division_name":"Mtarfa",
+      "division_type":"Local council"
+    },
+    "36":{
+      "division_name":"Munxar",
+      "division_type":"Local council"
+    },
+    "37":{
+      "division_name":"Nadur",
+      "division_type":"Local council"
+    },
+    "38":{
+      "division_name":"Naxxar",
+      "division_type":"Local council"
+    },
+    "39":{
+      "division_name":"Paola",
+      "division_type":"Local council"
+    },
+    "40":{
+      "division_name":"Pembroke",
+      "division_type":"Local council"
+    },
+    "41":{
+      "division_name":"Piet\u00e0",
+      "division_type":"Local council"
+    },
+    "42":{
+      "division_name":"Qala",
+      "division_type":"Local council"
+    },
+    "43":{
+      "division_name":"Qormi",
+      "division_type":"Local council"
+    },
+    "44":{
+      "division_name":"Qrendi",
+      "division_type":"Local council"
+    },
+    "45":{
+      "division_name":"Rabat Gozo",
+      "division_type":"Local council"
+    },
+    "46":{
+      "division_name":"Rabat Malta",
+      "division_type":"Local council"
+    },
+    "47":{
+      "division_name":"Safi",
+      "division_type":"Local council"
+    },
+    "48":{
+      "division_name":"Saint Julian's",
+      "division_type":"Local council"
+    },
+    "49":{
+      "division_name":"Saint John",
+      "division_type":"Local council"
+    },
+    "50":{
+      "division_name":"Saint Lawrence",
+      "division_type":"Local council"
+    },
+    "51":{
+      "division_name":"Saint Paul's Bay",
+      "division_type":"Local council"
+    },
+    "52":{
+      "division_name":"Sannat",
+      "division_type":"Local council"
+    },
+    "53":{
+      "division_name":"Saint Lucia's",
+      "division_type":"Local council"
+    },
+    "54":{
+      "division_name":"Santa Venera",
+      "division_type":"Local council"
+    },
+    "55":{
+      "division_name":"Siggiewi",
+      "division_type":"Local council"
+    },
+    "56":{
+      "division_name":"Sliema",
+      "division_type":"Local council"
+    },
+    "57":{
+      "division_name":"Swieqi",
+      "division_type":"Local council"
+    },
+    "58":{
+      "division_name":"Ta' Xbiex",
+      "division_type":"Local council"
+    },
+    "59":{
+      "division_name":"Tarxien",
+      "division_type":"Local council"
+    },
+    "60":{
+      "division_name":"Valletta",
+      "division_type":"Local council"
+    },
+    "61":{
+      "division_name":"Xaghra",
+      "division_type":"Local council"
+    },
+    "62":{
+      "division_name":"Xewkija",
+      "division_type":"Local council"
+    },
+    "63":{
+      "division_name":"Xghajra",
+      "division_type":"Local council"
+    },
+    "64":{
+      "division_name":"Zabbar",
+      "division_type":"Local council"
+    },
+    "65":{
+      "division_name":"Zebbug Gozo",
+      "division_type":"Local council"
+    },
+    "66":{
+      "division_name":"Zebbug Malta",
+      "division_type":"Local council"
+    },
+    "67":{
+      "division_name":"Zejtun",
+      "division_type":"Local council"
+    },
+    "68":{
+      "division_name":"Zurrieq",
+      "division_type":"Local council"
+    }
+  }
+}

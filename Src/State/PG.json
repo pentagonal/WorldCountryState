@@ -1,0 +1,90 @@
+{
+  "CPK":{
+    "division_name":"Chimbu",
+    "division_type":"Province"
+  },
+  "CPM":{
+    "division_name":"Central",
+    "division_type":"Province"
+  },
+  "EBR":{
+    "division_name":"East New Britain",
+    "division_type":"Province"
+  },
+  "EHG":{
+    "division_name":"Eastern Highlands",
+    "division_type":"Province"
+  },
+  "EPW":{
+    "division_name":"Enga",
+    "division_type":"Province"
+  },
+  "ESW":{
+    "division_name":"East Sepik",
+    "division_type":"Province"
+  },
+  "GPK":{
+    "division_name":"Gulf",
+    "division_type":"Province"
+  },
+  "HLA":{
+    "division_name":"Hela",
+    "division_type":"Province"
+  },
+  "JWK":{
+    "division_name":"Jiwaka",
+    "division_type":"Province"
+  },
+  "MBA":{
+    "division_name":"Milne Bay",
+    "division_type":"Province"
+  },
+  "MPL":{
+    "division_name":"Morobe",
+    "division_type":"Province"
+  },
+  "MPM":{
+    "division_name":"Madang",
+    "division_type":"Province"
+  },
+  "MRL":{
+    "division_name":"Manus",
+    "division_type":"Province"
+  },
+  "NCD":{
+    "division_name":"National Capital District (Port Moresby)",
+    "division_type":"District"
+  },
+  "NIK":{
+    "division_name":"New Ireland",
+    "division_type":"Province"
+  },
+  "NPP":{
+    "division_name":"Northern",
+    "division_type":"Province"
+  },
+  "NSB":{
+    "division_name":"Bougainville",
+    "division_type":"autonomous region"
+  },
+  "SAN":{
+    "division_name":"West Sepik",
+    "division_type":"Province"
+  },
+  "SHM":{
+    "division_name":"Southern Highlands",
+    "division_type":"Province"
+  },
+  "WBK":{
+    "division_name":"West New Britain",
+    "division_type":"Province"
+  },
+  "WHM":{
+    "division_name":"Western Highlands",
+    "division_type":"Province"
+  },
+  "WPD":{
+    "division_name":"Western",
+    "division_type":"Province"
+  }
+}

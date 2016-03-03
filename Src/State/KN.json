@@ -1,0 +1,58 @@
+{
+  "01":{
+    "division_name":"Christ Church Nichola Town",
+    "division_type":"Parish"
+  },
+  "02":{
+    "division_name":"Saint Anne Sandy Point",
+    "division_type":"Parish"
+  },
+  "03":{
+    "division_name":"Saint George Basseterre",
+    "division_type":"Parish"
+  },
+  "04":{
+    "division_name":"Saint George Gingerland",
+    "division_type":"Parish"
+  },
+  "05":{
+    "division_name":"Saint James Windward",
+    "division_type":"Parish"
+  },
+  "06":{
+    "division_name":"Saint John Capisterre",
+    "division_type":"Parish"
+  },
+  "07":{
+    "division_name":"Saint John Figtree",
+    "division_type":"Parish"
+  },
+  "08":{
+    "division_name":"Saint Mary Cayon",
+    "division_type":"Parish"
+  },
+  "09":{
+    "division_name":"Saint Paul Capisterre",
+    "division_type":"Parish"
+  },
+  "10":{
+    "division_name":"Saint Paul Charlestown",
+    "division_type":"Parish"
+  },
+  "11":{
+    "division_name":"Saint Peter Basseterre",
+    "division_type":"Parish"
+  },
+  "12":{
+    "division_name":"Saint Thomas Lowland",
+    "division_type":"Parish"
+  },
+  "13":{
+    "division_name":"Saint Thomas Middle Island",
+    "division_type":"Parish"
+  },
+  "15":{
+    "division_name":"Trinity Palmetto Point",
+    "division_type":"Parish"
+  }
+}

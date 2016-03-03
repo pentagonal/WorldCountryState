@@ -1,0 +1,56 @@
+{
+  "country_code":"TV",
+  "country_name":"Tuvalu",
+  "currency_code":"AUD",
+  "fips_code":"TV",
+  "iso_numeric":"798",
+  "north":"-5.641972",
+  "south":"-10.801169",
+  "east":"179.863281",
+  "west":"176.064865",
+  "capital":"Funafuti",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"TUV",
+  "geoname_id":"2110297",
+  "languages":[
+    "tvl",
+    "en",
+    "sm",
+    "gil"
+  ],
+  "subdivision":{
+    "FUN":{
+      "division_name":"Funafuti",
+      "division_type":"Town council"
+    },
+    "NIT":{
+      "division_name":"Niutao",
+      "division_type":"Island council"
+    },
+    "NIU":{
+      "division_name":"Nui",
+      "division_type":"Island council"
+    },
+    "NKF":{
+      "division_name":"Nukufetau",
+      "division_type":"Island council"
+    },
+    "NKL":{
+      "division_name":"Nukulaelae",
+      "division_type":"Island council"
+    },
+    "NMA":{
+      "division_name":"Nanumea",
+      "division_type":"Island council"
+    },
+    "NMG":{
+      "division_name":"Nanumanga",
+      "division_type":"Island council"
+    },
+    "VAI":{
+      "division_name":"Vaitupu",
+      "division_type":"Island council"
+    }
+  }
+}

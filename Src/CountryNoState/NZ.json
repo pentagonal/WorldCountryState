@@ -1,0 +1,20 @@
+{
+  "country_code":"NZ",
+  "country_name":"New Zealand",
+  "currency_code":"NZD",
+  "fips_code":"NZ",
+  "iso_numeric":"554",
+  "north":"-34.389668",
+  "south":"-47.286026",
+  "east":"-180",
+  "west":"166.7155",
+  "capital":"Wellington",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"NZL",
+  "geoname_id":"2186224",
+  "languages":[
+    "en-NZ",
+    "mi"
+  ]
+}

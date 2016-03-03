@@ -1,0 +1,22 @@
+{
+  "country_code":"CH",
+  "country_name":"Switzerland",
+  "currency_code":"CHF",
+  "fips_code":"SZ",
+  "iso_numeric":"756",
+  "north":"47.805332",
+  "south":"45.825695",
+  "east":"10.491472",
+  "west":"5.957472",
+  "capital":"Berne",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"CHE",
+  "geoname_id":"2658434",
+  "languages":[
+    "de-CH",
+    "fr-CH",
+    "it-CH",
+    "rm"
+  ]
+}

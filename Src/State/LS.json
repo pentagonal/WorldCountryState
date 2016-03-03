@@ -1,0 +1,42 @@
+{
+  "A":{
+    "division_name":"Maseru",
+    "division_type":"District"
+  },
+  "B":{
+    "division_name":"Butha-Buthe",
+    "division_type":"District"
+  },
+  "C":{
+    "division_name":"Leribe",
+    "division_type":"District"
+  },
+  "D":{
+    "division_name":"Berea",
+    "division_type":"District"
+  },
+  "E":{
+    "division_name":"Mafeteng",
+    "division_type":"District"
+  },
+  "F":{
+    "division_name":"Mohale's Hoek",
+    "division_type":"District"
+  },
+  "G":{
+    "division_name":"Quthing",
+    "division_type":"District"
+  },
+  "H":{
+    "division_name":"Qacha's Nek",
+    "division_type":"District"
+  },
+  "J":{
+    "division_name":"Mokhotlong",
+    "division_type":"District"
+  },
+  "K":{
+    "division_name":"Thaba-Tseka",
+    "division_type":"District"
+  }
+}

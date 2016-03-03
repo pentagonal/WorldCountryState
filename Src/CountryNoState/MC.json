@@ -1,0 +1,21 @@
+{
+  "country_code":"MC",
+  "country_name":"Monaco",
+  "currency_code":"EUR",
+  "fips_code":"MN",
+  "iso_numeric":"492",
+  "north":"43.75196717037228",
+  "south":"43.72472839869377",
+  "east":"7.439939260482788",
+  "west":"7.408962249755859",
+  "capital":"Monaco",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"MCO",
+  "geoname_id":"2993457",
+  "languages":[
+    "fr-MC",
+    "en",
+    "it"
+  ]
+}

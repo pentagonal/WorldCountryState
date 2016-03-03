@@ -1,0 +1,19 @@
+{
+  "country_code":"DM",
+  "country_name":"Dominica",
+  "currency_code":"XCD",
+  "fips_code":"DO",
+  "iso_numeric":"212",
+  "north":"15.631809",
+  "south":"15.20169",
+  "east":"-61.244152",
+  "west":"-61.484108",
+  "capital":"Roseau",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"DMA",
+  "geoname_id":"3575830",
+  "languages":[
+    "en-DM"
+  ]
+}

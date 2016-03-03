@@ -1,0 +1,20 @@
+{
+  "country_code":"MV",
+  "country_name":"Maldives",
+  "currency_code":"MVR",
+  "fips_code":"MV",
+  "iso_numeric":"462",
+  "north":"7.091587495414767",
+  "south":"-0.692694",
+  "east":"73.637276",
+  "west":"72.693222",
+  "capital":"Mal\u00e9",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"MDV",
+  "geoname_id":"1282028",
+  "languages":[
+    "dv",
+    "en"
+  ]
+}

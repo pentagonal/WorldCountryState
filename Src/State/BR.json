@@ -1,0 +1,110 @@
+{
+  "AC":{
+    "division_name":"Acre",
+    "division_type":"State"
+  },
+  "AL":{
+    "division_name":"Alagoas",
+    "division_type":"State"
+  },
+  "AM":{
+    "division_name":"Amazonas",
+    "division_type":"State"
+  },
+  "AP":{
+    "division_name":"Amap\u00e1",
+    "division_type":"State"
+  },
+  "BA":{
+    "division_name":"Bahia",
+    "division_type":"State"
+  },
+  "CE":{
+    "division_name":"Cear\u00e1",
+    "division_type":"State"
+  },
+  "DF":{
+    "division_name":"Distrito Federal",
+    "division_type":"Federal district"
+  },
+  "ES":{
+    "division_name":"Esp\u00edrito Santo",
+    "division_type":"State"
+  },
+  "GO":{
+    "division_name":"Goi\u00e1s",
+    "division_type":"State"
+  },
+  "MA":{
+    "division_name":"Maranh\u00e3o",
+    "division_type":"State"
+  },
+  "MG":{
+    "division_name":"Minas Gerais",
+    "division_type":"State"
+  },
+  "MS":{
+    "division_name":"Mato Grosso do Sul",
+    "division_type":"State"
+  },
+  "MT":{
+    "division_name":"Mato Grosso",
+    "division_type":"State"
+  },
+  "PA":{
+    "division_name":"Par\u00e1",
+    "division_type":"State"
+  },
+  "PB":{
+    "division_name":"Para\u00edba",
+    "division_type":"State"
+  },
+  "PE":{
+    "division_name":"Pernambuco",
+    "division_type":"State"
+  },
+  "PI":{
+    "division_name":"Piau\u00ed",
+    "division_type":"State"
+  },
+  "PR":{
+    "division_name":"Paran\u00e1",
+    "division_type":"State"
+  },
+  "RJ":{
+    "division_name":"Rio de Janeiro",
+    "division_type":"State"
+  },
+  "RN":{
+    "division_name":"Rio Grande do Norte",
+    "division_type":"State"
+  },
+  "RO":{
+    "division_name":"Rond\u00f4nia",
+    "division_type":"State"
+  },
+  "RR":{
+    "division_name":"Roraima",
+    "division_type":"State"
+  },
+  "RS":{
+    "division_name":"Rio Grande do Sul",
+    "division_type":"State"
+  },
+  "SC":{
+    "division_name":"Santa Catarina",
+    "division_type":"State"
+  },
+  "SE":{
+    "division_name":"Sergipe",
+    "division_type":"State"
+  },
+  "SP":{
+    "division_name":"S\u00e3o Paulo",
+    "division_type":"State"
+  },
+  "TO":{
+    "division_name":"Tocantins",
+    "division_type":"State"
+  }
+}

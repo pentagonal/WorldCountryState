@@ -1,0 +1,66 @@
+{
+  "ARI":{
+    "division_name":"Arima",
+    "division_type":"Municipality"
+  },
+  "CHA":{
+    "division_name":"Chaguanas",
+    "division_type":"Municipality"
+  },
+  "CTT":{
+    "division_name":"Couva-Tabaquite-Talparo",
+    "division_type":"Region"
+  },
+  "DMN":{
+    "division_name":"Diego Martin",
+    "division_type":"Region"
+  },
+  "ETO":{
+    "division_name":"Eastern Tobago",
+    "division_type":"Region"
+  },
+  "PED":{
+    "division_name":"Penal-Debe",
+    "division_type":"Region"
+  },
+  "POS":{
+    "division_name":"Port of Spain",
+    "division_type":"Municipality"
+  },
+  "PRT":{
+    "division_name":"Princes Town",
+    "division_type":"Region"
+  },
+  "PTF":{
+    "division_name":"Point Fortin",
+    "division_type":"Municipality"
+  },
+  "RCM":{
+    "division_name":"Rio Claro-Mayaro",
+    "division_type":"Region"
+  },
+  "SFO":{
+    "division_name":"San Fernando",
+    "division_type":"Municipality"
+  },
+  "SGE":{
+    "division_name":"Sangre Grande",
+    "division_type":"Region"
+  },
+  "SIP":{
+    "division_name":"Siparia",
+    "division_type":"Region"
+  },
+  "SJL":{
+    "division_name":"San Juan-Laventille",
+    "division_type":"Region"
+  },
+  "TUP":{
+    "division_name":"Tunapuna-Piarco",
+    "division_type":"Region"
+  },
+  "WTO":{
+    "division_name":"Western Tobago",
+    "division_type":"Region"
+  }
+}

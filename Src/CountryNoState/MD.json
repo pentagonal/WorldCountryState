@@ -1,0 +1,22 @@
+{
+  "country_code":"MD",
+  "country_name":"Moldova",
+  "currency_code":"MDL",
+  "fips_code":"MD",
+  "iso_numeric":"498",
+  "north":"48.490166",
+  "south":"45.468887",
+  "east":"30.135445",
+  "west":"26.618944",
+  "capital":"Chi\u015fin\u0103u",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"MDA",
+  "geoname_id":"617790",
+  "languages":[
+    "ro",
+    "ru",
+    "gag",
+    "tr"
+  ]
+}

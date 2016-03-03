@@ -1,0 +1,49 @@
+{
+  "country_code":"AD",
+  "country_name":"Andorra",
+  "currency_code":"EUR",
+  "fips_code":"AN",
+  "iso_numeric":"020",
+  "north":"42.65604389629997",
+  "south":"42.42849259876837",
+  "east":"1.7865427778319827",
+  "west":"1.4071867141112762",
+  "capital":"Andorra la Vella",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"AND",
+  "geoname_id":"3041565",
+  "languages":[
+    "ca"
+  ],
+  "subdivision":{
+    "02":{
+      "division_name":"Canillo",
+      "division_type":"Parish"
+    },
+    "03":{
+      "division_name":"Encamp",
+      "division_type":"Parish"
+    },
+    "04":{
+      "division_name":"La Massana",
+      "division_type":"Parish"
+    },
+    "05":{
+      "division_name":"Ordino",
+      "division_type":"Parish"
+    },
+    "06":{
+      "division_name":"Sant Juli\u00e0 de L\u00f2ria",
+      "division_type":"Parish"
+    },
+    "07":{
+      "division_name":"Andorra la Vella",
+      "division_type":"Parish"
+    },
+    "08":{
+      "division_name":"Escaldes-Engordany",
+      "division_type":"Parish"
+    }
+  }
+}

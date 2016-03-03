@@ -1,0 +1,21 @@
+{
+  "country_code":"CX",
+  "country_name":"Christmas Island",
+  "currency_code":"AUD",
+  "fips_code":"KT",
+  "iso_numeric":"162",
+  "north":"-10.412356007",
+  "south":"-10.5704829995",
+  "east":"105.712596992",
+  "west":"105.533276992",
+  "capital":"The Settlement",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"CXR",
+  "geoname_id":"2078138",
+  "languages":[
+    "en",
+    "zh",
+    "ms-CC"
+  ]
+}

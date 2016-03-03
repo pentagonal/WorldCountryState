@@ -1,0 +1,70 @@
+{
+  "AUK":{
+    "division_name":"Auckland",
+    "division_type":"Unitary authority"
+  },
+  "BOP":{
+    "division_name":"Bay of Plenty",
+    "division_type":"Region"
+  },
+  "CAN":{
+    "division_name":"Canterbury",
+    "division_type":"Region"
+  },
+  "CIT":{
+    "division_name":"Chatham Islands Territory",
+    "division_type":"Special Island Authorithy"
+  },
+  "GIS":{
+    "division_name":"Gisborne District",
+    "division_type":"Unitary Authority"
+  },
+  "HKB":{
+    "division_name":"Hawkes's Bay",
+    "division_type":"Region"
+  },
+  "MBH":{
+    "division_name":"Marlborough District",
+    "division_type":"Unitary Authority"
+  },
+  "MWT":{
+    "division_name":"Manawatu-Wanganui",
+    "division_type":"Region"
+  },
+  "NSN":{
+    "division_name":"Nelson City",
+    "division_type":"Unitary Authority"
+  },
+  "NTL":{
+    "division_name":"Northland",
+    "division_type":"Region"
+  },
+  "OTA":{
+    "division_name":"Otago",
+    "division_type":"Region"
+  },
+  "STL":{
+    "division_name":"Southland",
+    "division_type":"Region"
+  },
+  "TAS":{
+    "division_name":"Tasman District",
+    "division_type":"Unitary Authority"
+  },
+  "TKI":{
+    "division_name":"Taranaki",
+    "division_type":"Region"
+  },
+  "WGN":{
+    "division_name":"Wellington",
+    "division_type":"Region"
+  },
+  "WKO":{
+    "division_name":"Waikato",
+    "division_type":"Region"
+  },
+  "WTC":{
+    "division_name":"West Coast",
+    "division_type":"Region"
+  }
+}

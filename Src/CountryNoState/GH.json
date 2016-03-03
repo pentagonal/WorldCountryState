@@ -1,0 +1,22 @@
+{
+  "country_code":"GH",
+  "country_name":"Ghana",
+  "currency_code":"GHS",
+  "fips_code":"GH",
+  "iso_numeric":"288",
+  "north":"11.173301",
+  "south":"4.736723",
+  "east":"1.191781",
+  "west":"-3.25542",
+  "capital":"Accra",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"GHA",
+  "geoname_id":"2300660",
+  "languages":[
+    "en-GH",
+    "ak",
+    "ee",
+    "tw"
+  ]
+}

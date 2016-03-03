@@ -1,0 +1,46 @@
+{
+  "A":{
+    "division_name":"Niaosa",
+    "division_type":"Province"
+  },
+  "B":{
+    "division_name":"Manica",
+    "division_type":"Province"
+  },
+  "G":{
+    "division_name":"Gaza",
+    "division_type":"Province"
+  },
+  "I":{
+    "division_name":"Inhambane",
+    "division_type":"Province"
+  },
+  "L":{
+    "division_name":"Maputo",
+    "division_type":"Province"
+  },
+  "MPM":{
+    "division_name":"Maputo",
+    "division_type":"City"
+  },
+  "N":{
+    "division_name":"Nampula",
+    "division_type":"Province"
+  },
+  "P":{
+    "division_name":"Cabo Delgado",
+    "division_type":"Province"
+  },
+  "Q":{
+    "division_name":"Zamb\u00e9zia",
+    "division_type":"Province"
+  },
+  "S":{
+    "division_name":"Sofala",
+    "division_type":"Province"
+  },
+  "T":{
+    "division_name":"Tete",
+    "division_type":"Province"
+  }
+}

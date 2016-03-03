@@ -1,0 +1,20 @@
+{
+  "country_code":"XK",
+  "country_name":"Kosovo",
+  "currency_code":"EUR",
+  "fips_code":"KV",
+  "iso_numeric":"0",
+  "north":"43.2682495807952",
+  "south":"41.856369601859925",
+  "east":"21.80335088694943",
+  "west":"19.977481504492914",
+  "capital":"Pristina",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"XKX",
+  "geoname_id":"831053",
+  "languages":[
+    "sq",
+    "sr"
+  ]
+}

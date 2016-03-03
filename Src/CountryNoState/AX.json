@@ -1,0 +1,19 @@
+{
+  "country_code":"AX",
+  "country_name":"\u00c5land",
+  "currency_code":"EUR",
+  "fips_code":"",
+  "iso_numeric":"248",
+  "north":"60.488861",
+  "south":"59.90675",
+  "east":"21.011862",
+  "west":"19.317694",
+  "capital":"Mariehamn",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"ALA",
+  "geoname_id":"661882",
+  "languages":[
+    "sv-AX"
+  ]
+}

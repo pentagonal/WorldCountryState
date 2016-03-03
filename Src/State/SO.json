@@ -1,0 +1,74 @@
+{
+  "AW":{
+    "division_name":"Awdal",
+    "division_type":"Region"
+  },
+  "BK":{
+    "division_name":"Bakool",
+    "division_type":"Region"
+  },
+  "BN":{
+    "division_name":"Banaadir",
+    "division_type":"Region"
+  },
+  "BR":{
+    "division_name":"Bari",
+    "division_type":"Region"
+  },
+  "BY":{
+    "division_name":"Bay",
+    "division_type":"Region"
+  },
+  "GA":{
+    "division_name":"Galguduud",
+    "division_type":"Region"
+  },
+  "GE":{
+    "division_name":"Gedo",
+    "division_type":"Region"
+  },
+  "HI":{
+    "division_name":"Hiiraan",
+    "division_type":"Region"
+  },
+  "JD":{
+    "division_name":"Jubbada Dhexe",
+    "division_type":"Region"
+  },
+  "JH":{
+    "division_name":"Jubbada Hoose",
+    "division_type":"Region"
+  },
+  "MU":{
+    "division_name":"Mudug",
+    "division_type":"Region"
+  },
+  "NU":{
+    "division_name":"Nugaal",
+    "division_type":"Region"
+  },
+  "SA":{
+    "division_name":"Sanaag",
+    "division_type":"Region"
+  },
+  "SD":{
+    "division_name":"Shabeellaha Dhexe",
+    "division_type":"Region"
+  },
+  "SH":{
+    "division_name":"Shabeellaha Hoose",
+    "division_type":"Region"
+  },
+  "SO":{
+    "division_name":"Sool",
+    "division_type":"Region"
+  },
+  "TO":{
+    "division_name":"Togdheer",
+    "division_type":"Region"
+  },
+  "WO":{
+    "division_name":"Woqooyi Galbeed",
+    "division_type":"Region"
+  }
+}

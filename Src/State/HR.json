@@ -1,0 +1,86 @@
+{
+  "01":{
+    "division_name":"Zagrebacka \u017eupanija",
+    "division_type":"County"
+  },
+  "02":{
+    "division_name":"Krapinsko-zagorska \u017eupanija",
+    "division_type":"County"
+  },
+  "03":{
+    "division_name":"Sisacko-moslavacka \u017eupanija",
+    "division_type":"County"
+  },
+  "04":{
+    "division_name":"Karlovacka \u017eupanija",
+    "division_type":"County"
+  },
+  "05":{
+    "division_name":"Vara\u017edinska \u017eupanija",
+    "division_type":"County"
+  },
+  "06":{
+    "division_name":"Koprivnicko-kri\u017eevacka \u017eupanija",
+    "division_type":"County"
+  },
+  "07":{
+    "division_name":"Bjelovarsko-bilogorska \u017eupanija",
+    "division_type":"County"
+  },
+  "08":{
+    "division_name":"Primorsko-goranska \u017eupanija",
+    "division_type":"County"
+  },
+  "09":{
+    "division_name":"Licko-senjska \u017eupanija",
+    "division_type":"County"
+  },
+  "10":{
+    "division_name":"Viroviticko-podravska \u017eupanija",
+    "division_type":"County"
+  },
+  "11":{
+    "division_name":"Po\u017ee\u0161ko-slavonska \u017eupanija",
+    "division_type":"County"
+  },
+  "12":{
+    "division_name":"Brodsko-posavska \u017eupanija",
+    "division_type":"County"
+  },
+  "13":{
+    "division_name":"Zadarska \u017eupanija",
+    "division_type":"County"
+  },
+  "14":{
+    "division_name":"Osjecko-baranjska \u017eupanija",
+    "division_type":"County"
+  },
+  "15":{
+    "division_name":"\u0160ibensko-kninska \u017eupanija",
+    "division_type":"County"
+  },
+  "16":{
+    "division_name":"Vukovarsko-srijemska \u017eupanija",
+    "division_type":"County"
+  },
+  "17":{
+    "division_name":"Splitsko-dalmatinska \u017eupanija",
+    "division_type":"County"
+  },
+  "18":{
+    "division_name":"Istarska \u017eupanija",
+    "division_type":"County"
+  },
+  "19":{
+    "division_name":"Dubrovacko-neretvanska \u017eupanija",
+    "division_type":"County"
+  },
+  "20":{
+    "division_name":"Medimurska \u017eupanija",
+    "division_type":"County"
+  },
+  "21":{
+    "division_name":"Grad Zagreb",
+    "division_type":"City"
+  }
+}

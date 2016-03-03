@@ -1,0 +1,42 @@
+{
+  "BN":{
+    "division_name":"Northern Bahr el Ghazal",
+    "division_type":"State"
+  },
+  "BW":{
+    "division_name":"Western Bahr el Ghazal",
+    "division_type":"State"
+  },
+  "EC":{
+    "division_name":"Central Equatoria",
+    "division_type":"State"
+  },
+  "EE":{
+    "division_name":"Eastern Equatoria",
+    "division_type":"State"
+  },
+  "EW":{
+    "division_name":"Western Equatoria",
+    "division_type":"State"
+  },
+  "JG":{
+    "division_name":"Jonglei",
+    "division_type":"State"
+  },
+  "LK":{
+    "division_name":"Lakes",
+    "division_type":"State"
+  },
+  "NU":{
+    "division_name":"Upper Nile",
+    "division_type":"State"
+  },
+  "UY":{
+    "division_name":"Unity",
+    "division_type":"State"
+  },
+  "WR":{
+    "division_name":"Warrap",
+    "division_type":"State"
+  }
+}

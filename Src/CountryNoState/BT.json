@@ -1,0 +1,19 @@
+{
+  "country_code":"BT",
+  "country_name":"Bhutan",
+  "currency_code":"BTN",
+  "fips_code":"BT",
+  "iso_numeric":"064",
+  "north":"28.323778",
+  "south":"26.70764",
+  "east":"92.125191",
+  "west":"88.75972",
+  "capital":"Thimphu",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"BTN",
+  "geoname_id":"1252634",
+  "languages":[
+    "dz"
+  ]
+}

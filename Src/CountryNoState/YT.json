@@ -1,0 +1,19 @@
+{
+  "country_code":"YT",
+  "country_name":"Mayotte",
+  "currency_code":"EUR",
+  "fips_code":"MF",
+  "iso_numeric":"175",
+  "north":"-12.648891",
+  "south":"-13.000132",
+  "east":"45.29295",
+  "west":"45.03796",
+  "capital":"Mamoutzou",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"MYT",
+  "geoname_id":"1024031",
+  "languages":[
+    "fr-YT"
+  ]
+}

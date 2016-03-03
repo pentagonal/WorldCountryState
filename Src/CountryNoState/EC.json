@@ -1,0 +1,19 @@
+{
+  "country_code":"EC",
+  "country_name":"Ecuador",
+  "currency_code":"USD",
+  "fips_code":"EC",
+  "iso_numeric":"218",
+  "north":"1.43902",
+  "south":"-4.998823",
+  "east":"-75.184586",
+  "west":"-81.078598",
+  "capital":"Quito",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"ECU",
+  "geoname_id":"3658394",
+  "languages":[
+    "es-EC"
+  ]
+}

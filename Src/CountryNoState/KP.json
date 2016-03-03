@@ -1,0 +1,19 @@
+{
+  "country_code":"KP",
+  "country_name":"North Korea",
+  "currency_code":"KPW",
+  "fips_code":"KN",
+  "iso_numeric":"408",
+  "north":"43.006054",
+  "south":"37.673332",
+  "east":"130.674866",
+  "west":"124.315887",
+  "capital":"Pyongyang",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"PRK",
+  "geoname_id":"1873107",
+  "languages":[
+    "ko-KP"
+  ]
+}

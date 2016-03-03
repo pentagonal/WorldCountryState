@@ -1,0 +1,70 @@
+{
+  "country_code":"JO",
+  "country_name":"Jordan",
+  "currency_code":"JOD",
+  "fips_code":"JO",
+  "iso_numeric":"400",
+  "north":"33.367668",
+  "south":"29.185888",
+  "east":"39.301167",
+  "west":"34.959999",
+  "capital":"Amman",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"JOR",
+  "geoname_id":"248816",
+  "languages":[
+    "ar-JO",
+    "en"
+  ],
+  "subdivision":{
+    "AJ":{
+      "division_name":"Ajl\u016bn",
+      "division_type":"Governorate"
+    },
+    "AM":{
+      "division_name":"'Amman",
+      "division_type":"Governorate"
+    },
+    "AQ":{
+      "division_name":"Al'Aqaba",
+      "division_type":"Governorate"
+    },
+    "AT":{
+      "division_name":"At Tafilah",
+      "division_type":"Governorate"
+    },
+    "AZ":{
+      "division_name":"Az Zarqa'",
+      "division_type":"Governorate"
+    },
+    "BA":{
+      "division_name":"AI Balqa'",
+      "division_type":"Governorate"
+    },
+    "IR":{
+      "division_name":"Irbid",
+      "division_type":"Governorate"
+    },
+    "JA":{
+      "division_name":"Jarash",
+      "division_type":"Governorate"
+    },
+    "KA":{
+      "division_name":"AI Karak",
+      "division_type":"Governorate"
+    },
+    "MA":{
+      "division_name":"AI Mafraq",
+      "division_type":"Governorate"
+    },
+    "MD":{
+      "division_name":"Madaba",
+      "division_type":"Governorate"
+    },
+    "MN":{
+      "division_name":"Ma'an",
+      "division_type":"Governorate"
+    }
+  }
+}

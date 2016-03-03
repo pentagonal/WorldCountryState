@@ -1,0 +1,19 @@
+{
+  "country_code":"MF",
+  "country_name":"Saint Martin",
+  "currency_code":"EUR",
+  "fips_code":"RN",
+  "iso_numeric":"663",
+  "north":"18.130354",
+  "south":"18.052231",
+  "east":"-63.012993",
+  "west":"-63.152767",
+  "capital":"Marigot",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"MAF",
+  "geoname_id":"3578421",
+  "languages":[
+    "fr"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "country_code":"ZW",
+  "country_name":"Zimbabwe",
+  "currency_code":"ZWL",
+  "fips_code":"ZI",
+  "iso_numeric":"716",
+  "north":"-15.608835",
+  "south":"-22.417738",
+  "east":"33.056305",
+  "west":"25.237028",
+  "capital":"Harare",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ZWE",
+  "geoname_id":"878675",
+  "languages":[
+    "en-ZW",
+    "sn",
+    "nr",
+    "nd"
+  ],
+  "subdivision":{
+    "BU":{
+      "division_name":"Bulawayo",
+      "division_type":"Province"
+    },
+    "HA":{
+      "division_name":"Harare",
+      "division_type":"Province"
+    },
+    "MA":{
+      "division_name":"Manicaland",
+      "division_type":"Province"
+    },
+    "MC":{
+      "division_name":"Mashonaland Central",
+      "division_type":"Province"
+    },
+    "ME":{
+      "division_name":"Mashonaland East",
+      "division_type":"Province"
+    },
+    "MI":{
+      "division_name":"Midlands",
+      "division_type":"Province"
+    },
+    "MN":{
+      "division_name":"Matabeleland North",
+      "division_type":"Province"
+    },
+    "MS":{
+      "division_name":"Matabeleland South",
+      "division_type":"Province"
+    },
+    "MV":{
+      "division_name":"Masvingo",
+      "division_type":"Province"
+    },
+    "MW":{
+      "division_name":"Mashonaland West",
+      "division_type":"Province"
+    }
+  }
+}

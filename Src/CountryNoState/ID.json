@@ -1,0 +1,22 @@
+{
+  "country_code":"ID",
+  "country_name":"Indonesia",
+  "currency_code":"IDR",
+  "fips_code":"ID",
+  "iso_numeric":"360",
+  "north":"5.904417",
+  "south":"-10.941861",
+  "east":"141.021805",
+  "west":"95.009331",
+  "capital":"Jakarta",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"IDN",
+  "geoname_id":"1643084",
+  "languages":[
+    "id",
+    "en",
+    "nl",
+    "jv"
+  ]
+}

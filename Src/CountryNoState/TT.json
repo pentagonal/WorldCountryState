@@ -1,0 +1,23 @@
+{
+  "country_code":"TT",
+  "country_name":"Trinidad and Tobago",
+  "currency_code":"TTD",
+  "fips_code":"TD",
+  "iso_numeric":"780",
+  "north":"11.338342",
+  "south":"10.036105",
+  "east":"-60.517933",
+  "west":"-61.923771",
+  "capital":"Port of Spain",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"TTO",
+  "geoname_id":"3573591",
+  "languages":[
+    "en-TT",
+    "hns",
+    "fr",
+    "es",
+    "zh"
+  ]
+}

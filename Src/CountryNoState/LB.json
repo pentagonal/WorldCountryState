@@ -1,0 +1,22 @@
+{
+  "country_code":"LB",
+  "country_name":"Lebanon",
+  "currency_code":"LBP",
+  "fips_code":"LE",
+  "iso_numeric":"422",
+  "north":"34.691418",
+  "south":"33.05386",
+  "east":"36.639194",
+  "west":"35.114277",
+  "capital":"Beirut",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"LBN",
+  "geoname_id":"272103",
+  "languages":[
+    "ar-LB",
+    "fr-LB",
+    "en",
+    "hy"
+  ]
+}

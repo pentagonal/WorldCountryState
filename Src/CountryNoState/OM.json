@@ -1,0 +1,22 @@
+{
+  "country_code":"OM",
+  "country_name":"Oman",
+  "currency_code":"OMR",
+  "fips_code":"MU",
+  "iso_numeric":"512",
+  "north":"26.387972",
+  "south":"16.64575",
+  "east":"59.836582",
+  "west":"51.882",
+  "capital":"Muscat",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"OMN",
+  "geoname_id":"286963",
+  "languages":[
+    "ar-OM",
+    "en",
+    "bal",
+    "ur"
+  ]
+}

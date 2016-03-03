@@ -1,0 +1,21 @@
+{
+  "country_code":"PE",
+  "country_name":"Peru",
+  "currency_code":"PEN",
+  "fips_code":"PE",
+  "iso_numeric":"604",
+  "north":"-0.012977",
+  "south":"-18.349728",
+  "east":"-68.677986",
+  "west":"-81.326744",
+  "capital":"Lima",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"PER",
+  "geoname_id":"3932488",
+  "languages":[
+    "es-PE",
+    "qu",
+    "ay"
+  ]
+}

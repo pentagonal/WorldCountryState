@@ -1,0 +1,24 @@
+{
+  "country_code":"TG",
+  "country_name":"Togo",
+  "currency_code":"XOF",
+  "fips_code":"TO",
+  "iso_numeric":"768",
+  "north":"11.138977",
+  "south":"6.104417",
+  "east":"1.806693",
+  "west":"-0.147324",
+  "capital":"Lom\u00e9",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"TGO",
+  "geoname_id":"2363686",
+  "languages":[
+    "fr-TG",
+    "ee",
+    "hna",
+    "kbp",
+    "dag",
+    "ha"
+  ]
+}

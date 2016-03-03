@@ -1,0 +1,81 @@
+{
+  "country_code":"LR",
+  "country_name":"Liberia",
+  "currency_code":"LRD",
+  "fips_code":"LI",
+  "iso_numeric":"430",
+  "north":"8.551791",
+  "south":"4.353057",
+  "east":"-7.365113",
+  "west":"-11.492083",
+  "capital":"Monrovia",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"LBR",
+  "geoname_id":"2275384",
+  "languages":[
+    "en-LR"
+  ],
+  "subdivision":{
+    "BG":{
+      "division_name":"Bong",
+      "division_type":"County"
+    },
+    "BM":{
+      "division_name":"Bomi",
+      "division_type":"County"
+    },
+    "CM":{
+      "division_name":"Grand Cape Mount",
+      "division_type":"County"
+    },
+    "GB":{
+      "division_name":"Grand Bassa",
+      "division_type":"County"
+    },
+    "GG":{
+      "division_name":"Grand Gedeh",
+      "division_type":"County"
+    },
+    "GK":{
+      "division_name":"Grand Kru",
+      "division_type":"County"
+    },
+    "GP":{
+      "division_name":"Gbarpolu",
+      "division_type":"County"
+    },
+    "LO":{
+      "division_name":"Lofa",
+      "division_type":"County"
+    },
+    "MG":{
+      "division_name":"Margibi",
+      "division_type":"County"
+    },
+    "MO":{
+      "division_name":"Montserrado",
+      "division_type":"County"
+    },
+    "MY":{
+      "division_name":"Maryland",
+      "division_type":"County"
+    },
+    "NI":{
+      "division_name":"Nimba",
+      "division_type":"County"
+    },
+    "RG":{
+      "division_name":"River Gee",
+      "division_type":"County"
+    },
+    "RI":{
+      "division_name":"Rivercess",
+      "division_type":"County"
+    },
+    "SI":{
+      "division_name":"Sinoe",
+      "division_type":"County"
+    }
+  }
+}

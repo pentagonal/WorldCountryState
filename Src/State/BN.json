@@ -1,0 +1,18 @@
+{
+  "BE":{
+    "division_name":"Belait",
+    "division_type":"District"
+  },
+  "BM":{
+    "division_name":"Brunei-Muara",
+    "division_type":"District"
+  },
+  "TE":{
+    "division_name":"Temburong",
+    "division_type":"District"
+  },
+  "TU":{
+    "division_name":"Tutong",
+    "division_type":"District"
+  }
+}

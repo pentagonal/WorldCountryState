@@ -1,0 +1,21 @@
+{
+  "country_code":"UZ",
+  "country_name":"Uzbekistan",
+  "currency_code":"UZS",
+  "fips_code":"UZ",
+  "iso_numeric":"860",
+  "north":"45.575001",
+  "south":"37.184444",
+  "east":"73.132278",
+  "west":"55.996639",
+  "capital":"Tashkent",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"UZB",
+  "geoname_id":"1512440",
+  "languages":[
+    "uz",
+    "ru",
+    "tg"
+  ]
+}

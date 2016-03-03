@@ -1,0 +1,38 @@
+{
+  "country_code":"BN",
+  "country_name":"Brunei",
+  "currency_code":"BND",
+  "fips_code":"BX",
+  "iso_numeric":"096",
+  "north":"5.047167",
+  "south":"4.003083",
+  "east":"115.359444",
+  "west":"114.071442",
+  "capital":"Bandar Seri Begawan",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"BRN",
+  "geoname_id":"1820814",
+  "languages":[
+    "ms-BN",
+    "en-BN"
+  ],
+  "subdivision":{
+    "BE":{
+      "division_name":"Belait",
+      "division_type":"District"
+    },
+    "BM":{
+      "division_name":"Brunei-Muara",
+      "division_type":"District"
+    },
+    "TE":{
+      "division_name":"Temburong",
+      "division_type":"District"
+    },
+    "TU":{
+      "division_name":"Tutong",
+      "division_type":"District"
+    }
+  }
+}

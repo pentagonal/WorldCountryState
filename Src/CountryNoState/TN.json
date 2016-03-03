@@ -1,0 +1,20 @@
+{
+  "country_code":"TN",
+  "country_name":"Tunisia",
+  "currency_code":"TND",
+  "fips_code":"TS",
+  "iso_numeric":"788",
+  "north":"37.543915",
+  "south":"30.240417",
+  "east":"11.598278",
+  "west":"7.524833",
+  "capital":"Tunis",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"TUN",
+  "geoname_id":"2464461",
+  "languages":[
+    "ar-TN",
+    "fr"
+  ]
+}

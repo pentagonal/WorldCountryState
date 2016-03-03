@@ -1,0 +1,20 @@
+{
+  "country_code":"HR",
+  "country_name":"Croatia",
+  "currency_code":"HRK",
+  "fips_code":"HR",
+  "iso_numeric":"191",
+  "north":"46.53875",
+  "south":"42.43589",
+  "east":"19.427389",
+  "west":"13.493222",
+  "capital":"Zagreb",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"HRV",
+  "geoname_id":"3202326",
+  "languages":[
+    "hr-HR",
+    "sr"
+  ]
+}

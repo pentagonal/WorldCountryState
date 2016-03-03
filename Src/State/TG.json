@@ -1,0 +1,22 @@
+{
+  "C":{
+    "division_name":"Centre",
+    "division_type":"Region"
+  },
+  "K":{
+    "division_name":"Kara",
+    "division_type":"Region"
+  },
+  "M":{
+    "division_name":"Maritime (R\u00e9gion)",
+    "division_type":"Region"
+  },
+  "P":{
+    "division_name":"Plateaux",
+    "division_type":"Region"
+  },
+  "S":{
+    "division_name":"Savannes",
+    "division_type":"Region"
+  }
+}

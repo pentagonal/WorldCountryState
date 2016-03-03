@@ -1,0 +1,21 @@
+{
+  "country_code":"LK",
+  "country_name":"Sri Lanka",
+  "currency_code":"LKR",
+  "fips_code":"CE",
+  "iso_numeric":"144",
+  "north":"9.831361",
+  "south":"5.916833",
+  "east":"81.881279",
+  "west":"79.652916",
+  "capital":"Colombo",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"LKA",
+  "geoname_id":"1227603",
+  "languages":[
+    "si",
+    "ta",
+    "en"
+  ]
+}

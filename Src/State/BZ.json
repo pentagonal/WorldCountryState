@@ -1,0 +1,26 @@
+{
+  "BZ":{
+    "division_name":"Belize",
+    "division_type":"District"
+  },
+  "CY":{
+    "division_name":"Cayo",
+    "division_type":"District"
+  },
+  "CZL":{
+    "division_name":"Corozal",
+    "division_type":"District"
+  },
+  "OW":{
+    "division_name":"Orange Walk",
+    "division_type":"District"
+  },
+  "SC":{
+    "division_name":"Stann Creek",
+    "division_type":"District"
+  },
+  "TOL":{
+    "division_name":"Toledo",
+    "division_type":"District"
+  }
+}

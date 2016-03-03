@@ -1,0 +1,53 @@
+{
+  "country_code":"AG",
+  "country_name":"Antigua and Barbuda",
+  "currency_code":"XCD",
+  "fips_code":"AC",
+  "iso_numeric":"028",
+  "north":"17.729387",
+  "south":"16.996979",
+  "east":"-61.672421",
+  "west":"-61.906425",
+  "capital":"St. John's",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"ATG",
+  "geoname_id":"3576396",
+  "languages":[
+    "en-AG"
+  ],
+  "subdivision":{
+    "03":{
+      "division_name":"Saint George",
+      "division_type":"Parish"
+    },
+    "04":{
+      "division_name":"Saint John",
+      "division_type":"Parish"
+    },
+    "05":{
+      "division_name":"Saint Mary",
+      "division_type":"Parish"
+    },
+    "06":{
+      "division_name":"Saint Paul",
+      "division_type":"Parish"
+    },
+    "07":{
+      "division_name":"Saint Peter",
+      "division_type":"Parish"
+    },
+    "08":{
+      "division_name":"Saint Philip",
+      "division_type":"Parish"
+    },
+    "10":{
+      "division_name":"Barbuda",
+      "division_type":"Dependency"
+    },
+    "11":{
+      "division_name":"Redonda",
+      "division_type":"Dependency"
+    }
+  }
+}

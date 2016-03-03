@@ -1,0 +1,20 @@
+{
+  "country_code":"PT",
+  "country_name":"Portugal",
+  "currency_code":"EUR",
+  "fips_code":"PO",
+  "iso_numeric":"620",
+  "north":"42.154311127408",
+  "south":"36.96125",
+  "east":"-6.18915930748288",
+  "west":"-9.50052660716588",
+  "capital":"Lisbon",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"PRT",
+  "geoname_id":"2264397",
+  "languages":[
+    "pt-PT",
+    "mwl"
+  ]
+}

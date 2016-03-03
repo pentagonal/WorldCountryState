@@ -1,0 +1,22 @@
+{
+  "country_code":"HK",
+  "country_name":"Hong Kong",
+  "currency_code":"HKD",
+  "fips_code":"HK",
+  "iso_numeric":"344",
+  "north":"22.559778",
+  "south":"22.15325",
+  "east":"114.434753",
+  "west":"113.837753",
+  "capital":"Hong Kong",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"HKG",
+  "geoname_id":"1819730",
+  "languages":[
+    "zh-HK",
+    "yue",
+    "zh",
+    "en"
+  ]
+}

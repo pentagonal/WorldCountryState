@@ -1,0 +1,35 @@
+{
+  "country_code":"BQ",
+  "country_name":"Bonaire",
+  "currency_code":"USD",
+  "fips_code":"",
+  "iso_numeric":"535",
+  "north":"12.304535",
+  "south":"12.017149",
+  "east":"-68.192307",
+  "west":"-68.416458",
+  "capital":"",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"BES",
+  "geoname_id":"7626844",
+  "languages":[
+    "nl",
+    "pap",
+    "en"
+  ],
+  "subdivision":{
+    "BO":{
+      "division_name":"Bonaire",
+      "division_type":"Special Municipality"
+    },
+    "SA":{
+      "division_name":"Saba",
+      "division_type":"Special Municipality"
+    },
+    "SE":{
+      "division_name":"Sint Eustatius",
+      "division_type":"Special Municipality"
+    }
+  }
+}

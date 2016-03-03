@@ -1,0 +1,930 @@
+{
+  "ABD":{
+    "division_name":"Aberdeenshire",
+    "division_type":"Council area"
+  },
+  "ABE":{
+    "division_name":"Aberdeen City",
+    "division_type":"Council area"
+  },
+  "AGB":{
+    "division_name":"Argyll and Bute",
+    "division_type":"Council area"
+  },
+  "AGY":{
+    "division_name":"Isle of Anglesey [Sir Ynys M\u00f4n GB-YNM]",
+    "division_type":"Unitary authority"
+  },
+  "ANS":{
+    "division_name":"Angus",
+    "division_type":"Council area"
+  },
+  "ANT":{
+    "division_name":"Antrim",
+    "division_type":"District council area"
+  },
+  "ARD":{
+    "division_name":"Ards",
+    "division_type":"District council area"
+  },
+  "ARM":{
+    "division_name":"Armagh",
+    "division_type":"District council area"
+  },
+  "BAS":{
+    "division_name":"Bath and North East Somerset",
+    "division_type":"Unitary authority"
+  },
+  "BBD":{
+    "division_name":"Blackburn with Darwen",
+    "division_type":"Unitary authority"
+  },
+  "BDF":{
+    "division_name":"Bedford",
+    "division_type":"Council area"
+  },
+  "BDG":{
+    "division_name":"Barking and Dagenham",
+    "division_type":"London borough"
+  },
+  "BEN":{
+    "division_name":"Brent",
+    "division_type":"Council area"
+  },
+  "BEX":{
+    "division_name":"Bexley",
+    "division_type":"Council area"
+  },
+  "BFS":{
+    "division_name":"Belfast",
+    "division_type":"District council area"
+  },
+  "BGE":{
+    "division_name":"Bridgend [Pen-y-bont ar Ogwr GB-POG]",
+    "division_type":"Unitary authority"
+  },
+  "BGW":{
+    "division_name":"Blaenau Gwent",
+    "division_type":"Unitary authority"
+  },
+  "BIR":{
+    "division_name":"Birmingham",
+    "division_type":"Council area"
+  },
+  "BKM":{
+    "division_name":"Buckinghamshire",
+    "division_type":"County"
+  },
+  "BLA":{
+    "division_name":"Ballymena",
+    "division_type":"District council area"
+  },
+  "BLY":{
+    "division_name":"Ballymoney",
+    "division_type":"District council area"
+  },
+  "BMH":{
+    "division_name":"Bournemouth",
+    "division_type":"Unitary authority"
+  },
+  "BNB":{
+    "division_name":"Banbridge",
+    "division_type":"District council area"
+  },
+  "BNE":{
+    "division_name":"Barnet",
+    "division_type":"Council area"
+  },
+  "BNH":{
+    "division_name":"Brighton and Hove",
+    "division_type":"Unitary authority"
+  },
+  "BNS":{
+    "division_name":"Barnsley",
+    "division_type":"Council area"
+  },
+  "BOL":{
+    "division_name":"Bolton",
+    "division_type":"Council area"
+  },
+  "BPL":{
+    "division_name":"Blackpool",
+    "division_type":"Unitary authority"
+  },
+  "BRC":{
+    "division_name":"Bracknell Forest",
+    "division_type":"Unitary authority"
+  },
+  "BRD":{
+    "division_name":"Bradford",
+    "division_type":"Council area"
+  },
+  "BRY":{
+    "division_name":"Bromley",
+    "division_type":"Council area"
+  },
+  "BST":{
+    "division_name":"Bristol,\"City of",
+    "division_type":"Unitary authority"
+  },
+  "BUR":{
+    "division_name":"Bury",
+    "division_type":"Council area"
+  },
+  "CAM":{
+    "division_name":"Cambridgeshire",
+    "division_type":"County"
+  },
+  "CAY":{
+    "division_name":"Caerphilly [Caerffili GB-CAF]",
+    "division_type":"Unitary authority"
+  },
+  "CBF":{
+    "division_name":"Central Bedfordshire",
+    "division_type":"Unitary authority"
+  },
+  "CGN":{
+    "division_name":"Ceredigion [Sir Ceredigion]",
+    "division_type":"Unitary authority"
+  },
+  "CGV":{
+    "division_name":"Craigavon",
+    "division_type":"District council area"
+  },
+  "CHE":{
+    "division_name":"Cheshire East",
+    "division_type":"Unitary authority"
+  },
+  "CHW":{
+    "division_name":"Cheshire West and Chester",
+    "division_type":"Unitary authority"
+  },
+  "CKF":{
+    "division_name":"Carrickfergus",
+    "division_type":"District council area"
+  },
+  "CKT":{
+    "division_name":"Cookstown",
+    "division_type":"District council area"
+  },
+  "CLD":{
+    "division_name":"Calderdale",
+    "division_type":"Council area"
+  },
+  "CLK":{
+    "division_name":"Clackmannanshire",
+    "division_type":"Council area"
+  },
+  "CLR":{
+    "division_name":"Coleraine",
+    "division_type":"District council area"
+  },
+  "CMA":{
+    "division_name":"Cumbria",
+    "division_type":"County"
+  },
+  "CMD":{
+    "division_name":"Camden",
+    "division_type":"Council area"
+  },
+  "CMN":{
+    "division_name":"Carmarthenshire [Sir Gaerfyrddin GB-GFY]",
+    "division_type":"Unitary authority"
+  },
+  "CON":{
+    "division_name":"Cornwall",
+    "division_type":"Unitary authority"
+  },
+  "COV":{
+    "division_name":"Coventry",
+    "division_type":"Council area"
+  },
+  "CRF":{
+    "division_name":"Cardiff [Caerdydd GB-CRD]",
+    "division_type":"Unitary authority"
+  },
+  "CRY":{
+    "division_name":"Croydon",
+    "division_type":"Council area"
+  },
+  "CSR":{
+    "division_name":"Castlereagh",
+    "division_type":"District council area"
+  },
+  "CWY":{
+    "division_name":"Conwy",
+    "division_type":"Unitary authority"
+  },
+  "DAL":{
+    "division_name":"Darlington",
+    "division_type":"Unitary authority"
+  },
+  "DBY":{
+    "division_name":"Derbyshire",
+    "division_type":"County"
+  },
+  "DEN":{
+    "division_name":"Denbighshire [Sir Ddinbych GB-DDB]",
+    "division_type":"Unitary authority"
+  },
+  "DER":{
+    "division_name":"Derby",
+    "division_type":"Unitary authority"
+  },
+  "DEV":{
+    "division_name":"Devon",
+    "division_type":"County"
+  },
+  "DGN":{
+    "division_name":"Dungannon and South Tyrone",
+    "division_type":"District council area"
+  },
+  "DGY":{
+    "division_name":"Dumfries and Galloway",
+    "division_type":"Council area"
+  },
+  "DNC":{
+    "division_name":"Doncaster",
+    "division_type":"Council area"
+  },
+  "DND":{
+    "division_name":"Dundee City",
+    "division_type":"Council area"
+  },
+  "DOR":{
+    "division_name":"Dorset",
+    "division_type":"County"
+  },
+  "DOW":{
+    "division_name":"Down",
+    "division_type":"District council area"
+  },
+  "DRY":{
+    "division_name":"Derry",
+    "division_type":"District council area"
+  },
+  "DUD":{
+    "division_name":"Dudley",
+    "division_type":"Council area"
+  },
+  "DUR":{
+    "division_name":"Durham",
+    "division_type":"Unitary authority"
+  },
+  "EAL":{
+    "division_name":"Ealing",
+    "division_type":"Council area"
+  },
+  "EAY":{
+    "division_name":"East Ayrshire",
+    "division_type":"Council area"
+  },
+  "EDH":{
+    "division_name":"Edinburgh,\"City of",
+    "division_type":"Council area"
+  },
+  "EDU":{
+    "division_name":"East Dunbartonshire",
+    "division_type":"Council area"
+  },
+  "ELN":{
+    "division_name":"East Lothian",
+    "division_type":"Council area"
+  },
+  "ELS":{
+    "division_name":"Eilean Siar",
+    "division_type":"Council area"
+  },
+  "ENF":{
+    "division_name":"Enfield",
+    "division_type":"Council area"
+  },
+  "ERW":{
+    "division_name":"East Renfrewshire",
+    "division_type":"Council area"
+  },
+  "ERY":{
+    "division_name":"East Riding of Yorkshire",
+    "division_type":"Unitary authority"
+  },
+  "ESS":{
+    "division_name":"Essex",
+    "division_type":"County"
+  },
+  "ESX":{
+    "division_name":"East Sussex",
+    "division_type":"County"
+  },
+  "FAL":{
+    "division_name":"Falkirk",
+    "division_type":"Council area"
+  },
+  "FER":{
+    "division_name":"Fermanagh",
+    "division_type":"District council area"
+  },
+  "FIF":{
+    "division_name":"Fife",
+    "division_type":"Council area"
+  },
+  "FLN":{
+    "division_name":"Flintshire [Sir y Fflint GB-FFL]",
+    "division_type":"Unitary authority"
+  },
+  "GAT":{
+    "division_name":"Gateshead",
+    "division_type":"Council area"
+  },
+  "GLG":{
+    "division_name":"Glasgow City",
+    "division_type":"Council area"
+  },
+  "GLS":{
+    "division_name":"Gloucestershire",
+    "division_type":"County"
+  },
+  "GRE":{
+    "division_name":"Greenwich",
+    "division_type":"Council area"
+  },
+  "GWN":{
+    "division_name":"Gwynedd",
+    "division_type":"Unitary authority"
+  },
+  "HAL":{
+    "division_name":"Halton",
+    "division_type":"Unitary authority"
+  },
+  "HAM":{
+    "division_name":"Hampshire",
+    "division_type":"County"
+  },
+  "HAV":{
+    "division_name":"Havering",
+    "division_type":"Council area"
+  },
+  "HCK":{
+    "division_name":"Hackney",
+    "division_type":"Council area"
+  },
+  "HEF":{
+    "division_name":"Herefordshire",
+    "division_type":"Unitary authority"
+  },
+  "HIL":{
+    "division_name":"Hillingdon",
+    "division_type":"Council area"
+  },
+  "HLD":{
+    "division_name":"Highland",
+    "division_type":"Council area"
+  },
+  "HMF":{
+    "division_name":"Hammersmith and Fulham",
+    "division_type":"Council area"
+  },
+  "HNS":{
+    "division_name":"Hounslow",
+    "division_type":"Council area"
+  },
+  "HPL":{
+    "division_name":"Hartlepool",
+    "division_type":"Unitary authority"
+  },
+  "HRT":{
+    "division_name":"Hertfordshire",
+    "division_type":"County"
+  },
+  "HRW":{
+    "division_name":"Harrow",
+    "division_type":"Council area"
+  },
+  "HRY":{
+    "division_name":"Haringey",
+    "division_type":"Council area"
+  },
+  "IOS":{
+    "division_name":"Isles of Scilly",
+    "division_type":"Unitary authority"
+  },
+  "IOW":{
+    "division_name":"Isle of Wight",
+    "division_type":"Unitary authority"
+  },
+  "ISL":{
+    "division_name":"Islington",
+    "division_type":"Council area"
+  },
+  "IVC":{
+    "division_name":"Inverclyde",
+    "division_type":"Council area"
+  },
+  "KEC":{
+    "division_name":"Kensington and Chelsea",
+    "division_type":"Council area"
+  },
+  "KEN":{
+    "division_name":"Kent",
+    "division_type":"County"
+  },
+  "KHL":{
+    "division_name":"Kingston upon Hull",
+    "division_type":"Unitary authority"
+  },
+  "KIR":{
+    "division_name":"Kirklees",
+    "division_type":"Council area"
+  },
+  "KTT":{
+    "division_name":"Kingston upon Thames",
+    "division_type":"Council area"
+  },
+  "KWL":{
+    "division_name":"Knowsley",
+    "division_type":"Council area"
+  },
+  "LAN":{
+    "division_name":"Lancashire",
+    "division_type":"County"
+  },
+  "LBH":{
+    "division_name":"Lambeth",
+    "division_type":"Council area"
+  },
+  "LCE":{
+    "division_name":"Leicester",
+    "division_type":"Unitary authority"
+  },
+  "LDS":{
+    "division_name":"Leeds",
+    "division_type":"Council area"
+  },
+  "LEC":{
+    "division_name":"Leicestershire",
+    "division_type":"County"
+  },
+  "LEW":{
+    "division_name":"Lewisham",
+    "division_type":"Council area"
+  },
+  "LIN":{
+    "division_name":"Lincolnshire",
+    "division_type":"County"
+  },
+  "LIV":{
+    "division_name":"Liverpool",
+    "division_type":"Council area"
+  },
+  "LMV":{
+    "division_name":"Limavady",
+    "division_type":"District council area"
+  },
+  "LND":{
+    "division_name":"London,\"City of",
+    "division_type":"City Corporation"
+  },
+  "LRN":{
+    "division_name":"Larne",
+    "division_type":"District council area"
+  },
+  "LSB":{
+    "division_name":"Lisburn",
+    "division_type":"District council area"
+  },
+  "LUT":{
+    "division_name":"Luton",
+    "division_type":"Unitary authority"
+  },
+  "MAN":{
+    "division_name":"Manchester",
+    "division_type":"Council area"
+  },
+  "MDB":{
+    "division_name":"Middlesbrough",
+    "division_type":"Unitary authority"
+  },
+  "MDW":{
+    "division_name":"Medway",
+    "division_type":"Unitary authority"
+  },
+  "MFT":{
+    "division_name":"Magherafelt",
+    "division_type":"District council area"
+  },
+  "MIK":{
+    "division_name":"Milton Keynes",
+    "division_type":"Unitary authority"
+  },
+  "MLN":{
+    "division_name":"Midlothian",
+    "division_type":"Council area"
+  },
+  "MON":{
+    "division_name":"Monmouthshire [Sir Fynwy GB-FYN]",
+    "division_type":"Unitary authority"
+  },
+  "MRT":{
+    "division_name":"Merton",
+    "division_type":"Council area"
+  },
+  "MRY":{
+    "division_name":"Moray",
+    "division_type":"Council area"
+  },
+  "MTY":{
+    "division_name":"Merthyr Tydfil [Merthyr Tudful GB-MTU]",
+    "division_type":"Unitary authority"
+  },
+  "MYL":{
+    "division_name":"Moyle",
+    "division_type":"District council area"
+  },
+  "NAY":{
+    "division_name":"North Ayrshire",
+    "division_type":"Council area"
+  },
+  "NBL":{
+    "division_name":"Northumberland",
+    "division_type":"Unitary authority"
+  },
+  "NDN":{
+    "division_name":"North Down",
+    "division_type":"District council area"
+  },
+  "NEL":{
+    "division_name":"North East Lincolnshire",
+    "division_type":"Unitary authority"
+  },
+  "NET":{
+    "division_name":"Newcastle upon Tyne",
+    "division_type":"Council area"
+  },
+  "NFK":{
+    "division_name":"Norfolk",
+    "division_type":"County"
+  },
+  "NGM":{
+    "division_name":"Nottingham",
+    "division_type":"Unitary authority"
+  },
+  "NLK":{
+    "division_name":"North Lanarkshire",
+    "division_type":"Council area"
+  },
+  "NLN":{
+    "division_name":"North Lincolnshire",
+    "division_type":"Unitary authority"
+  },
+  "NSM":{
+    "division_name":"North Somerset",
+    "division_type":"Unitary authority"
+  },
+  "NTA":{
+    "division_name":"Newtownabbey",
+    "division_type":"District council area"
+  },
+  "NTH":{
+    "division_name":"Northamptonshire",
+    "division_type":"County"
+  },
+  "NTL":{
+    "division_name":"Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]",
+    "division_type":"Unitary authority"
+  },
+  "NTT":{
+    "division_name":"Nottinghamshire",
+    "division_type":"County"
+  },
+  "NTY":{
+    "division_name":"North Tyneside",
+    "division_type":"Council area"
+  },
+  "NWM":{
+    "division_name":"Newham",
+    "division_type":"Council area"
+  },
+  "NWP":{
+    "division_name":"Newport [Casnewydd GB-CNW]",
+    "division_type":"Unitary authority"
+  },
+  "NYK":{
+    "division_name":"North Yorkshire",
+    "division_type":"County"
+  },
+  "NYM":{
+    "division_name":"Newry and Mourne",
+    "division_type":"District council area"
+  },
+  "OLD":{
+    "division_name":"Oldham",
+    "division_type":"Council area"
+  },
+  "OMH":{
+    "division_name":"Omagh",
+    "division_type":"District council area"
+  },
+  "ORK":{
+    "division_name":"Orkney Islands",
+    "division_type":"Council area"
+  },
+  "OXF":{
+    "division_name":"Oxfordshire",
+    "division_type":"County"
+  },
+  "PEM":{
+    "division_name":"Pembrokeshire [Sir Benfro GB-BNF]",
+    "division_type":"Unitary authority"
+  },
+  "PKN":{
+    "division_name":"Perth and Kinross",
+    "division_type":"Council area"
+  },
+  "PLY":{
+    "division_name":"Plymouth",
+    "division_type":"Unitary authority"
+  },
+  "POL":{
+    "division_name":"Poole",
+    "division_type":"Unitary authority"
+  },
+  "POR":{
+    "division_name":"Portsmouth",
+    "division_type":"Unitary authority"
+  },
+  "POW":{
+    "division_name":"Powys",
+    "division_type":"Unitary authority"
+  },
+  "PTE":{
+    "division_name":"Peterborough",
+    "division_type":"Unitary authority"
+  },
+  "RCC":{
+    "division_name":"Redcar and Cleveland",
+    "division_type":"Unitary authority"
+  },
+  "RCH":{
+    "division_name":"Rochdale",
+    "division_type":"Council area"
+  },
+  "RCT":{
+    "division_name":"Rhondda,\"Cynon,\"Taff [Rhondda,\"Cynon,Taf]",
+    "division_type":"Unitary authority"
+  },
+  "RDB":{
+    "division_name":"Redbridge",
+    "division_type":"Council area"
+  },
+  "RDG":{
+    "division_name":"Reading",
+    "division_type":"Unitary authority"
+  },
+  "RFW":{
+    "division_name":"Renfrewshire",
+    "division_type":"Council area"
+  },
+  "RIC":{
+    "division_name":"Richmond upon Thames",
+    "division_type":"Council area"
+  },
+  "ROT":{
+    "division_name":"Rotherham",
+    "division_type":"Council area"
+  },
+  "RUT":{
+    "division_name":"Rutland",
+    "division_type":"Unitary authority"
+  },
+  "SAW":{
+    "division_name":"Sandwell",
+    "division_type":"Council area"
+  },
+  "SAY":{
+    "division_name":"South Ayrshire",
+    "division_type":"Council area"
+  },
+  "SCB":{
+    "division_name":"Scottish Borders,\"The",
+    "division_type":"Council area"
+  },
+  "SFK":{
+    "division_name":"Suffolk",
+    "division_type":"County"
+  },
+  "SFT":{
+    "division_name":"Sefton",
+    "division_type":"Council area"
+  },
+  "SGC":{
+    "division_name":"South Gloucestershire",
+    "division_type":"Unitary authority"
+  },
+  "SHF":{
+    "division_name":"Sheffield",
+    "division_type":"Council area"
+  },
+  "SHN":{
+    "division_name":"St. Helens",
+    "division_type":"Council area"
+  },
+  "SHR":{
+    "division_name":"Shropshire",
+    "division_type":"Unitary authority"
+  },
+  "SKP":{
+    "division_name":"Stockport",
+    "division_type":"Council area"
+  },
+  "SLF":{
+    "division_name":"Salford",
+    "division_type":"Council area"
+  },
+  "SLG":{
+    "division_name":"Slough",
+    "division_type":"Unitary authority"
+  },
+  "SLK":{
+    "division_name":"South Lanarkshire",
+    "division_type":"Council area"
+  },
+  "SND":{
+    "division_name":"Sunderland",
+    "division_type":"Council area"
+  },
+  "SOL":{
+    "division_name":"Solihull",
+    "division_type":"Council area"
+  },
+  "SOM":{
+    "division_name":"Somerset",
+    "division_type":"County"
+  },
+  "SOS":{
+    "division_name":"Southend-on-Sea",
+    "division_type":"Unitary authority"
+  },
+  "SRY":{
+    "division_name":"Surrey",
+    "division_type":"County"
+  },
+  "STB":{
+    "division_name":"Strabane",
+    "division_type":"District council area"
+  },
+  "STE":{
+    "division_name":"Stoke-on-Trent",
+    "division_type":"Unitary authority"
+  },
+  "STG":{
+    "division_name":"Stirling",
+    "division_type":"Council area"
+  },
+  "STH":{
+    "division_name":"Southampton",
+    "division_type":"Unitary authority"
+  },
+  "STN":{
+    "division_name":"Sutton",
+    "division_type":"Council area"
+  },
+  "STS":{
+    "division_name":"Staffordshire",
+    "division_type":"County"
+  },
+  "STT":{
+    "division_name":"Stockton-on-Tees",
+    "division_type":"Unitary authority"
+  },
+  "STY":{
+    "division_name":"South Tyneside",
+    "division_type":"Council area"
+  },
+  "SWA":{
+    "division_name":"Swansea [Abertawe GB-ATA]",
+    "division_type":"Unitary authority"
+  },
+  "SWD":{
+    "division_name":"Swindon",
+    "division_type":"Unitary authority"
+  },
+  "SWK":{
+    "division_name":"Southwark",
+    "division_type":"Council area"
+  },
+  "TAM":{
+    "division_name":"Tameside",
+    "division_type":"Council area"
+  },
+  "TFW":{
+    "division_name":"Telford and Wrekin",
+    "division_type":"Unitary authority"
+  },
+  "THR":{
+    "division_name":"Thurrock",
+    "division_type":"Unitary authority"
+  },
+  "TOB":{
+    "division_name":"Torbay",
+    "division_type":"Unitary authority"
+  },
+  "TOF":{
+    "division_name":"Torfaen [Tor-faen]",
+    "division_type":"Unitary authority"
+  },
+  "TRF":{
+    "division_name":"Trafford",
+    "division_type":"Council area"
+  },
+  "TWH":{
+    "division_name":"Tower Hamlets",
+    "division_type":"Council area"
+  },
+  "VGL":{
+    "division_name":"Vale of Glamorgan,\"The [Bro Morgannwg GB-BMG]",
+    "division_type":"Unitary authority"
+  },
+  "WAR":{
+    "division_name":"Warwickshire",
+    "division_type":"County"
+  },
+  "WBK":{
+    "division_name":"West Berkshire",
+    "division_type":"Unitary authority"
+  },
+  "WDU":{
+    "division_name":"West Dunbartonshire",
+    "division_type":"Council area"
+  },
+  "WFT":{
+    "division_name":"Waltham Forest",
+    "division_type":"Council area"
+  },
+  "WGN":{
+    "division_name":"Wigan",
+    "division_type":"Council area"
+  },
+  "WIL":{
+    "division_name":"Wiltshire",
+    "division_type":"Unitary authority"
+  },
+  "WKF":{
+    "division_name":"Wakefield",
+    "division_type":"Council area"
+  },
+  "WLL":{
+    "division_name":"Walsall",
+    "division_type":"Council area"
+  },
+  "WLN":{
+    "division_name":"West Lothian",
+    "division_type":"Council area"
+  },
+  "WLV":{
+    "division_name":"Wolverhampton",
+    "division_type":"Council area"
+  },
+  "WND":{
+    "division_name":"Wandsworth",
+    "division_type":"Council area"
+  },
+  "WNM":{
+    "division_name":"Windsor and Maidenhead",
+    "division_type":"Unitary authority"
+  },
+  "WOK":{
+    "division_name":"Wokingham",
+    "division_type":"Unitary authority"
+  },
+  "WOR":{
+    "division_name":"Worcestershire",
+    "division_type":"County"
+  },
+  "WRL":{
+    "division_name":"Wirral",
+    "division_type":"Council area"
+  },
+  "WRT":{
+    "division_name":"Warrington",
+    "division_type":"Unitary authority"
+  },
+  "WRX":{
+    "division_name":"Wrexham [Wrecsam GB-WRC]",
+    "division_type":"Unitary authority"
+  },
+  "WSM":{
+    "division_name":"Westminster",
+    "division_type":"Council area"
+  },
+  "WSX":{
+    "division_name":"West Sussex",
+    "division_type":"County"
+  },
+  "YOR":{
+    "division_name":"York",
+    "division_type":"Unitary authority"
+  },
+  "ZET":{
+    "division_name":"Shetland Islands",
+    "division_type":"Council area"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "country_code":"PG",
+  "country_name":"Papua New Guinea",
+  "currency_code":"PGK",
+  "fips_code":"PP",
+  "iso_numeric":"598",
+  "north":"-1.318639",
+  "south":"-11.657861",
+  "east":"155.96344",
+  "west":"140.842865",
+  "capital":"Port Moresby",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"PNG",
+  "geoname_id":"2088628",
+  "languages":[
+    "en-PG",
+    "ho",
+    "meu",
+    "tpi"
+  ]
+}

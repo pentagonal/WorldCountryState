@@ -1,0 +1,21 @@
+{
+  "country_code":"CD",
+  "country_name":"Democratic Republic of the Congo",
+  "currency_code":"CDF",
+  "fips_code":"CG",
+  "iso_numeric":"180",
+  "north":"5.386098",
+  "south":"-13.455675",
+  "east":"31.305912",
+  "west":"12.204144",
+  "capital":"Kinshasa",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"COD",
+  "geoname_id":"203312",
+  "languages":[
+    "fr-CD",
+    "ln",
+    "kg"
+  ]
+}

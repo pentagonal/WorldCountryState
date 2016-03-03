@@ -1,0 +1,252 @@
+{
+  "country_code":"US",
+  "country_name":"United States",
+  "currency_code":"USD",
+  "fips_code":"US",
+  "iso_numeric":"840",
+  "north":"49.388611",
+  "south":"24.544245",
+  "east":"-66.954811",
+  "west":"-124.733253",
+  "capital":"Washington",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"USA",
+  "geoname_id":"6252001",
+  "languages":[
+    "en-US",
+    "es-US",
+    "haw",
+    "fr"
+  ],
+  "subdivision":{
+    "AK":{
+      "division_name":"Alaska",
+      "division_type":"State"
+    },
+    "AL":{
+      "division_name":"Alabama",
+      "division_type":"State"
+    },
+    "AR":{
+      "division_name":"Arkansas",
+      "division_type":"State"
+    },
+    "AS":{
+      "division_name":"American Samoa",
+      "division_type":"Outlying area"
+    },
+    "AZ":{
+      "division_name":"Arizona",
+      "division_type":"State"
+    },
+    "CA":{
+      "division_name":"California",
+      "division_type":"State"
+    },
+    "CO":{
+      "division_name":"Colorado",
+      "division_type":"State"
+    },
+    "CT":{
+      "division_name":"Connecticut",
+      "division_type":"State"
+    },
+    "DC":{
+      "division_name":"District of Columbia",
+      "division_type":"District"
+    },
+    "DE":{
+      "division_name":"Delaware",
+      "division_type":"State"
+    },
+    "FL":{
+      "division_name":"Florida",
+      "division_type":"State"
+    },
+    "GA":{
+      "division_name":"Georgia",
+      "division_type":"State"
+    },
+    "GU":{
+      "division_name":"Guam",
+      "division_type":"Outlying area"
+    },
+    "HI":{
+      "division_name":"Hawaii",
+      "division_type":"State"
+    },
+    "IA":{
+      "division_name":"Iowa",
+      "division_type":"State"
+    },
+    "ID":{
+      "division_name":"Idaho",
+      "division_type":"State"
+    },
+    "IL":{
+      "division_name":"Illinois",
+      "division_type":"State"
+    },
+    "IN":{
+      "division_name":"Indiana",
+      "division_type":"State"
+    },
+    "KS":{
+      "division_name":"Kansas",
+      "division_type":"State"
+    },
+    "KY":{
+      "division_name":"Kentucky",
+      "division_type":"State"
+    },
+    "LA":{
+      "division_name":"Louisiana",
+      "division_type":"State"
+    },
+    "MA":{
+      "division_name":"Massachusetts",
+      "division_type":"State"
+    },
+    "MD":{
+      "division_name":"Maryland",
+      "division_type":"State"
+    },
+    "ME":{
+      "division_name":"Maine",
+      "division_type":"State"
+    },
+    "MI":{
+      "division_name":"Michigan",
+      "division_type":"State"
+    },
+    "MN":{
+      "division_name":"Minnesota",
+      "division_type":"State"
+    },
+    "MO":{
+      "division_name":"Missouri",
+      "division_type":"State"
+    },
+    "MP":{
+      "division_name":"Northern Mariana Islands",
+      "division_type":"Outlying area"
+    },
+    "MS":{
+      "division_name":"Mississippi",
+      "division_type":"State"
+    },
+    "MT":{
+      "division_name":"Montana",
+      "division_type":"State"
+    },
+    "NC":{
+      "division_name":"North Carolina",
+      "division_type":"State"
+    },
+    "ND":{
+      "division_name":"North Dakota",
+      "division_type":"State"
+    },
+    "NE":{
+      "division_name":"Nebraska",
+      "division_type":"State"
+    },
+    "NH":{
+      "division_name":"New Hampshire",
+      "division_type":"State"
+    },
+    "NJ":{
+      "division_name":"New Jersey",
+      "division_type":"State"
+    },
+    "NM":{
+      "division_name":"New Mexico",
+      "division_type":"State"
+    },
+    "NV":{
+      "division_name":"Nevada",
+      "division_type":"State"
+    },
+    "NY":{
+      "division_name":"New York",
+      "division_type":"State"
+    },
+    "OH":{
+      "division_name":"Ohio",
+      "division_type":"State"
+    },
+    "OK":{
+      "division_name":"Oklahoma",
+      "division_type":"State"
+    },
+    "OR":{
+      "division_name":"Oregon",
+      "division_type":"State"
+    },
+    "PA":{
+      "division_name":"Pennsylvania",
+      "division_type":"State"
+    },
+    "PR":{
+      "division_name":"Puerto Rico",
+      "division_type":"Outlying area"
+    },
+    "RI":{
+      "division_name":"Rhode Island",
+      "division_type":"State"
+    },
+    "SC":{
+      "division_name":"South Carolina",
+      "division_type":"State"
+    },
+    "SD":{
+      "division_name":"South Dakota",
+      "division_type":"State"
+    },
+    "TN":{
+      "division_name":"Tennessee",
+      "division_type":"State"
+    },
+    "TX":{
+      "division_name":"Texas",
+      "division_type":"State"
+    },
+    "UM":{
+      "division_name":"U.S. Minor Outlying Islands",
+      "division_type":"Outlying area"
+    },
+    "UT":{
+      "division_name":"Utah",
+      "division_type":"State"
+    },
+    "VA":{
+      "division_name":"Virginia",
+      "division_type":"State"
+    },
+    "VI":{
+      "division_name":"Virgin Islands of the U.S.",
+      "division_type":"Outlying area"
+    },
+    "VT":{
+      "division_name":"Vermont",
+      "division_type":"State"
+    },
+    "WA":{
+      "division_name":"Washington",
+      "division_type":"State"
+    },
+    "WI":{
+      "division_name":"Wisconsin",
+      "division_type":"State"
+    },
+    "WV":{
+      "division_name":"West Virginia",
+      "division_type":"State"
+    },
+    "WY":{
+      "division_name":"Wyoming",
+      "division_type":"State"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "country_code":"VU",
+  "country_name":"Vanuatu",
+  "currency_code":"VUV",
+  "fips_code":"NH",
+  "iso_numeric":"548",
+  "north":"-13.073444",
+  "south":"-20.248945",
+  "east":"169.904785",
+  "west":"166.524979",
+  "capital":"Port Vila",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"VUT",
+  "geoname_id":"2134431",
+  "languages":[
+    "bi",
+    "en-VU",
+    "fr-VU"
+  ],
+  "subdivision":{
+    "MAP":{
+      "division_name":"Malampa",
+      "division_type":"state"
+    },
+    "PAM":{
+      "division_name":"P\u00e9nama",
+      "division_type":"State"
+    },
+    "SAM":{
+      "division_name":"Sanma",
+      "division_type":"State"
+    },
+    "SEE":{
+      "division_name":"Sh\u00e9fa",
+      "division_type":"State"
+    },
+    "TAE":{
+      "division_name":"Taf\u00e9a",
+      "division_type":"State"
+    },
+    "TOB":{
+      "division_name":"Torba",
+      "division_type":"State"
+    }
+  }
+}

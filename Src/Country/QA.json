@@ -1,0 +1,50 @@
+{
+  "country_code":"QA",
+  "country_name":"Qatar",
+  "currency_code":"QAR",
+  "fips_code":"QA",
+  "iso_numeric":"634",
+  "north":"26.154722",
+  "south":"24.482944",
+  "east":"51.636639",
+  "west":"50.757221",
+  "capital":"Doha",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"QAT",
+  "geoname_id":"289688",
+  "languages":[
+    "ar-QA",
+    "es"
+  ],
+  "subdivision":{
+    "DA":{
+      "division_name":"Ad Dawhah",
+      "division_type":"Municipality"
+    },
+    "KH":{
+      "division_name":"Al Khawr wa adh Dhakhirah",
+      "division_type":"Municipality"
+    },
+    "MS":{
+      "division_name":"Ash Shamal",
+      "division_type":"Municipality"
+    },
+    "RA":{
+      "division_name":"Ar Rayyan",
+      "division_type":"Municipality"
+    },
+    "US":{
+      "division_name":"Umm Salal",
+      "division_type":"Municipality"
+    },
+    "WA":{
+      "division_name":"Al Wakrah",
+      "division_type":"Municipality"
+    },
+    "ZA":{
+      "division_name":"Az\u00b8 Z\u00b8a\u2018ayin",
+      "division_type":"Municipality"
+    }
+  }
+}

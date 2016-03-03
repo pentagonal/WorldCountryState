@@ -1,0 +1,20 @@
+{
+  "country_code":"SZ",
+  "country_name":"Swaziland",
+  "currency_code":"SZL",
+  "fips_code":"WZ",
+  "iso_numeric":"748",
+  "north":"-25.719648",
+  "south":"-27.317101",
+  "east":"32.13726",
+  "west":"30.794107",
+  "capital":"Mbabane",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SWZ",
+  "geoname_id":"934841",
+  "languages":[
+    "en-SZ",
+    "ss-SZ"
+  ]
+}

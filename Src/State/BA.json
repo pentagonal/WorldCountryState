@@ -1,0 +1,54 @@
+{
+  "01":{
+    "division_name":"Unsko-Sanski Kanton",
+    "division_type":"Canton"
+  },
+  "02":{
+    "division_name":"Posavski Kanton",
+    "division_type":"Canton"
+  },
+  "03":{
+    "division_name":"Tuzlanski Kanton",
+    "division_type":"Canton"
+  },
+  "04":{
+    "division_name":"Zenicko-Dobojski Kanton",
+    "division_type":"Canton"
+  },
+  "05":{
+    "division_name":"Bosansko-Podrinjski Kanton",
+    "division_type":"Canton"
+  },
+  "06":{
+    "division_name":"Srednjobosanski Kanton",
+    "division_type":"Canton"
+  },
+  "07":{
+    "division_name":"Hercegovacko-Neretvanski Kanton",
+    "division_type":"Canton"
+  },
+  "08":{
+    "division_name":"Zapadnohercegovacki kanton",
+    "division_type":"Canton"
+  },
+  "09":{
+    "division_name":"Kanton Sarajevo",
+    "division_type":"Canton"
+  },
+  "10":{
+    "division_name":"\u017dupanija br. 10-(Hercegbosanska \u017eupanija)",
+    "division_type":"Canton"
+  },
+  "BIH":{
+    "division_name":"Federacija Bosne i Hercegovine",
+    "division_type":"Entity"
+  },
+  "BRC":{
+    "division_name":"Brcko distrikt",
+    "division_type":"District with special status"
+  },
+  "SRP":{
+    "division_name":"Republika Srpska",
+    "division_type":"Entity"
+  }
+}

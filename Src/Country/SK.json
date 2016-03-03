@@ -1,0 +1,54 @@
+{
+  "country_code":"SK",
+  "country_name":"Slovakia",
+  "currency_code":"EUR",
+  "fips_code":"LO",
+  "iso_numeric":"703",
+  "north":"49.603168",
+  "south":"47.728111",
+  "east":"22.570444",
+  "west":"16.84775",
+  "capital":"Bratislava",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"SVK",
+  "geoname_id":"3057568",
+  "languages":[
+    "sk",
+    "hu"
+  ],
+  "subdivision":{
+    "BC":{
+      "division_name":"Banskobystrick\u00fd kraj",
+      "division_type":"Region"
+    },
+    "BL":{
+      "division_name":"Bratislavsk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "KI":{
+      "division_name":"Ko\u0161ick\u00fd kraj",
+      "division_type":"Region"
+    },
+    "NI":{
+      "division_name":"Nitriansky kraj",
+      "division_type":"Region"
+    },
+    "PV":{
+      "division_name":"Pre\u0161ovsk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "TA":{
+      "division_name":"Trnavsk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "TC":{
+      "division_name":"Trenciansky kraj",
+      "division_type":"Region"
+    },
+    "ZI":{
+      "division_name":"\u017dilinsk\u00fd kraj",
+      "division_type":"Region"
+    }
+  }
+}

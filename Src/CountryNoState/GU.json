@@ -1,0 +1,20 @@
+{
+  "country_code":"GU",
+  "country_name":"Guam",
+  "currency_code":"USD",
+  "fips_code":"GQ",
+  "iso_numeric":"316",
+  "north":"13.654402",
+  "south":"13.23376",
+  "east":"144.956894",
+  "west":"144.61806",
+  "capital":"Hag\u00e5t\u00f1a",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"GUM",
+  "geoname_id":"4043988",
+  "languages":[
+    "en-GU",
+    "ch-GU"
+  ]
+}

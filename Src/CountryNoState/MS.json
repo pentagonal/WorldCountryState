@@ -1,0 +1,19 @@
+{
+  "country_code":"MS",
+  "country_name":"Montserrat",
+  "currency_code":"XCD",
+  "fips_code":"MH",
+  "iso_numeric":"500",
+  "north":"16.824060205313184",
+  "south":"16.674768935441556",
+  "east":"-62.144100129608205",
+  "west":"-62.24138237036129",
+  "capital":"Plymouth",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"MSR",
+  "geoname_id":"3578097",
+  "languages":[
+    "en-MS"
+  ]
+}

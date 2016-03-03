@@ -1,0 +1,20 @@
+{
+  "country_code":"NI",
+  "country_name":"Nicaragua",
+  "currency_code":"NIO",
+  "fips_code":"NU",
+  "iso_numeric":"558",
+  "north":"15.025909",
+  "south":"10.707543",
+  "east":"-82.738289",
+  "west":"-87.690308",
+  "capital":"Managua",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"NIC",
+  "geoname_id":"3617476",
+  "languages":[
+    "es-NI",
+    "en"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "A":{
+    "division_name":"Anjouan",
+    "division_type":"Island"
+  },
+  "G":{
+    "division_name":"Grande Comore",
+    "division_type":"Island"
+  },
+  "M":{
+    "division_name":"Moh\u00e9li",
+    "division_type":"Island"
+  }
+}

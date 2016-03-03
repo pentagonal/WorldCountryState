@@ -1,0 +1,20 @@
+{
+  "country_code":"KE",
+  "country_name":"Kenya",
+  "currency_code":"KES",
+  "fips_code":"KE",
+  "iso_numeric":"404",
+  "north":"5.019938",
+  "south":"-4.678047",
+  "east":"41.899078",
+  "west":"33.908859",
+  "capital":"Nairobi",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"KEN",
+  "geoname_id":"192950",
+  "languages":[
+    "en-KE",
+    "sw-KE"
+  ]
+}

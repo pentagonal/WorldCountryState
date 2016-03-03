@@ -1,0 +1,21 @@
+{
+  "country_code":"MO",
+  "country_name":"Macao",
+  "currency_code":"MOP",
+  "fips_code":"MC",
+  "iso_numeric":"446",
+  "north":"22.222334",
+  "south":"22.180389",
+  "east":"113.565834",
+  "west":"113.528946",
+  "capital":"Macao",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"MAC",
+  "geoname_id":"1821275",
+  "languages":[
+    "zh",
+    "zh-MO",
+    "pt"
+  ]
+}

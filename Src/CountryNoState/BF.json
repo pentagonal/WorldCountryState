@@ -1,0 +1,19 @@
+{
+  "country_code":"BF",
+  "country_name":"Burkina Faso",
+  "currency_code":"XOF",
+  "fips_code":"UV",
+  "iso_numeric":"854",
+  "north":"15.082593",
+  "south":"9.401108",
+  "east":"2.405395",
+  "west":"-5.518916",
+  "capital":"Ouagadougou",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"BFA",
+  "geoname_id":"2361809",
+  "languages":[
+    "fr-BF"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "country_code":"BW",
+  "country_name":"Botswana",
+  "currency_code":"BWP",
+  "fips_code":"BC",
+  "iso_numeric":"072",
+  "north":"-17.780813",
+  "south":"-26.907246",
+  "east":"29.360781",
+  "west":"19.999535",
+  "capital":"Gaborone",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"BWA",
+  "geoname_id":"933860",
+  "languages":[
+    "en-BW",
+    "tn-BW"
+  ]
+}

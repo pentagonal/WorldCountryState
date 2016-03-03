@@ -1,0 +1,343 @@
+{
+  "country_code":"PH",
+  "country_name":"Philippines",
+  "currency_code":"PHP",
+  "fips_code":"RP",
+  "iso_numeric":"608",
+  "north":"21.120611",
+  "south":"4.643306",
+  "east":"126.601524",
+  "west":"116.931557",
+  "capital":"Manila",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"PHL",
+  "geoname_id":"1694008",
+  "languages":[
+    "tl",
+    "en-PH",
+    "fil"
+  ],
+  "subdivision":{
+    "00":{
+      "division_name":"National Capital R\u00e9gion (Manila)",
+      "division_type":"Region"
+    },
+    "ABR":{
+      "division_name":"Abra",
+      "division_type":"Province"
+    },
+    "AGN":{
+      "division_name":"Agusan del Norte",
+      "division_type":"Province"
+    },
+    "AGS":{
+      "division_name":"Agusan del Sur",
+      "division_type":"Province"
+    },
+    "AKL":{
+      "division_name":"Aklan",
+      "division_type":"Province"
+    },
+    "ALB":{
+      "division_name":"Albay",
+      "division_type":"Province"
+    },
+    "ANT":{
+      "division_name":"Antique",
+      "division_type":"Province"
+    },
+    "APA":{
+      "division_name":"Apayao",
+      "division_type":"Province"
+    },
+    "AUR":{
+      "division_name":"Aurora",
+      "division_type":"Province"
+    },
+    "BAN":{
+      "division_name":"Bataan",
+      "division_type":"Province"
+    },
+    "BAS":{
+      "division_name":"Basilan",
+      "division_type":"Province"
+    },
+    "BEN":{
+      "division_name":"Benguet",
+      "division_type":"Province"
+    },
+    "BIL":{
+      "division_name":"Biliran",
+      "division_type":"Province"
+    },
+    "BOH":{
+      "division_name":"Bohol",
+      "division_type":"Province"
+    },
+    "BTG":{
+      "division_name":"Batangas",
+      "division_type":"Province"
+    },
+    "BTN":{
+      "division_name":"Batanes",
+      "division_type":"Province"
+    },
+    "BUK":{
+      "division_name":"Bukidnon",
+      "division_type":"Province"
+    },
+    "BUL":{
+      "division_name":"Bulacan",
+      "division_type":"Province"
+    },
+    "CAG":{
+      "division_name":"Cagayan",
+      "division_type":"Province"
+    },
+    "CAM":{
+      "division_name":"Camiguin",
+      "division_type":"Province"
+    },
+    "CAN":{
+      "division_name":"Camarines Norte",
+      "division_type":"Province"
+    },
+    "CAP":{
+      "division_name":"Capiz",
+      "division_type":"Province"
+    },
+    "CAS":{
+      "division_name":"Camarines Sur",
+      "division_type":"Province"
+    },
+    "CAT":{
+      "division_name":"Catanduanes",
+      "division_type":"Province"
+    },
+    "CAV":{
+      "division_name":"Cavite",
+      "division_type":"Province"
+    },
+    "CEB":{
+      "division_name":"Cebu",
+      "division_type":"Province"
+    },
+    "COM":{
+      "division_name":"Compostela Valley",
+      "division_type":"Province"
+    },
+    "DAO":{
+      "division_name":"Davao Oriental",
+      "division_type":"Province"
+    },
+    "DAS":{
+      "division_name":"Davao del Sur",
+      "division_type":"Province"
+    },
+    "DAV":{
+      "division_name":"Davao del Norte",
+      "division_type":"Province"
+    },
+    "DIN":{
+      "division_name":"Dinagat Islands",
+      "division_type":"Province"
+    },
+    "EAS":{
+      "division_name":"Eastern Samar",
+      "division_type":"Province"
+    },
+    "GUI":{
+      "division_name":"Guimaras",
+      "division_type":"Province"
+    },
+    "IFU":{
+      "division_name":"Ifugao",
+      "division_type":"Province"
+    },
+    "ILI":{
+      "division_name":"Iloilo",
+      "division_type":"Province"
+    },
+    "ILN":{
+      "division_name":"Ilocos Norte",
+      "division_type":"Province"
+    },
+    "ILS":{
+      "division_name":"Ilocos Sur",
+      "division_type":"Province"
+    },
+    "ISA":{
+      "division_name":"Isabela",
+      "division_type":"Province"
+    },
+    "KAL":{
+      "division_name":"Kalinga-Apayao",
+      "division_type":"Province"
+    },
+    "LAG":{
+      "division_name":"Laguna",
+      "division_type":"Province"
+    },
+    "LAN":{
+      "division_name":"Lanao del Norte",
+      "division_type":"Province"
+    },
+    "LAS":{
+      "division_name":"Lanao del Sur",
+      "division_type":"Province"
+    },
+    "LEY":{
+      "division_name":"Leyte",
+      "division_type":"Province"
+    },
+    "LUN":{
+      "division_name":"La Union",
+      "division_type":"Province"
+    },
+    "MAG":{
+      "division_name":"Maguindanao",
+      "division_type":"Province"
+    },
+    "MAS":{
+      "division_name":"Masbate",
+      "division_type":"Province"
+    },
+    "MDC":{
+      "division_name":"Mindoro Occidental",
+      "division_type":"Province"
+    },
+    "MDR":{
+      "division_name":"Mindoro Oriental",
+      "division_type":"Province"
+    },
+    "MOU":{
+      "division_name":"Mountain Province",
+      "division_type":"Province"
+    },
+    "MSC":{
+      "division_name":"Misamis Occidental",
+      "division_type":"Province"
+    },
+    "MSR":{
+      "division_name":"Misamis Oriental",
+      "division_type":"Province"
+    },
+    "NCO":{
+      "division_name":"Kotabato",
+      "division_type":"Province"
+    },
+    "NEC":{
+      "division_name":"Negros occidental",
+      "division_type":"Province"
+    },
+    "NER":{
+      "division_name":"Negros oriental",
+      "division_type":"Province"
+    },
+    "NSA":{
+      "division_name":"Northern Samar",
+      "division_type":"Province"
+    },
+    "NUE":{
+      "division_name":"Nueva Ecija",
+      "division_type":"Province"
+    },
+    "NUV":{
+      "division_name":"Nueva Vizcaya",
+      "division_type":"Province"
+    },
+    "PAM":{
+      "division_name":"Pampanga",
+      "division_type":"Province"
+    },
+    "PAN":{
+      "division_name":"Pangasinan",
+      "division_type":"Province"
+    },
+    "PLW":{
+      "division_name":"Palawan",
+      "division_type":"Province"
+    },
+    "QUE":{
+      "division_name":"Quezon",
+      "division_type":"Province"
+    },
+    "QUI":{
+      "division_name":"Quirino",
+      "division_type":"Province"
+    },
+    "RIZ":{
+      "division_name":"Rizal",
+      "division_type":"Province"
+    },
+    "ROM":{
+      "division_name":"Romblon",
+      "division_type":"Province"
+    },
+    "SAR":{
+      "division_name":"Sarangani",
+      "division_type":"Province"
+    },
+    "SCO":{
+      "division_name":"South Cotabato",
+      "division_type":"Province"
+    },
+    "SIG":{
+      "division_name":"Siquijor",
+      "division_type":"Province"
+    },
+    "SLE":{
+      "division_name":"Southern Leyte",
+      "division_type":"Province"
+    },
+    "SLU":{
+      "division_name":"Sulu",
+      "division_type":"Province"
+    },
+    "SOR":{
+      "division_name":"Sorsogon",
+      "division_type":"Province"
+    },
+    "SUK":{
+      "division_name":"Sultan Kudarat",
+      "division_type":"Province"
+    },
+    "SUN":{
+      "division_name":"Surigao del Norte",
+      "division_type":"Province"
+    },
+    "SUR":{
+      "division_name":"Surigao del Sur",
+      "division_type":"Province"
+    },
+    "TAR":{
+      "division_name":"Tarlac",
+      "division_type":"Province"
+    },
+    "TAW":{
+      "division_name":"Tawi-Tawi",
+      "division_type":"Province"
+    },
+    "WSA":{
+      "division_name":"Western Samar",
+      "division_type":"Province"
+    },
+    "ZAN":{
+      "division_name":"Zamboanga del Norte",
+      "division_type":"Province"
+    },
+    "ZAS":{
+      "division_name":"Zamboanga del Sur",
+      "division_type":"Province"
+    },
+    "ZMB":{
+      "division_name":"Zambales",
+      "division_type":"Province"
+    },
+    "ZSI":{
+      "division_name":"Zamboanga Sibuguey [Zamboanga Sibugay]",
+      "division_type":"Province"
+    }
+  }
+}

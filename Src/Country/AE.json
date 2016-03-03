@@ -1,0 +1,53 @@
+{
+  "country_code":"AE",
+  "country_name":"United Arab Emirates",
+  "currency_code":"AED",
+  "fips_code":"AE",
+  "iso_numeric":"784",
+  "north":"26.08415985107422",
+  "south":"22.633329391479492",
+  "east":"56.38166046142578",
+  "west":"51.58332824707031",
+  "capital":"Abu Dhabi",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"ARE",
+  "geoname_id":"290557",
+  "languages":[
+    "ar-AE",
+    "fa",
+    "en",
+    "hi",
+    "ur"
+  ],
+  "subdivision":{
+    "AJ":{
+      "division_name":"'Ajman",
+      "division_type":"Emirate"
+    },
+    "AZ":{
+      "division_name":"Abu Z\u00b8aby [Abu Dhabi]",
+      "division_type":"Emirate"
+    },
+    "DU":{
+      "division_name":"Dubayy [Dubai]",
+      "division_type":"Emirate"
+    },
+    "FU":{
+      "division_name":"Al Fujayrah",
+      "division_type":"Emirate"
+    },
+    "RK":{
+      "division_name":"Ra\u2019s al Khaymah",
+      "division_type":"Emirate"
+    },
+    "SH":{
+      "division_name":"Ash Shariqah [Sharjah]",
+      "division_type":"Emirate"
+    },
+    "UQ":{
+      "division_name":"Umm al Qaywayn",
+      "division_type":"Emirate"
+    }
+  }
+}

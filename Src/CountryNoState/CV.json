@@ -1,0 +1,19 @@
+{
+  "country_code":"CV",
+  "country_name":"Cape Verde",
+  "currency_code":"CVE",
+  "fips_code":"CV",
+  "iso_numeric":"132",
+  "north":"17.197178",
+  "south":"14.808022",
+  "east":"-22.669443",
+  "west":"-25.358747",
+  "capital":"Praia",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"CPV",
+  "geoname_id":"3374766",
+  "languages":[
+    "pt-CV"
+  ]
+}

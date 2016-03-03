@@ -1,0 +1,24 @@
+{
+  "country_code":"CN",
+  "country_name":"China",
+  "currency_code":"CNY",
+  "fips_code":"CH",
+  "iso_numeric":"156",
+  "north":"53.56086",
+  "south":"15.775416",
+  "east":"134.773911",
+  "west":"73.557693",
+  "capital":"Beijing",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"CHN",
+  "geoname_id":"1814991",
+  "languages":[
+    "zh-CN",
+    "yue",
+    "wuu",
+    "dta",
+    "ug",
+    "za"
+  ]
+}

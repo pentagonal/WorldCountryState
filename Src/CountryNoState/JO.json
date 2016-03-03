@@ -1,0 +1,20 @@
+{
+  "country_code":"JO",
+  "country_name":"Jordan",
+  "currency_code":"JOD",
+  "fips_code":"JO",
+  "iso_numeric":"400",
+  "north":"33.367668",
+  "south":"29.185888",
+  "east":"39.301167",
+  "west":"34.959999",
+  "capital":"Amman",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"JOR",
+  "geoname_id":"248816",
+  "languages":[
+    "ar-JO",
+    "en"
+  ]
+}

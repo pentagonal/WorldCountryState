@@ -1,0 +1,23 @@
+{
+  "country_code":"GM",
+  "country_name":"Gambia",
+  "currency_code":"GMD",
+  "fips_code":"GA",
+  "iso_numeric":"270",
+  "north":"13.826571",
+  "south":"13.064252",
+  "east":"-13.797793",
+  "west":"-16.825079",
+  "capital":"Banjul",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"GMB",
+  "geoname_id":"2413451",
+  "languages":[
+    "en-GM",
+    "mnk",
+    "wof",
+    "wo",
+    "ff"
+  ]
+}

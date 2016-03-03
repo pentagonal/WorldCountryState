@@ -1,0 +1,19 @@
+{
+  "country_code":"AD",
+  "country_name":"Andorra",
+  "currency_code":"EUR",
+  "fips_code":"AN",
+  "iso_numeric":"020",
+  "north":"42.65604389629997",
+  "south":"42.42849259876837",
+  "east":"1.7865427778319827",
+  "west":"1.4071867141112762",
+  "capital":"Andorra la Vella",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"AND",
+  "geoname_id":"3041565",
+  "languages":[
+    "ca"
+  ]
+}

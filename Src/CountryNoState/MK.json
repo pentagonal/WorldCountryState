@@ -1,0 +1,23 @@
+{
+  "country_code":"MK",
+  "country_name":"Macedonia",
+  "currency_code":"MKD",
+  "fips_code":"MK",
+  "iso_numeric":"807",
+  "north":"42.361805",
+  "south":"40.860195",
+  "east":"23.038139",
+  "west":"20.464695",
+  "capital":"Skopje",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"MKD",
+  "geoname_id":"718075",
+  "languages":[
+    "mk",
+    "sq",
+    "tr",
+    "rmm",
+    "sr"
+  ]
+}

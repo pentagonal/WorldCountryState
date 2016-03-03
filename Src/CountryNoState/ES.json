@@ -1,0 +1,23 @@
+{
+  "country_code":"ES",
+  "country_name":"Spain",
+  "currency_code":"EUR",
+  "fips_code":"SP",
+  "iso_numeric":"724",
+  "north":"43.7913565913767",
+  "south":"36.0001044260548",
+  "east":"4.32778473043961",
+  "west":"-9.30151567231899",
+  "capital":"Madrid",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"ESP",
+  "geoname_id":"2510769",
+  "languages":[
+    "es-ES",
+    "ca",
+    "gl",
+    "eu",
+    "oc"
+  ]
+}

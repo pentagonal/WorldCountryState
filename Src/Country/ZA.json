@@ -1,0 +1,67 @@
+{
+  "country_code":"ZA",
+  "country_name":"South Africa",
+  "currency_code":"ZAR",
+  "fips_code":"SF",
+  "iso_numeric":"710",
+  "north":"-22.126612",
+  "south":"-34.839828",
+  "east":"32.895973",
+  "west":"16.458021",
+  "capital":"Pretoria",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ZAF",
+  "geoname_id":"953987",
+  "languages":[
+    "zu",
+    "xh",
+    "af",
+    "nso",
+    "en-ZA",
+    "tn",
+    "st",
+    "ts",
+    "ss",
+    "ve",
+    "nr"
+  ],
+  "subdivision":{
+    "EC":{
+      "division_name":"Eastern Cape",
+      "division_type":"Province"
+    },
+    "FS":{
+      "division_name":"Free State",
+      "division_type":"Province"
+    },
+    "GT":{
+      "division_name":"Gauteng",
+      "division_type":"Province"
+    },
+    "LP":{
+      "division_name":"Limpopo",
+      "division_type":"Province"
+    },
+    "MP":{
+      "division_name":"Mpumalanga",
+      "division_type":"Province"
+    },
+    "NC":{
+      "division_name":"Northern Cape",
+      "division_type":"Province"
+    },
+    "NL":{
+      "division_name":"Kwazulu-Natal",
+      "division_type":"Province"
+    },
+    "NW":{
+      "division_name":"North-West",
+      "division_type":"Province"
+    },
+    "WC":{
+      "division_name":"Western Cape",
+      "division_type":"Province"
+    }
+  }
+}

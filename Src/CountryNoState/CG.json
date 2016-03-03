@@ -1,0 +1,21 @@
+{
+  "country_code":"CG",
+  "country_name":"Republic of the Congo",
+  "currency_code":"XAF",
+  "fips_code":"CF",
+  "iso_numeric":"178",
+  "north":"3.703082",
+  "south":"-5.027223",
+  "east":"18.649839",
+  "west":"11.205009",
+  "capital":"Brazzaville",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"COG",
+  "geoname_id":"2260494",
+  "languages":[
+    "fr-CG",
+    "kg",
+    "ln-CG"
+  ]
+}

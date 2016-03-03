@@ -1,0 +1,21 @@
+{
+  "country_code":"PH",
+  "country_name":"Philippines",
+  "currency_code":"PHP",
+  "fips_code":"RP",
+  "iso_numeric":"608",
+  "north":"21.120611",
+  "south":"4.643306",
+  "east":"126.601524",
+  "west":"116.931557",
+  "capital":"Manila",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"PHL",
+  "geoname_id":"1694008",
+  "languages":[
+    "tl",
+    "en-PH",
+    "fil"
+  ]
+}

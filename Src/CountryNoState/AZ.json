@@ -1,0 +1,21 @@
+{
+  "country_code":"AZ",
+  "country_name":"Azerbaijan",
+  "currency_code":"AZN",
+  "fips_code":"AJ",
+  "iso_numeric":"031",
+  "north":"41.90564",
+  "south":"38.38915252685547",
+  "east":"50.370083",
+  "west":"44.774113",
+  "capital":"Baku",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"AZE",
+  "geoname_id":"587116",
+  "languages":[
+    "az",
+    "ru",
+    "hy"
+  ]
+}

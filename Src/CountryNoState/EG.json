@@ -1,0 +1,21 @@
+{
+  "country_code":"EG",
+  "country_name":"Egypt",
+  "currency_code":"EGP",
+  "fips_code":"EG",
+  "iso_numeric":"818",
+  "north":"31.667334",
+  "south":"21.725389",
+  "east":"36.89833068847656",
+  "west":"24.698111",
+  "capital":"Cairo",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"EGY",
+  "geoname_id":"357994",
+  "languages":[
+    "ar-EG",
+    "en",
+    "fr"
+  ]
+}

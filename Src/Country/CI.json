@@ -1,0 +1,97 @@
+{
+  "country_code":"CI",
+  "country_name":"Ivory Coast",
+  "currency_code":"XOF",
+  "fips_code":"IV",
+  "iso_numeric":"384",
+  "north":"10.736642",
+  "south":"4.357067",
+  "east":"-2.494897",
+  "west":"-8.599302",
+  "capital":"Yamoussoukro",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"CIV",
+  "geoname_id":"2287781",
+  "languages":[
+    "fr-CI"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Lagunes (R\u00e9gion des)",
+      "division_type":"Region"
+    },
+    "02":{
+      "division_name":"Haut-Sassandra (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "03":{
+      "division_name":"Savanes (R\u00e9gion des)",
+      "division_type":"Region"
+    },
+    "04":{
+      "division_name":"Vall\u00e9e du Bandama (R\u00e9gion de la)",
+      "division_type":"Region"
+    },
+    "05":{
+      "division_name":"Moyen-Como\u00e9 (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "06":{
+      "division_name":"18 Montagnes (R\u00e9gion des)",
+      "division_type":"Region"
+    },
+    "07":{
+      "division_name":"Lacs (R\u00e9gion des)",
+      "division_type":"Region"
+    },
+    "08":{
+      "division_name":"Zanzan (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "09":{
+      "division_name":"Bas-Sassandra (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "10":{
+      "division_name":"Dengu\u00e9l\u00e9 (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "11":{
+      "division_name":"Nzi-Como\u00e9 (R\u00e9gion)",
+      "division_type":"Region"
+    },
+    "12":{
+      "division_name":"Marahou\u00e9 (R\u00e9gion de la)",
+      "division_type":"Region"
+    },
+    "13":{
+      "division_name":"Sud-Como\u00e9 (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "14":{
+      "division_name":"Worodougou (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "15":{
+      "division_name":"Sud-Bandama (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "16":{
+      "division_name":"Agn\u00e9bi (R\u00e9gion de l')",
+      "division_type":"Region"
+    },
+    "17":{
+      "division_name":"Bafing (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "18":{
+      "division_name":"Fromager (R\u00e9gion du)",
+      "division_type":"Region"
+    },
+    "19":{
+      "division_name":"Moyen-Cavally (R\u00e9gion du)",
+      "division_type":"Region"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "A":{
+    "division_name":"Toamasina",
+    "division_type":"Province"
+  },
+  "D":{
+    "division_name":"Antsiranana",
+    "division_type":"Province"
+  },
+  "F":{
+    "division_name":"Fianarantsoa",
+    "division_type":"Province"
+  },
+  "M":{
+    "division_name":"Mahajanga",
+    "division_type":"Province"
+  },
+  "T":{
+    "division_name":"Antananarivo",
+    "division_type":"Province"
+  },
+  "U":{
+    "division_name":"Toliara",
+    "division_type":"Province"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "1":{
+    "division_name":"Concepci\u00f3n",
+    "division_type":"Department"
+  },
+  "10":{
+    "division_name":"Alto Paran\u00e1",
+    "division_type":"Department"
+  },
+  "11":{
+    "division_name":"Central",
+    "division_type":"Department"
+  },
+  "12":{
+    "division_name":"\u00d1eembuc\u00fa",
+    "division_type":"Department"
+  },
+  "13":{
+    "division_name":"Amambay",
+    "division_type":"Department"
+  },
+  "14":{
+    "division_name":"Canindey\u00fa",
+    "division_type":"Department"
+  },
+  "15":{
+    "division_name":"Presidente Hayes",
+    "division_type":"Department"
+  },
+  "16":{
+    "division_name":"Alto Paraguay",
+    "division_type":"Department"
+  },
+  "19":{
+    "division_name":"Boquer\u00f3n",
+    "division_type":"Department"
+  },
+  "2":{
+    "division_name":"San Pedro",
+    "division_type":"Department"
+  },
+  "3":{
+    "division_name":"Cordillera",
+    "division_type":"Department"
+  },
+  "4":{
+    "division_name":"Guair\u00e1",
+    "division_type":"Department"
+  },
+  "5":{
+    "division_name":"Caaguaz\u00fa",
+    "division_type":"Department"
+  },
+  "6":{
+    "division_name":"Caazap\u00e1",
+    "division_type":"Department"
+  },
+  "7":{
+    "division_name":"Itap\u00faa",
+    "division_type":"Department"
+  },
+  "8":{
+    "division_name":"Misiones",
+    "division_type":"Department"
+  },
+  "9":{
+    "division_name":"Paraguar\u00ed",
+    "division_type":"Department"
+  },
+  "ASU":{
+    "division_name":"Asunci\u00f3n",
+    "division_type":"Capital"
+  }
+}

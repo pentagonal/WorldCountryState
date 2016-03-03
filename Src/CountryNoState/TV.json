@@ -1,0 +1,22 @@
+{
+  "country_code":"TV",
+  "country_name":"Tuvalu",
+  "currency_code":"AUD",
+  "fips_code":"TV",
+  "iso_numeric":"798",
+  "north":"-5.641972",
+  "south":"-10.801169",
+  "east":"179.863281",
+  "west":"176.064865",
+  "capital":"Funafuti",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"TUV",
+  "geoname_id":"2110297",
+  "languages":[
+    "tvl",
+    "en",
+    "sm",
+    "gil"
+  ]
+}

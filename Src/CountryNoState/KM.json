@@ -1,0 +1,20 @@
+{
+  "country_code":"KM",
+  "country_name":"Comoros",
+  "currency_code":"KMF",
+  "fips_code":"CN",
+  "iso_numeric":"174",
+  "north":"-11.362381",
+  "south":"-12.387857",
+  "east":"44.538223",
+  "west":"43.21579",
+  "capital":"Moroni",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"COM",
+  "geoname_id":"921929",
+  "languages":[
+    "ar",
+    "fr-KM"
+  ]
+}

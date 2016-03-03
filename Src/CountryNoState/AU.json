@@ -1,0 +1,19 @@
+{
+  "country_code":"AU",
+  "country_name":"Australia",
+  "currency_code":"AUD",
+  "fips_code":"AS",
+  "iso_numeric":"036",
+  "north":"-10.062805",
+  "south":"-43.64397",
+  "east":"153.639252",
+  "west":"112.911057",
+  "capital":"Canberra",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"AUS",
+  "geoname_id":"2077456",
+  "languages":[
+    "en-AU"
+  ]
+}

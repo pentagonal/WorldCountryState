@@ -1,0 +1,19 @@
+{
+  "country_code":"AG",
+  "country_name":"Antigua and Barbuda",
+  "currency_code":"XCD",
+  "fips_code":"AC",
+  "iso_numeric":"028",
+  "north":"17.729387",
+  "south":"16.996979",
+  "east":"-61.672421",
+  "west":"-61.906425",
+  "capital":"St. John's",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"ATG",
+  "geoname_id":"3576396",
+  "languages":[
+    "en-AG"
+  ]
+}

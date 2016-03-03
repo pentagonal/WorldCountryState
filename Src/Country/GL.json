@@ -1,0 +1,39 @@
+{
+  "country_code":"GL",
+  "country_name":"Greenland",
+  "currency_code":"DKK",
+  "fips_code":"GL",
+  "iso_numeric":"304",
+  "north":"83.627357",
+  "south":"59.777401",
+  "east":"-11.312319",
+  "west":"-73.04203",
+  "capital":"Nuuk",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"GRL",
+  "geoname_id":"3425505",
+  "languages":[
+    "kl",
+    "da-GL",
+    "en"
+  ],
+  "subdivision":{
+    "KU":{
+      "division_name":"Kommune Kujalleq",
+      "division_type":"Municipality"
+    },
+    "QA":{
+      "division_name":"Qaasuitsup Kommunia",
+      "division_type":"Municipality"
+    },
+    "QE":{
+      "division_name":"Qeqqata Kommunia",
+      "division_type":"Municipality"
+    },
+    "SM":{
+      "division_name":"Kommuneqarfik Sermersooq",
+      "division_type":"Municipality"
+    }
+  }
+}

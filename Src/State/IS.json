@@ -1,0 +1,38 @@
+[
+  {
+    "division_name":"Reykjav\u00edk",
+    "division_type":"Region"
+  },
+  {
+    "division_name":"H\u00f6fu\u00f0borgarsv\u00e6\u00f0i utan Reykjav\u00edkur",
+    "division_type":"Region"
+  },
+  {
+    "division_name":"Su\u00f0urnes",
+    "division_type":"Region"
+  },
+  {
+    "division_name":"Vesturland",
+    "division_type":"Region"
+  },
+  {
+    "division_name":"Vestfir\u00f0ir",
+    "division_type":"Region"
+  },
+  {
+    "division_name":"Nor\u00f0urland vestra",
+    "division_type":"Region"
+  },
+  {
+    "division_name":"Nor\u00f0urland eystra",
+    "division_type":"Region"
+  },
+  {
+    "division_name":"Austurland",
+    "division_type":"Region"
+  },
+  {
+    "division_name":"Su\u00f0urland",
+    "division_type":"Region"
+  }
+]

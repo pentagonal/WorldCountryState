@@ -1,0 +1,114 @@
+{
+  "00":{
+    "division_name":"Alifu Dhaalu",
+    "division_type":"Administrative atoll"
+  },
+  "01":{
+    "division_name":"Seenu",
+    "division_type":"Administrative atoll"
+  },
+  "02":{
+    "division_name":"Alifu Alifu",
+    "division_type":"Administrative atoll"
+  },
+  "03":{
+    "division_name":"Lhaviyani",
+    "division_type":"Administrative atoll"
+  },
+  "04":{
+    "division_name":"Vaavu",
+    "division_type":"Administrative atoll"
+  },
+  "05":{
+    "division_name":"Laamu",
+    "division_type":"Administrative atoll"
+  },
+  "07":{
+    "division_name":"Haa Alif",
+    "division_type":"Administrative atoll"
+  },
+  "08":{
+    "division_name":"Thaa",
+    "division_type":"Administrative atoll"
+  },
+  "12":{
+    "division_name":"Meemu",
+    "division_type":"Administrative atoll"
+  },
+  "13":{
+    "division_name":"Raa",
+    "division_type":"Administrative atoll"
+  },
+  "14":{
+    "division_name":"Faafu",
+    "division_type":"Administrative atoll"
+  },
+  "17":{
+    "division_name":"Dhaalu",
+    "division_type":"Administrative atoll"
+  },
+  "20":{
+    "division_name":"Baa",
+    "division_type":"Administrative atoll"
+  },
+  "23":{
+    "division_name":"Haa Dhaalu",
+    "division_type":"Administrative atoll"
+  },
+  "24":{
+    "division_name":"Shaviyani",
+    "division_type":"Administrative atoll"
+  },
+  "25":{
+    "division_name":"Noonu",
+    "division_type":"Administrative atoll"
+  },
+  "26":{
+    "division_name":"Kaafu",
+    "division_type":"Administrative atoll"
+  },
+  "27":{
+    "division_name":"Gaafu Alifu",
+    "division_type":"Administrative atoll"
+  },
+  "28":{
+    "division_name":"Gaafu Dhaalu",
+    "division_type":"Administrative atoll"
+  },
+  "29":{
+    "division_name":"Gnaviyani",
+    "division_type":"Administrative atoll"
+  },
+  "CE":{
+    "division_name":"Medhu",
+    "division_type":"Province"
+  },
+  "MLE":{
+    "division_name":"Male",
+    "division_type":"Capital"
+  },
+  "NC":{
+    "division_name":"Medhu-Uthuru",
+    "division_type":"Province"
+  },
+  "NO":{
+    "division_name":"Uthuru",
+    "division_type":"Province"
+  },
+  "SC":{
+    "division_name":"Medhu-Dhekunu",
+    "division_type":"Province"
+  },
+  "SU":{
+    "division_name":"Dhekunu",
+    "division_type":"Province"
+  },
+  "UN":{
+    "division_name":"Mathi-Uthuru",
+    "division_type":"Province"
+  },
+  "US":{
+    "division_name":"Mathi-Dhekunu",
+    "division_type":"Province"
+  }
+}

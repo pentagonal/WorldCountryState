@@ -1,0 +1,44 @@
+{
+  "country_code":"RW",
+  "country_name":"Rwanda",
+  "currency_code":"RWF",
+  "fips_code":"RW",
+  "iso_numeric":"646",
+  "north":"-1.053481",
+  "south":"-2.840679",
+  "east":"30.895958",
+  "west":"28.856794",
+  "capital":"Kigali",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"RWA",
+  "geoname_id":"49518",
+  "languages":[
+    "rw",
+    "en-RW",
+    "fr-RW",
+    "sw"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Ville de Kigali",
+      "division_type":"Town council"
+    },
+    "02":{
+      "division_name":"Est",
+      "division_type":"Province"
+    },
+    "03":{
+      "division_name":"Nord",
+      "division_type":"Province"
+    },
+    "04":{
+      "division_name":"Ouest",
+      "division_type":"Province"
+    },
+    "05":{
+      "division_name":"Sud",
+      "division_type":"Province"
+    }
+  }
+}

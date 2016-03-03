@@ -1,0 +1,20 @@
+{
+  "country_code":"TK",
+  "country_name":"Tokelau",
+  "currency_code":"NZD",
+  "fips_code":"TL",
+  "iso_numeric":"772",
+  "north":"-8.553613662719727",
+  "south":"-9.381111145019531",
+  "east":"-171.21142578125",
+  "west":"-172.50033569335938",
+  "capital":"",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"TKL",
+  "geoname_id":"4031074",
+  "languages":[
+    "tkl",
+    "en-TK"
+  ]
+}

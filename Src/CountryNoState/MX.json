@@ -1,0 +1,19 @@
+{
+  "country_code":"MX",
+  "country_name":"Mexico",
+  "currency_code":"MXN",
+  "fips_code":"MX",
+  "iso_numeric":"484",
+  "north":"32.716759",
+  "south":"14.532866",
+  "east":"-86.703392",
+  "west":"-118.453949",
+  "capital":"Mexico City",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"MEX",
+  "geoname_id":"3996063",
+  "languages":[
+    "es-MX"
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "001":{
+    "division_name":"Aglonas novads (Aglona)",
+    "division_type":"Municipality"
+  },
+  "002":{
+    "division_name":"Aizkraukles novads (Aizkraukle)",
+    "division_type":"Municipality"
+  },
+  "003":{
+    "division_name":"Aizputes novads (Aizpute)",
+    "division_type":"Municipality"
+  },
+  "004":{
+    "division_name":"Aknistes novads (Akniste)",
+    "division_type":"Municipality"
+  },
+  "005":{
+    "division_name":"Alojas novads (Aloja)",
+    "division_type":"Municipality"
+  },
+  "006":{
+    "division_name":"Alsungas novads (Alsunga)",
+    "division_type":"Municipality"
+  },
+  "007":{
+    "division_name":"Aluksnes novads (Aluksne)",
+    "division_type":"Municipality"
+  },
+  "008":{
+    "division_name":"Amatas novads (Amata)",
+    "division_type":"Municipality"
+  },
+  "009":{
+    "division_name":"Apes novads (Ape)",
+    "division_type":"Municipality"
+  },
+  "010":{
+    "division_name":"Auces novads (Auce)",
+    "division_type":"Municipality"
+  },
+  "011":{
+    "division_name":"Ada\u017eu novads (Ada\u017ei)",
+    "division_type":"Municipality"
+  },
+  "012":{
+    "division_name":"Babites novads (Babite)",
+    "division_type":"Municipality"
+  },
+  "013":{
+    "division_name":"Baldones novads (Baldone)",
+    "division_type":"Municipality"
+  },
+  "014":{
+    "division_name":"Baltinavas novads (Baltinava)",
+    "division_type":"Municipality"
+  },
+  "015":{
+    "division_name":"Balvu novads (Balvi)",
+    "division_type":"Municipality"
+  },
+  "016":{
+    "division_name":"Bauskas novads (Bauska)",
+    "division_type":"Municipality"
+  },
+  "017":{
+    "division_name":"Beverinas novads (Beverina)",
+    "division_type":"Municipality"
+  },
+  "018":{
+    "division_name":"Brocenu novads (Broceni)",
+    "division_type":"Municipality"
+  },
+  "019":{
+    "division_name":"Burtnieku novads (Burtnieki)",
+    "division_type":"Municipality"
+  },
+  "020":{
+    "division_name":"Carnikavas novads (Carnikava)",
+    "division_type":"Municipality"
+  },
+  "021":{
+    "division_name":"Cesvaines novads (Cesvaine)",
+    "division_type":"Municipality"
+  },
+  "022":{
+    "division_name":"Cesu novads (Cesis)",
+    "division_type":"Municipality"
+  },
+  "023":{
+    "division_name":"Ciblas novads (Cibla)",
+    "division_type":"Municipality"
+  },
+  "024":{
+    "division_name":"Dagdas novads (Dagda)",
+    "division_type":"Municipality"
+  },
+  "025":{
+    "division_name":"Daugavpils novads (Daugavpils)",
+    "division_type":"Municipality"
+  },
+  "026":{
+    "division_name":"Dobeles novads (Dobele)",
+    "division_type":"Municipality"
+  },
+  "027":{
+    "division_name":"Dundagas novads (Dundaga)",
+    "division_type":"Municipality"
+  },
+  "028":{
+    "division_name":"Durbes novads (Durbe)",
+    "division_type":"Municipality"
+  },
+  "029":{
+    "division_name":"Engures novads (Engure)",
+    "division_type":"Municipality"
+  },
+  "030":{
+    "division_name":"Erglu novads (Ergli)",
+    "division_type":"Municipality"
+  },
+  "031":{
+    "division_name":"Garkalnes novads (Garkalne)",
+    "division_type":"Municipality"
+  },
+  "032":{
+    "division_name":"Grobinas novads (Grobina)",
+    "division_type":"Municipality"
+  },
+  "033":{
+    "division_name":"Gulbenes novads (Gulbene)",
+    "division_type":"Municipality"
+  },
+  "034":{
+    "division_name":"Iecavas novads (Iecava)",
+    "division_type":"Municipality"
+  },
+  "035":{
+    "division_name":"Ik\u0161kiles novads (Ik\u0161kile)",
+    "division_type":"Municipality"
+  },
+  "036":{
+    "division_name":"Ilukstes novads (Ilukste)",
+    "division_type":"Municipality"
+  },
+  "037":{
+    "division_name":"Incukalna novads (Incukalns)",
+    "division_type":"Municipality"
+  },
+  "038":{
+    "division_name":"Jaunjelgavas novads (Jaunjelgava)",
+    "division_type":"Municipality"
+  },
+  "039":{
+    "division_name":"Jaunpiebalgas novads (Jaunpiebalga)",
+    "division_type":"Municipality"
+  },
+  "040":{
+    "division_name":"Jaunpils novads (Jaunpils)",
+    "division_type":"Municipality"
+  },
+  "041":{
+    "division_name":"Jelgavas novads (Jelgava)",
+    "division_type":"Municipality"
+  },
+  "042":{
+    "division_name":"Jekabpils novads (Jekabpils)",
+    "division_type":"Municipality"
+  },
+  "043":{
+    "division_name":"Kandavas novads (Kandava)",
+    "division_type":"Municipality"
+  },
+  "044":{
+    "division_name":"Karsavas novads (Karsava)",
+    "division_type":"Municipality"
+  },
+  "045":{
+    "division_name":"Kocenu novads (Koceni)",
+    "division_type":"Municipality"
+  },
+  "046":{
+    "division_name":"Kokneses novads (Koknese)",
+    "division_type":"Municipality"
+  },
+  "047":{
+    "division_name":"Kraslavas novads (Kraslava)",
+    "division_type":"Municipality"
+  },
+  "048":{
+    "division_name":"Krimuldas novads (Krimulda)",
+    "division_type":"Municipality"
+  },
+  "049":{
+    "division_name":"Krustpils novads (Krustpils)",
+    "division_type":"Municipality"
+  },
+  "050":{
+    "division_name":"Kuldigas novads (Kuldiga)",
+    "division_type":"Municipality"
+  },
+  "051":{
+    "division_name":"Keguma novads (Kegums)",
+    "division_type":"Municipality"
+  },
+  "052":{
+    "division_name":"Kekavas novads (Kekava)",
+    "division_type":"Municipality"
+  },
+  "053":{
+    "division_name":"Lielvardes novads (Lielvarde)",
+    "division_type":"Municipality"
+  },
+  "054":{
+    "division_name":"Limba\u017eu novads (Limba\u017ei)",
+    "division_type":"Municipality"
+  },
+  "055":{
+    "division_name":"Ligatnes novads (Ligatne)",
+    "division_type":"Municipality"
+  },
+  "056":{
+    "division_name":"Livanu novads (Livani)",
+    "division_type":"Municipality"
+  },
+  "057":{
+    "division_name":"Lubanas novads (Lubana)",
+    "division_type":"Municipality"
+  },
+  "058":{
+    "division_name":"Ludzas novads (Ludza)",
+    "division_type":"Municipality"
+  },
+  "059":{
+    "division_name":"Madonas novads (Madona)",
+    "division_type":"Municipality"
+  },
+  "060":{
+    "division_name":"Mazsalacas novads (Mazsalaca)",
+    "division_type":"Municipality"
+  },
+  "061":{
+    "division_name":"Malpils novads (Malpils)",
+    "division_type":"Municipality"
+  },
+  "062":{
+    "division_name":"Marupes novads (Marupe)",
+    "division_type":"Municipality"
+  },
+  "063":{
+    "division_name":"Mersraga novads (Mersrags)",
+    "division_type":"Municipality"
+  },
+  "064":{
+    "division_name":"Nauk\u0161enu novads (Nauk\u0161eni)",
+    "division_type":"Municipality"
+  },
+  "065":{
+    "division_name":"Neretas novads (Nereta)",
+    "division_type":"Municipality"
+  },
+  "066":{
+    "division_name":"Nicas novads (Nica)",
+    "division_type":"Municipality"
+  },
+  "067":{
+    "division_name":"Ogres novads (Ogre)",
+    "division_type":"Municipality"
+  },
+  "068":{
+    "division_name":"Olaines novads (Olaine)",
+    "division_type":"Municipality"
+  },
+  "069":{
+    "division_name":"Ozolnieku novads (Ozolnieki)",
+    "division_type":"Municipality"
+  },
+  "070":{
+    "division_name":"Pargaujas novads (Pargauja)",
+    "division_type":"Municipality"
+  },
+  "071":{
+    "division_name":"Pavilostas novads (Pavilosta)",
+    "division_type":"Municipality"
+  },
+  "072":{
+    "division_name":"Plavinu novads (Plavinas)",
+    "division_type":"Municipality"
+  },
+  "073":{
+    "division_name":"Preilu novads (Preili)",
+    "division_type":"Municipality"
+  },
+  "074":{
+    "division_name":"Priekules novads (Priekule)",
+    "division_type":"Municipality"
+  },
+  "075":{
+    "division_name":"Priekulu novads (Priekuli)",
+    "division_type":"Municipality"
+  },
+  "076":{
+    "division_name":"Raunas novads (Rauna)",
+    "division_type":"Municipality"
+  },
+  "077":{
+    "division_name":"Rezeknes novads (Rezekne)",
+    "division_type":"Municipality"
+  },
+  "078":{
+    "division_name":"Riebinu novads (Riebini)",
+    "division_type":"Municipality"
+  },
+  "079":{
+    "division_name":"Rojas novads (Roja)",
+    "division_type":"Municipality"
+  },
+  "080":{
+    "division_name":"Ropa\u017eu novads (Ropa\u017ei)",
+    "division_type":"Municipality"
+  },
+  "081":{
+    "division_name":"Rucavas novads (Rucava)",
+    "division_type":"Municipality"
+  },
+  "082":{
+    "division_name":"Rugaju novads (Rugaji)",
+    "division_type":"Municipality"
+  },
+  "083":{
+    "division_name":"Rundales novads (Rundale)",
+    "division_type":"Municipality"
+  },
+  "084":{
+    "division_name":"Rujienas novads (Rujiena)",
+    "division_type":"Municipality"
+  },
+  "085":{
+    "division_name":"Salas novads (Sala)",
+    "division_type":"Municipality"
+  },
+  "086":{
+    "division_name":"Salacgrivas novads (Salacgriva)",
+    "division_type":"Municipality"
+  },
+  "087":{
+    "division_name":"Salaspils novads (Salaspils)",
+    "division_type":"Municipality"
+  },
+  "088":{
+    "division_name":"Saldus novads (Saldus)",
+    "division_type":"Municipality"
+  },
+  "089":{
+    "division_name":"Saulkrastu novads (Saulkrasti)",
+    "division_type":"Municipality"
+  },
+  "090":{
+    "division_name":"Sejas novads (Seja)",
+    "division_type":"Municipality"
+  },
+  "091":{
+    "division_name":"Siguldas novads (Sigulda)",
+    "division_type":"Municipality"
+  },
+  "092":{
+    "division_name":"Skriveru novads (Skriveri)",
+    "division_type":"Municipality"
+  },
+  "093":{
+    "division_name":"Skrundas novads (Skrunda)",
+    "division_type":"Municipality"
+  },
+  "094":{
+    "division_name":"Smiltenes novads (Smiltene)",
+    "division_type":"Municipality"
+  },
+  "095":{
+    "division_name":"Stopinu novads (Stopini)",
+    "division_type":"Municipality"
+  },
+  "096":{
+    "division_name":"Strencu novads (Strenci)",
+    "division_type":"Municipality"
+  },
+  "097":{
+    "division_name":"Talsu novads (Talsi)",
+    "division_type":"Municipality"
+  },
+  "098":{
+    "division_name":"Tervetes novads (Tervete)",
+    "division_type":"Municipality"
+  },
+  "099":{
+    "division_name":"Tukuma novads (Tukums)",
+    "division_type":"Municipality"
+  },
+  "100":{
+    "division_name":"Vainodes novads (Vainode)",
+    "division_type":"Municipality"
+  },
+  "101":{
+    "division_name":"Valkas novads (Valka)",
+    "division_type":"Municipality"
+  },
+  "102":{
+    "division_name":"Varaklanu novads (Varaklani)",
+    "division_type":"Municipality"
+  },
+  "103":{
+    "division_name":"Varkavas novads (Varkava)",
+    "division_type":"Municipality"
+  },
+  "104":{
+    "division_name":"Vecpiebalgas novads (Vecpiebalga)",
+    "division_type":"Municipality"
+  },
+  "105":{
+    "division_name":"Vecumnieku novads (Vecumnieki)",
+    "division_type":"Municipality"
+  },
+  "106":{
+    "division_name":"Ventspils novads (Ventspils)",
+    "division_type":"Municipality"
+  },
+  "107":{
+    "division_name":"Viesites novads (Viesite)",
+    "division_type":"Municipality"
+  },
+  "108":{
+    "division_name":"Vilakas novads (Vilaka)",
+    "division_type":"Municipality"
+  },
+  "109":{
+    "division_name":"Vilanu novads (Vilani)",
+    "division_type":"Municipality"
+  },
+  "110":{
+    "division_name":"Zilupes novads (Zilupe)",
+    "division_type":"Municipality"
+  },
+  "DGV":{
+    "division_name":"Daugavpils",
+    "division_type":"Republican city"
+  },
+  "JEL":{
+    "division_name":"Jelgava",
+    "division_type":"Republican city"
+  },
+  "JKB":{
+    "division_name":"Jekabpils",
+    "division_type":"Republican city"
+  },
+  "JUR":{
+    "division_name":"Jurmala",
+    "division_type":"Republican city"
+  },
+  "LPX":{
+    "division_name":"Liepaja",
+    "division_type":"Republican city"
+  },
+  "REZ":{
+    "division_name":"Rezekne",
+    "division_type":"Republican city"
+  },
+  "RIX":{
+    "division_name":"Riga",
+    "division_type":"Republican city"
+  },
+  "VEN":{
+    "division_name":"Ventspils",
+    "division_type":"Republican city"
+  },
+  "VMR":{
+    "division_name":"Valmiera",
+    "division_type":"Republican city"
+  }
+}

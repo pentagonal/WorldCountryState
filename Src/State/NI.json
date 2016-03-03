@@ -1,0 +1,70 @@
+{
+  "AN":{
+    "division_name":"Atl\u00e1ntico Norte",
+    "division_type":"Autonomous region"
+  },
+  "AS":{
+    "division_name":"Atl\u00e1ntico Sur",
+    "division_type":"Autonomous region"
+  },
+  "BO":{
+    "division_name":"Boaco",
+    "division_type":"Department"
+  },
+  "CA":{
+    "division_name":"Carazo",
+    "division_type":"Department"
+  },
+  "CI":{
+    "division_name":"Chinandega",
+    "division_type":"Department"
+  },
+  "CO":{
+    "division_name":"Chontales",
+    "division_type":"Department"
+  },
+  "ES":{
+    "division_name":"Estel\u00ed",
+    "division_type":"Department"
+  },
+  "GR":{
+    "division_name":"Granada",
+    "division_type":"Department"
+  },
+  "JI":{
+    "division_name":"Jinotega",
+    "division_type":"Department"
+  },
+  "LE":{
+    "division_name":"Le\u00f3n",
+    "division_type":"Department"
+  },
+  "MD":{
+    "division_name":"Madriz",
+    "division_type":"Department"
+  },
+  "MN":{
+    "division_name":"Managua",
+    "division_type":"Department"
+  },
+  "MS":{
+    "division_name":"Masaya",
+    "division_type":"Department"
+  },
+  "MT":{
+    "division_name":"Matagalpa",
+    "division_type":"Department"
+  },
+  "NS":{
+    "division_name":"Nueva Segovia",
+    "division_type":"Department"
+  },
+  "RI":{
+    "division_name":"Rivas",
+    "division_type":"Department"
+  },
+  "SJ":{
+    "division_name":"R\u00edo San Juan",
+    "division_type":"Department"
+  }
+}

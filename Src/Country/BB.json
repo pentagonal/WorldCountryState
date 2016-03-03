@@ -1,0 +1,65 @@
+{
+  "country_code":"BB",
+  "country_name":"Barbados",
+  "currency_code":"BBD",
+  "fips_code":"BB",
+  "iso_numeric":"052",
+  "north":"13.327257",
+  "south":"13.039844",
+  "east":"-59.420376",
+  "west":"-59.648922",
+  "capital":"Bridgetown",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"BRB",
+  "geoname_id":"3374084",
+  "languages":[
+    "en-BB"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Christ Church",
+      "division_type":"Parish"
+    },
+    "02":{
+      "division_name":"Saint Andrew",
+      "division_type":"Parish"
+    },
+    "03":{
+      "division_name":"Saint George",
+      "division_type":"Parish"
+    },
+    "04":{
+      "division_name":"Saint James",
+      "division_type":"Parish"
+    },
+    "05":{
+      "division_name":"Saint John",
+      "division_type":"Parish"
+    },
+    "06":{
+      "division_name":"Saint Joseph",
+      "division_type":"Parish"
+    },
+    "07":{
+      "division_name":"Saint Lucy",
+      "division_type":"Parish"
+    },
+    "08":{
+      "division_name":"Saint Michael",
+      "division_type":"Parish"
+    },
+    "09":{
+      "division_name":"Saint Peter",
+      "division_type":"Parish"
+    },
+    "10":{
+      "division_name":"Saint Philip",
+      "division_type":"Parish"
+    },
+    "11":{
+      "division_name":"Saint Thomas",
+      "division_type":"Parish"
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "10":{
+    "division_name":"Krung Thep Maha Nakhon [Bangkok]",
+    "division_type":"Metropolitan administration"
+  },
+  "11":{
+    "division_name":"Samut Prakan",
+    "division_type":"Province"
+  },
+  "12":{
+    "division_name":"Nonthaburi",
+    "division_type":"Province"
+  },
+  "13":{
+    "division_name":"Pathum Thani",
+    "division_type":"Province"
+  },
+  "14":{
+    "division_name":"Phra Nakhon Si Ayutthaya",
+    "division_type":"Province"
+  },
+  "15":{
+    "division_name":"Ang Thong",
+    "division_type":"Province"
+  },
+  "16":{
+    "division_name":"Lop Buri",
+    "division_type":"Province"
+  },
+  "17":{
+    "division_name":"Sing Buri",
+    "division_type":"Province"
+  },
+  "18":{
+    "division_name":"Chai Nat",
+    "division_type":"Province"
+  },
+  "19":{
+    "division_name":"Saraburi",
+    "division_type":"Province"
+  },
+  "20":{
+    "division_name":"Chon Buri",
+    "division_type":"Province"
+  },
+  "21":{
+    "division_name":"Rayong",
+    "division_type":"Province"
+  },
+  "22":{
+    "division_name":"Chanthaburi",
+    "division_type":"Province"
+  },
+  "23":{
+    "division_name":"Trat",
+    "division_type":"Province"
+  },
+  "24":{
+    "division_name":"Chachoengsao",
+    "division_type":"Province"
+  },
+  "25":{
+    "division_name":"Prachin Buri",
+    "division_type":"Province"
+  },
+  "26":{
+    "division_name":"Nakhon Nayok",
+    "division_type":"Province"
+  },
+  "27":{
+    "division_name":"Sa Kaeo",
+    "division_type":"Province"
+  },
+  "30":{
+    "division_name":"Nakhon Ratchasima",
+    "division_type":"Province"
+  },
+  "31":{
+    "division_name":"Buri Ram",
+    "division_type":"Province"
+  },
+  "32":{
+    "division_name":"Surin",
+    "division_type":"Province"
+  },
+  "33":{
+    "division_name":"Si Sa Ket",
+    "division_type":"Province"
+  },
+  "34":{
+    "division_name":"Ubon Ratchathani",
+    "division_type":"Province"
+  },
+  "35":{
+    "division_name":"Yasothon",
+    "division_type":"Province"
+  },
+  "36":{
+    "division_name":"Chaiyaphum",
+    "division_type":"Province"
+  },
+  "37":{
+    "division_name":"Amnat Charoen",
+    "division_type":"Province"
+  },
+  "38":{
+    "division_name":"Bueng Kan",
+    "division_type":"Province"
+  },
+  "39":{
+    "division_name":"Nong Bua Lam Phu",
+    "division_type":"Province"
+  },
+  "40":{
+    "division_name":"Khon Kaen",
+    "division_type":"Province"
+  },
+  "41":{
+    "division_name":"Udon Thani",
+    "division_type":"Province"
+  },
+  "42":{
+    "division_name":"Loei",
+    "division_type":"Province"
+  },
+  "43":{
+    "division_name":"Nong Khai",
+    "division_type":"Province"
+  },
+  "44":{
+    "division_name":"Maha Sarakham",
+    "division_type":"Province"
+  },
+  "45":{
+    "division_name":"Roi Et",
+    "division_type":"Province"
+  },
+  "46":{
+    "division_name":"Kalasin",
+    "division_type":"Province"
+  },
+  "47":{
+    "division_name":"Sakon Nakhon",
+    "division_type":"Province"
+  },
+  "48":{
+    "division_name":"Nakhon Phanom",
+    "division_type":"Province"
+  },
+  "49":{
+    "division_name":"Mukdahan",
+    "division_type":"Province"
+  },
+  "50":{
+    "division_name":"Chiang Mai",
+    "division_type":"Province"
+  },
+  "51":{
+    "division_name":"Lamphun",
+    "division_type":"Province"
+  },
+  "52":{
+    "division_name":"Lampang",
+    "division_type":"Province"
+  },
+  "53":{
+    "division_name":"Uttaradit",
+    "division_type":"Province"
+  },
+  "54":{
+    "division_name":"Phrae",
+    "division_type":"Province"
+  },
+  "55":{
+    "division_name":"Nan",
+    "division_type":"Province"
+  },
+  "56":{
+    "division_name":"Phayao",
+    "division_type":"Province"
+  },
+  "57":{
+    "division_name":"Chiang Rai",
+    "division_type":"Province"
+  },
+  "58":{
+    "division_name":"Mae Hong Son",
+    "division_type":"Province"
+  },
+  "60":{
+    "division_name":"Nakhon Sawan",
+    "division_type":"Province"
+  },
+  "61":{
+    "division_name":"Uthai Thani",
+    "division_type":"Province"
+  },
+  "62":{
+    "division_name":"Kamphaeng Phet",
+    "division_type":"Province"
+  },
+  "63":{
+    "division_name":"Tak",
+    "division_type":"Province"
+  },
+  "64":{
+    "division_name":"Sukhothai",
+    "division_type":"Province"
+  },
+  "65":{
+    "division_name":"Phitsanulok",
+    "division_type":"Province"
+  },
+  "66":{
+    "division_name":"Phichit",
+    "division_type":"Province"
+  },
+  "67":{
+    "division_name":"Phetchabun",
+    "division_type":"Province"
+  },
+  "70":{
+    "division_name":"Ratchaburi",
+    "division_type":"Province"
+  },
+  "71":{
+    "division_name":"Kanchanaburi",
+    "division_type":"Province"
+  },
+  "72":{
+    "division_name":"Suphan Buri",
+    "division_type":"Province"
+  },
+  "73":{
+    "division_name":"Nakhon Pathom",
+    "division_type":"Province"
+  },
+  "74":{
+    "division_name":"Samut Sakhon",
+    "division_type":"Province"
+  },
+  "75":{
+    "division_name":"Samut Songkhram",
+    "division_type":"Province"
+  },
+  "76":{
+    "division_name":"Phetchaburi",
+    "division_type":"Province"
+  },
+  "77":{
+    "division_name":"Prachuap Khiri Khan",
+    "division_type":"Province"
+  },
+  "80":{
+    "division_name":"Nakhon Si Thammarat",
+    "division_type":"Province"
+  },
+  "81":{
+    "division_name":"Krabi",
+    "division_type":"Province"
+  },
+  "82":{
+    "division_name":"Phangnga",
+    "division_type":"Province"
+  },
+  "83":{
+    "division_name":"Phuket",
+    "division_type":"Province"
+  },
+  "84":{
+    "division_name":"Surat Thani",
+    "division_type":"Province"
+  },
+  "85":{
+    "division_name":"Ranong",
+    "division_type":"Province"
+  },
+  "86":{
+    "division_name":"Chumphon",
+    "division_type":"Province"
+  },
+  "90":{
+    "division_name":"Songkhla",
+    "division_type":"Province"
+  },
+  "91":{
+    "division_name":"Satun",
+    "division_type":"Province"
+  },
+  "92":{
+    "division_name":"Trang",
+    "division_type":"Province"
+  },
+  "93":{
+    "division_name":"Phatthalung",
+    "division_type":"Province"
+  },
+  "94":{
+    "division_name":"Pattani",
+    "division_type":"Province"
+  },
+  "95":{
+    "division_name":"Yala",
+    "division_type":"Province"
+  },
+  "96":{
+    "division_name":"Narathiwat",
+    "division_type":"Province"
+  },
+  "S":{
+    "division_name":"Phatthaya",
+    "division_type":"Special administrative city"
+  }
+}

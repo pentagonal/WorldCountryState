@@ -1,0 +1,19 @@
+{
+  "country_code":"PL",
+  "country_name":"Poland",
+  "currency_code":"PLN",
+  "fips_code":"PL",
+  "iso_numeric":"616",
+  "north":"54.839138",
+  "south":"49.006363",
+  "east":"24.150749",
+  "west":"14.123",
+  "capital":"Warsaw",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"POL",
+  "geoname_id":"798544",
+  "languages":[
+    "pl"
+  ]
+}

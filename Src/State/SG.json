@@ -1,0 +1,22 @@
+{
+  "01":{
+    "division_name":"Central Singapore",
+    "division_type":"District"
+  },
+  "02":{
+    "division_name":"North East",
+    "division_type":"District"
+  },
+  "03":{
+    "division_name":"North West",
+    "division_type":"District"
+  },
+  "04":{
+    "division_name":"South East",
+    "division_type":"District"
+  },
+  "05":{
+    "division_name":"South West",
+    "division_type":"District"
+  }
+}

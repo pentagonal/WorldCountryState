@@ -1,0 +1,170 @@
+{
+  "01":{
+    "division_name":"Distrito Nacional (Santo Domingo)",
+    "division_type":"District"
+  },
+  "02":{
+    "division_name":"Azua",
+    "division_type":"Province"
+  },
+  "03":{
+    "division_name":"Baoruco",
+    "division_type":"Province"
+  },
+  "04":{
+    "division_name":"Barahona",
+    "division_type":"Province"
+  },
+  "05":{
+    "division_name":"Dajab\u00f3n",
+    "division_type":"Province"
+  },
+  "06":{
+    "division_name":"Duarte",
+    "division_type":"Province"
+  },
+  "07":{
+    "division_name":"La Estrelleta [El\u00edas Pi\u00f1a]",
+    "division_type":"Province"
+  },
+  "08":{
+    "division_name":"El Seibo",
+    "division_type":"Province"
+  },
+  "09":{
+    "division_name":"Espaillat",
+    "division_type":"Province"
+  },
+  "10":{
+    "division_name":"Independencia",
+    "division_type":"Province"
+  },
+  "11":{
+    "division_name":"La Altagracia",
+    "division_type":"Province"
+  },
+  "12":{
+    "division_name":"La Romana",
+    "division_type":"Province"
+  },
+  "13":{
+    "division_name":"La Vega",
+    "division_type":"Province"
+  },
+  "14":{
+    "division_name":"Mar\u00eda Trinidad S\u00e1nchez",
+    "division_type":"Province"
+  },
+  "15":{
+    "division_name":"Monte Cristi",
+    "division_type":"Province"
+  },
+  "16":{
+    "division_name":"Pedernales",
+    "division_type":"Province"
+  },
+  "17":{
+    "division_name":"Peravia",
+    "division_type":"Province"
+  },
+  "18":{
+    "division_name":"Puerto Plata",
+    "division_type":"Province"
+  },
+  "19":{
+    "division_name":"Hermanas Mirabal",
+    "division_type":"Province"
+  },
+  "20":{
+    "division_name":"Saman\u00e1",
+    "division_type":"Province"
+  },
+  "21":{
+    "division_name":"San Crist\u00f3bal",
+    "division_type":"Province"
+  },
+  "22":{
+    "division_name":"San Juan",
+    "division_type":"Province"
+  },
+  "23":{
+    "division_name":"San Pedro de Macor\u00eds",
+    "division_type":"Province"
+  },
+  "24":{
+    "division_name":"S\u00e1nchez Ram\u00edrez",
+    "division_type":"Province"
+  },
+  "25":{
+    "division_name":"Santiago",
+    "division_type":"Province"
+  },
+  "26":{
+    "division_name":"Santiago Rodr\u00edguez",
+    "division_type":"Province"
+  },
+  "27":{
+    "division_name":"Valverde",
+    "division_type":"Province"
+  },
+  "28":{
+    "division_name":"Monse\u00f1or Nouel",
+    "division_type":"Province"
+  },
+  "29":{
+    "division_name":"Monte Plata",
+    "division_type":"Province"
+  },
+  "30":{
+    "division_name":"Hato Mayor",
+    "division_type":"Province"
+  },
+  "31":{
+    "division_name":"San Jos\u00e9 de Ocoa",
+    "division_type":"Province"
+  },
+  "32":{
+    "division_name":"Santo Domingo",
+    "division_type":"Province"
+  },
+  "33":{
+    "division_name":"Cibao Nordeste",
+    "division_type":"Region"
+  },
+  "34":{
+    "division_name":"Cibao Noroeste",
+    "division_type":"Region"
+  },
+  "35":{
+    "division_name":"Cibao Norte",
+    "division_type":"Region"
+  },
+  "36":{
+    "division_name":"Cibao Sur",
+    "division_type":"Region"
+  },
+  "37":{
+    "division_name":"El Valle",
+    "division_type":"Region"
+  },
+  "38":{
+    "division_name":"Enriquillo",
+    "division_type":"Region"
+  },
+  "39":{
+    "division_name":"Higuamo",
+    "division_type":"Region"
+  },
+  "40":{
+    "division_name":"Ozama",
+    "division_type":"Region"
+  },
+  "41":{
+    "division_name":"Valdesia",
+    "division_type":"Region"
+  },
+  "42":{
+    "division_name":"Yuma",
+    "division_type":"Region"
+  }
+}

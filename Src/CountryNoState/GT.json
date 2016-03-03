@@ -1,0 +1,19 @@
+{
+  "country_code":"GT",
+  "country_name":"Guatemala",
+  "currency_code":"GTQ",
+  "fips_code":"GT",
+  "iso_numeric":"320",
+  "north":"17.81522",
+  "south":"13.737302",
+  "east":"-88.223198",
+  "west":"-92.23629",
+  "capital":"Guatemala City",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"GTM",
+  "geoname_id":"3595528",
+  "languages":[
+    "es-GT"
+  ]
+}

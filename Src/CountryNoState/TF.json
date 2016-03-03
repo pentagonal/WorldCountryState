@@ -1,0 +1,19 @@
+{
+  "country_code":"TF",
+  "country_name":"French Southern Territories",
+  "currency_code":"EUR",
+  "fips_code":"FS",
+  "iso_numeric":"260",
+  "north":"-37.790722",
+  "south":"-49.735184",
+  "east":"77.598808",
+  "west":"50.170258",
+  "capital":"Port-aux-Fran\u00e7ais",
+  "continent_name":"Antarctica",
+  "continent":"AN",
+  "iso_alpha":"ATF",
+  "geoname_id":"1546748",
+  "languages":[
+    "fr"
+  ]
+}

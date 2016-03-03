@@ -1,0 +1,20 @@
+{
+  "country_code":"MA",
+  "country_name":"Morocco",
+  "currency_code":"MAD",
+  "fips_code":"MO",
+  "iso_numeric":"504",
+  "north":"35.9224966985384",
+  "south":"27.662115",
+  "east":"-0.991750000000025",
+  "west":"-13.168586",
+  "capital":"Rabat",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"MAR",
+  "geoname_id":"2542007",
+  "languages":[
+    "ar-MA",
+    "fr"
+  ]
+}

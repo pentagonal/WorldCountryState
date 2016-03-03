@@ -1,0 +1,30 @@
+{
+  "A":{
+    "division_name":"Alajuela",
+    "division_type":"Province"
+  },
+  "C":{
+    "division_name":"Cartago",
+    "division_type":"Province"
+  },
+  "G":{
+    "division_name":"Guanacaste",
+    "division_type":"Province"
+  },
+  "H":{
+    "division_name":"Heredia",
+    "division_type":"Province"
+  },
+  "L":{
+    "division_name":"Lim\u00f3n",
+    "division_type":"Province"
+  },
+  "P":{
+    "division_name":"Puntarenas",
+    "division_type":"Province"
+  },
+  "SJ":{
+    "division_name":"San Jos\u00e9",
+    "division_type":"Province"
+  }
+}

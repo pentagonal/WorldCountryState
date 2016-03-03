@@ -1,0 +1,19 @@
+{
+  "country_code":"UM",
+  "country_name":"U.S. Minor Outlying Islands",
+  "currency_code":"USD",
+  "fips_code":"",
+  "iso_numeric":"581",
+  "north":"28.219814",
+  "south":"-0.389006",
+  "east":"166.654526",
+  "west":"-177.392029",
+  "capital":"",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"UMI",
+  "geoname_id":"5854968",
+  "languages":[
+    "en-UM"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "country_code":"VG",
+  "country_name":"British Virgin Islands",
+  "currency_code":"USD",
+  "fips_code":"VI",
+  "iso_numeric":"092",
+  "north":"18.757221",
+  "south":"18.383710898211305",
+  "east":"-64.268768",
+  "west":"-64.71312752730364",
+  "capital":"Road Town",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"VGB",
+  "geoname_id":"3577718",
+  "languages":[
+    "en-VG"
+  ]
+}

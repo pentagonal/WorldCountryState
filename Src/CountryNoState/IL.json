@@ -1,0 +1,21 @@
+{
+  "country_code":"IL",
+  "country_name":"Israel",
+  "currency_code":"ILS",
+  "fips_code":"IS",
+  "iso_numeric":"376",
+  "north":"33.340137",
+  "south":"29.496639",
+  "east":"35.876804",
+  "west":"34.270278754419145",
+  "capital":"",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"ISR",
+  "geoname_id":"294640",
+  "languages":[
+    "he",
+    "ar-IL",
+    "en-IL"
+  ]
+}

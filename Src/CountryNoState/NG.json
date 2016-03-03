@@ -1,0 +1,23 @@
+{
+  "country_code":"NG",
+  "country_name":"Nigeria",
+  "currency_code":"NGN",
+  "fips_code":"NI",
+  "iso_numeric":"566",
+  "north":"13.892007",
+  "south":"4.277144",
+  "east":"14.680073",
+  "west":"2.668432",
+  "capital":"Abuja",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"NGA",
+  "geoname_id":"2328926",
+  "languages":[
+    "en-NG",
+    "ha",
+    "yo",
+    "ig",
+    "ff"
+  ]
+}

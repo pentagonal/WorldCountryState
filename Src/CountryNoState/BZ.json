@@ -1,0 +1,20 @@
+{
+  "country_code":"BZ",
+  "country_name":"Belize",
+  "currency_code":"BZD",
+  "fips_code":"BH",
+  "iso_numeric":"084",
+  "north":"18.496557",
+  "south":"15.8893",
+  "east":"-87.776985",
+  "west":"-89.224815",
+  "capital":"Belmopan",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"BLZ",
+  "geoname_id":"3582678",
+  "languages":[
+    "en-BZ",
+    "es"
+  ]
+}

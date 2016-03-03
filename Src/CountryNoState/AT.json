@@ -1,0 +1,22 @@
+{
+  "country_code":"AT",
+  "country_name":"Austria",
+  "currency_code":"EUR",
+  "fips_code":"AU",
+  "iso_numeric":"040",
+  "north":"49.0211627691393",
+  "south":"46.3726520216244",
+  "east":"17.1620685652599",
+  "west":"9.53095237240833",
+  "capital":"Vienna",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"AUT",
+  "geoname_id":"2782113",
+  "languages":[
+    "de-AT",
+    "hr",
+    "hu",
+    "sl"
+  ]
+}

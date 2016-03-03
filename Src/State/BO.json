@@ -1,0 +1,38 @@
+{
+  "B":{
+    "division_name":"El Beni",
+    "division_type":"Department"
+  },
+  "C":{
+    "division_name":"Cochabamba",
+    "division_type":"Department"
+  },
+  "H":{
+    "division_name":"Chuquisaca",
+    "division_type":"Department"
+  },
+  "L":{
+    "division_name":"La Paz",
+    "division_type":"Department"
+  },
+  "N":{
+    "division_name":"Pando",
+    "division_type":"Department"
+  },
+  "O":{
+    "division_name":"Oruro",
+    "division_type":"Department"
+  },
+  "P":{
+    "division_name":"Potos\u00ed",
+    "division_type":"Department"
+  },
+  "S":{
+    "division_name":"Santa Cruz",
+    "division_type":"Department"
+  },
+  "T":{
+    "division_name":"Tarija",
+    "division_type":"Department"
+  }
+}

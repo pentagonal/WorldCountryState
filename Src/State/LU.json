@@ -1,0 +1,14 @@
+{
+  "D":{
+    "division_name":"Diekirch",
+    "division_type":"District"
+  },
+  "G":{
+    "division_name":"Grevenmacher",
+    "division_type":"District"
+  },
+  "L":{
+    "division_name":"Luxembourg",
+    "division_type":"District"
+  }
+}

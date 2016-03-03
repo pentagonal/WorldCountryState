@@ -1,0 +1,42 @@
+{
+  "CE":{
+    "division_name":"Central",
+    "division_type":"Province"
+  },
+  "CH":{
+    "division_name":"Choiseul",
+    "division_type":"Province"
+  },
+  "CT":{
+    "division_name":"Capital Territory (Honiara)",
+    "division_type":"Capital territory"
+  },
+  "GU":{
+    "division_name":"Guadalcanal",
+    "division_type":"Province"
+  },
+  "IS":{
+    "division_name":"Isabel",
+    "division_type":"Province"
+  },
+  "MK":{
+    "division_name":"Makira-Ulawa",
+    "division_type":"Province"
+  },
+  "ML":{
+    "division_name":"Malaita",
+    "division_type":"Province"
+  },
+  "RB":{
+    "division_name":"Rennell and Bellona",
+    "division_type":"Province"
+  },
+  "TE":{
+    "division_name":"Temotu",
+    "division_type":"Province"
+  },
+  "WE":{
+    "division_name":"Western",
+    "division_type":"Province"
+  }
+}

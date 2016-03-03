@@ -1,0 +1,19 @@
+{
+  "country_code":"DE",
+  "country_name":"Germany",
+  "currency_code":"EUR",
+  "fips_code":"GM",
+  "iso_numeric":"276",
+  "north":"55.055637",
+  "south":"47.275776",
+  "east":"15.039889",
+  "west":"5.865639",
+  "capital":"Berlin",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"DEU",
+  "geoname_id":"2921044",
+  "languages":[
+    "de"
+  ]
+}

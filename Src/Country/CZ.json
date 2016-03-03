@@ -1,0 +1,78 @@
+{
+  "country_code":"CZ",
+  "country_name":"Czech Republic",
+  "currency_code":"CZK",
+  "fips_code":"EZ",
+  "iso_numeric":"203",
+  "north":"51.058887",
+  "south":"48.542915",
+  "east":"18.860111",
+  "west":"12.096194",
+  "capital":"Prague",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"CZE",
+  "geoname_id":"3077311",
+  "languages":[
+    "cs",
+    "sk"
+  ],
+  "subdivision":{
+    "JC":{
+      "division_name":"Jihocesk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "JM":{
+      "division_name":"Jihomoravsk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "KA":{
+      "division_name":"Karlovarsk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "KR":{
+      "division_name":"Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+      "division_type":"Region"
+    },
+    "LI":{
+      "division_name":"Libereck\u00fd kraj",
+      "division_type":"Region"
+    },
+    "MO":{
+      "division_name":"Moravskoslezsk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "OL":{
+      "division_name":"Olomouck\u00fd kraj",
+      "division_type":"Region"
+    },
+    "PA":{
+      "division_name":"Pardubick\u00fd kraj",
+      "division_type":"Region"
+    },
+    "PL":{
+      "division_name":"Plzensk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "PR":{
+      "division_name":"Praha,\"hlavn\u00ed mesto",
+      "division_type":"Region"
+    },
+    "ST":{
+      "division_name":"Stredocesk\u00fd kraj",
+      "division_type":"Region"
+    },
+    "US":{
+      "division_name":"\u00dasteck\u00fd kraj",
+      "division_type":"Region"
+    },
+    "VY":{
+      "division_name":"Vysocina",
+      "division_type":"Region"
+    },
+    "ZL":{
+      "division_name":"Zl\u00ednsk\u00fd kraj",
+      "division_type":"Region"
+    }
+  }
+}

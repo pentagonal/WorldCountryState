@@ -1,0 +1,19 @@
+{
+  "country_code":"ST",
+  "country_name":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+  "currency_code":"STD",
+  "fips_code":"TP",
+  "iso_numeric":"678",
+  "north":"1.701323",
+  "south":"0.024766",
+  "east":"7.466374",
+  "west":"6.47017",
+  "capital":"S\u00e3o Tom\u00e9",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"STP",
+  "geoname_id":"2410758",
+  "languages":[
+    "pt-ST"
+  ]
+}

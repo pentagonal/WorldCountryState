@@ -1,0 +1,21 @@
+{
+  "country_code":"LY",
+  "country_name":"Libya",
+  "currency_code":"LYD",
+  "fips_code":"LY",
+  "iso_numeric":"434",
+  "north":"33.168999",
+  "south":"19.508045",
+  "east":"25.150612",
+  "west":"9.38702",
+  "capital":"Tripoli",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"LBY",
+  "geoname_id":"2215636",
+  "languages":[
+    "ar-LY",
+    "it",
+    "en"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "country_code":"MY",
+  "country_name":"Malaysia",
+  "currency_code":"MYR",
+  "fips_code":"MY",
+  "iso_numeric":"458",
+  "north":"7.363417",
+  "south":"0.855222",
+  "east":"119.267502",
+  "west":"99.643448",
+  "capital":"Kuala Lumpur",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"MYS",
+  "geoname_id":"1733045",
+  "languages":[
+    "ms-MY",
+    "en",
+    "zh",
+    "ta",
+    "te",
+    "ml",
+    "pa",
+    "th"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Johor",
+      "division_type":"State"
+    },
+    "02":{
+      "division_name":"Kedah",
+      "division_type":"State"
+    },
+    "03":{
+      "division_name":"Kelantan",
+      "division_type":"State"
+    },
+    "04":{
+      "division_name":"Melaka",
+      "division_type":"State"
+    },
+    "05":{
+      "division_name":"Negeri Sembilan",
+      "division_type":"State"
+    },
+    "06":{
+      "division_name":"Pahang",
+      "division_type":"State"
+    },
+    "07":{
+      "division_name":"Pulau Pinang",
+      "division_type":"State"
+    },
+    "08":{
+      "division_name":"Perak",
+      "division_type":"State"
+    },
+    "09":{
+      "division_name":"Perlis",
+      "division_type":"State"
+    },
+    "10":{
+      "division_name":"Selangor",
+      "division_type":"State"
+    },
+    "11":{
+      "division_name":"Terengganu",
+      "division_type":"State"
+    },
+    "12":{
+      "division_name":"Sabah",
+      "division_type":"State"
+    },
+    "13":{
+      "division_name":"Sarawak",
+      "division_type":"State"
+    },
+    "14":{
+      "division_name":"Wilayah Persekutuan Kuala Lumpur",
+      "division_type":"Federal territory"
+    },
+    "15":{
+      "division_name":"Wilayah Persekutuan Labuan",
+      "division_type":"Federal territory"
+    },
+    "16":{
+      "division_name":"Wilayah Persekutuan Putrajaya",
+      "division_type":"Federal territory"
+    }
+  }
+}

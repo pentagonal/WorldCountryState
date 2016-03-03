@@ -1,0 +1,21 @@
+{
+  "country_code":"LT",
+  "country_name":"Lithuania",
+  "currency_code":"EUR",
+  "fips_code":"LH",
+  "iso_numeric":"440",
+  "north":"56.446918",
+  "south":"53.901306",
+  "east":"26.871944",
+  "west":"20.941528",
+  "capital":"Vilnius",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"LTU",
+  "geoname_id":"597427",
+  "languages":[
+    "lt",
+    "ru",
+    "pl"
+  ]
+}

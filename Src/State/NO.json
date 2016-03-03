@@ -1,0 +1,86 @@
+{
+  "01":{
+    "division_name":"\u00d8stfold",
+    "division_type":"County"
+  },
+  "02":{
+    "division_name":"Akershus",
+    "division_type":"County"
+  },
+  "03":{
+    "division_name":"Oslo",
+    "division_type":"County"
+  },
+  "04":{
+    "division_name":"Hedmark",
+    "division_type":"County"
+  },
+  "05":{
+    "division_name":"Oppland",
+    "division_type":"County"
+  },
+  "06":{
+    "division_name":"Buskerud",
+    "division_type":"County"
+  },
+  "07":{
+    "division_name":"Vestfold",
+    "division_type":"County"
+  },
+  "08":{
+    "division_name":"Telemark",
+    "division_type":"County"
+  },
+  "09":{
+    "division_name":"Aust-Agder",
+    "division_type":"County"
+  },
+  "10":{
+    "division_name":"Vest-Agder",
+    "division_type":"County"
+  },
+  "11":{
+    "division_name":"Rogaland",
+    "division_type":"County"
+  },
+  "12":{
+    "division_name":"Hordaland",
+    "division_type":"County"
+  },
+  "14":{
+    "division_name":"Sogn og Fjordane",
+    "division_type":"County"
+  },
+  "15":{
+    "division_name":"M\u00f8re og Romsdal",
+    "division_type":"County"
+  },
+  "16":{
+    "division_name":"S\u00f8r-Tr\u00f8ndelag",
+    "division_type":"County"
+  },
+  "17":{
+    "division_name":"Nord-Tr\u00f8ndelag",
+    "division_type":"County"
+  },
+  "18":{
+    "division_name":"Nordland",
+    "division_type":"County"
+  },
+  "19":{
+    "division_name":"Troms",
+    "division_type":"County"
+  },
+  "20":{
+    "division_name":"Finnmark",
+    "division_type":"County"
+  },
+  "21":{
+    "division_name":"Svalbard (Arctic Region)",
+    "division_type":"Arctic region"
+  },
+  "22":{
+    "division_name":"Jan Mayen (Arctic Region)",
+    "division_type":"Arctic region"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "country_code":"MW",
+  "country_name":"Malawi",
+  "currency_code":"MWK",
+  "fips_code":"MI",
+  "iso_numeric":"454",
+  "north":"-9.367541",
+  "south":"-17.125",
+  "east":"35.916821",
+  "west":"32.67395",
+  "capital":"Lilongwe",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"MWI",
+  "geoname_id":"927384",
+  "languages":[
+    "ny",
+    "yao",
+    "tum",
+    "swk"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "country_code":"ES",
+  "country_name":"Spain",
+  "currency_code":"EUR",
+  "fips_code":"SP",
+  "iso_numeric":"724",
+  "north":"43.7913565913767",
+  "south":"36.0001044260548",
+  "east":"4.32778473043961",
+  "west":"-9.30151567231899",
+  "capital":"Madrid",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"ESP",
+  "geoname_id":"2510769",
+  "languages":[
+    "es-ES",
+    "ca",
+    "gl",
+    "eu",
+    "oc"
+  ],
+  "subdivision":{
+    "A":{
+      "division_name":"Alicante \/ Alacant",
+      "division_type":"Province"
+    },
+    "AB":{
+      "division_name":"Albacete",
+      "division_type":"Province"
+    },
+    "AL":{
+      "division_name":"Almer\u00eda",
+      "division_type":"Province"
+    },
+    "AV":{
+      "division_name":"\u00c1vila",
+      "division_type":"Province"
+    },
+    "B":{
+      "division_name":"Barcelona  [Barcelona]",
+      "division_type":"Province"
+    },
+    "BA":{
+      "division_name":"Badajoz",
+      "division_type":"Province"
+    },
+    "BI":{
+      "division_name":"Biskaia",
+      "division_type":"Province"
+    },
+    "BU":{
+      "division_name":"Burgos",
+      "division_type":"Province"
+    },
+    "C":{
+      "division_name":"A Coru\u00f1a  [La Coru\u00f1a]",
+      "division_type":"Province"
+    },
+    "CA":{
+      "division_name":"C\u00e1diz",
+      "division_type":"Province"
+    },
+    "CC":{
+      "division_name":"C\u00e1ceres",
+      "division_type":"Province"
+    },
+    "CE":{
+      "division_name":"Ceuta",
+      "division_type":"Autonomous city in North Africa"
+    },
+    "CO":{
+      "division_name":"C\u00f3rdoba",
+      "division_type":"Province"
+    },
+    "CR":{
+      "division_name":"Ciudad Real",
+      "division_type":"Province"
+    },
+    "CS":{
+      "division_name":"Castell\u00f3n \/ Castell\u00f3",
+      "division_type":"Province"
+    },
+    "CU":{
+      "division_name":"Cuenca",
+      "division_type":"Province"
+    },
+    "GC":{
+      "division_name":"Las Palmas",
+      "division_type":"Province"
+    },
+    "GI":{
+      "division_name":"Girona  [Gerona]",
+      "division_type":"Province"
+    },
+    "GR":{
+      "division_name":"Granada",
+      "division_type":"Province"
+    },
+    "GU":{
+      "division_name":"Guadalajara",
+      "division_type":"Province"
+    },
+    "H":{
+      "division_name":"Huelva",
+      "division_type":"Province"
+    },
+    "HU":{
+      "division_name":"Huesca",
+      "division_type":"Province"
+    },
+    "J":{
+      "division_name":"Ja\u00e9n",
+      "division_type":"Province"
+    },
+    "L":{
+      "division_name":"Lleida  [L\u00e9rida]",
+      "division_type":"Province"
+    },
+    "LE":{
+      "division_name":"Le\u00f3n",
+      "division_type":"Province"
+    },
+    "LO":{
+      "division_name":"La Rioja",
+      "division_type":"Province"
+    },
+    "LU":{
+      "division_name":"Lugo  [Lugo]",
+      "division_type":"Province"
+    },
+    "M":{
+      "division_name":"Madrid",
+      "division_type":"Province"
+    },
+    "MA":{
+      "division_name":"M\u00e1laga",
+      "division_type":"Province"
+    },
+    "ML":{
+      "division_name":"Melilla",
+      "division_type":"Autonomous city in North Africa"
+    },
+    "MU":{
+      "division_name":"Murcia",
+      "division_type":"Province"
+    },
+    "NA":{
+      "division_name":"Navarra \/ Nafarroa",
+      "division_type":"Province"
+    },
+    "O":{
+      "division_name":"Asturias",
+      "division_type":"Province"
+    },
+    "OR":{
+      "division_name":"Ourense  [Orense]",
+      "division_type":"Province"
+    },
+    "P":{
+      "division_name":"Palencia",
+      "division_type":"Province"
+    },
+    "PM":{
+      "division_name":"Balears  [Baleares]",
+      "division_type":"Province"
+    },
+    "PO":{
+      "division_name":"Pontevedra  [Pontevedra]",
+      "division_type":"Province"
+    },
+    "S":{
+      "division_name":"Cantabria",
+      "division_type":"Province"
+    },
+    "SA":{
+      "division_name":"Salamanca",
+      "division_type":"Province"
+    },
+    "SE":{
+      "division_name":"Sevilla",
+      "division_type":"Province"
+    },
+    "SG":{
+      "division_name":"Segovia",
+      "division_type":"Province"
+    },
+    "SO":{
+      "division_name":"Soria",
+      "division_type":"Province"
+    },
+    "SS":{
+      "division_name":"Gipuzkoa",
+      "division_type":"Province"
+    },
+    "T":{
+      "division_name":"Tarragona  [Tarragona]",
+      "division_type":"Province"
+    },
+    "TE":{
+      "division_name":"Teruel",
+      "division_type":"Province"
+    },
+    "TF":{
+      "division_name":"Santa Cruz de Tenerife",
+      "division_type":"Province"
+    },
+    "TO":{
+      "division_name":"Toledo",
+      "division_type":"Province"
+    },
+    "V":{
+      "division_name":"Valencia \/ Val\u00e8ncia",
+      "division_type":"Province"
+    },
+    "VA":{
+      "division_name":"Valladolid",
+      "division_type":"Province"
+    },
+    "VI":{
+      "division_name":"\u00c1lava \/ Araba",
+      "division_type":"Province"
+    },
+    "Z":{
+      "division_name":"Zaragoza",
+      "division_type":"Province"
+    },
+    "ZA":{
+      "division_name":"Zamora",
+      "division_type":"Province"
+    }
+  }
+}

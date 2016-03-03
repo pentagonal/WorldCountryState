@@ -1,0 +1,34 @@
+{
+  "BC":{
+    "division_name":"Banskobystrick\u00fd kraj",
+    "division_type":"Region"
+  },
+  "BL":{
+    "division_name":"Bratislavsk\u00fd kraj",
+    "division_type":"Region"
+  },
+  "KI":{
+    "division_name":"Ko\u0161ick\u00fd kraj",
+    "division_type":"Region"
+  },
+  "NI":{
+    "division_name":"Nitriansky kraj",
+    "division_type":"Region"
+  },
+  "PV":{
+    "division_name":"Pre\u0161ovsk\u00fd kraj",
+    "division_type":"Region"
+  },
+  "TA":{
+    "division_name":"Trnavsk\u00fd kraj",
+    "division_type":"Region"
+  },
+  "TC":{
+    "division_name":"Trenciansky kraj",
+    "division_type":"Region"
+  },
+  "ZI":{
+    "division_name":"\u017dilinsk\u00fd kraj",
+    "division_type":"Region"
+  }
+}

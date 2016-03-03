@@ -1,0 +1,19 @@
+{
+  "country_code":"SA",
+  "country_name":"Saudi Arabia",
+  "currency_code":"SAR",
+  "fips_code":"SA",
+  "iso_numeric":"682",
+  "north":"32.158333",
+  "south":"15.61425",
+  "east":"55.666584",
+  "west":"34.495693",
+  "capital":"Riyadh",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"SAU",
+  "geoname_id":"102358",
+  "languages":[
+    "ar-SA"
+  ]
+}

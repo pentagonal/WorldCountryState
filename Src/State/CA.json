@@ -1,0 +1,54 @@
+{
+  "AB":{
+    "division_name":"Alberta",
+    "division_type":"Province"
+  },
+  "BC":{
+    "division_name":"British Columbia",
+    "division_type":"Province"
+  },
+  "MB":{
+    "division_name":"Manitoba",
+    "division_type":"Province"
+  },
+  "NB":{
+    "division_name":"New Brunswick",
+    "division_type":"Province"
+  },
+  "NL":{
+    "division_name":"Newfoundland and Labrador",
+    "division_type":"Province"
+  },
+  "NS":{
+    "division_name":"Nova Scotia",
+    "division_type":"Province"
+  },
+  "NT":{
+    "division_name":"Northwest Territories",
+    "division_type":"Territory"
+  },
+  "NU":{
+    "division_name":"Nunavut",
+    "division_type":"Territory"
+  },
+  "ON":{
+    "division_name":"Ontario",
+    "division_type":"Province"
+  },
+  "PE":{
+    "division_name":"Prince Edward Island",
+    "division_type":"Province"
+  },
+  "QC":{
+    "division_name":"Quebec",
+    "division_type":"Province"
+  },
+  "SK":{
+    "division_name":"Saskatchewan",
+    "division_type":"Province"
+  },
+  "YT":{
+    "division_name":"Yukon",
+    "division_type":"Territory"
+  }
+}

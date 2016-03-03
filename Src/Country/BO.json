@@ -1,0 +1,59 @@
+{
+  "country_code":"BO",
+  "country_name":"Bolivia",
+  "currency_code":"BOB",
+  "fips_code":"BL",
+  "iso_numeric":"068",
+  "north":"-9.680567",
+  "south":"-22.896133",
+  "east":"-57.45809600000001",
+  "west":"-69.640762",
+  "capital":"Sucre",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"BOL",
+  "geoname_id":"3923057",
+  "languages":[
+    "es-BO",
+    "qu",
+    "ay"
+  ],
+  "subdivision":{
+    "B":{
+      "division_name":"El Beni",
+      "division_type":"Department"
+    },
+    "C":{
+      "division_name":"Cochabamba",
+      "division_type":"Department"
+    },
+    "H":{
+      "division_name":"Chuquisaca",
+      "division_type":"Department"
+    },
+    "L":{
+      "division_name":"La Paz",
+      "division_type":"Department"
+    },
+    "N":{
+      "division_name":"Pando",
+      "division_type":"Department"
+    },
+    "O":{
+      "division_name":"Oruro",
+      "division_type":"Department"
+    },
+    "P":{
+      "division_name":"Potos\u00ed",
+      "division_type":"Department"
+    },
+    "S":{
+      "division_name":"Santa Cruz",
+      "division_type":"Department"
+    },
+    "T":{
+      "division_name":"Tarija",
+      "division_type":"Department"
+    }
+  }
+}

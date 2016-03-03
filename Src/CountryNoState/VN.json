@@ -1,0 +1,23 @@
+{
+  "country_code":"VN",
+  "country_name":"Vietnam",
+  "currency_code":"VND",
+  "fips_code":"VM",
+  "iso_numeric":"704",
+  "north":"23.388834",
+  "south":"8.559611",
+  "east":"109.464638",
+  "west":"102.148224",
+  "capital":"Hanoi",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"VNM",
+  "geoname_id":"1562822",
+  "languages":[
+    "vi",
+    "en",
+    "fr",
+    "zh",
+    "km"
+  ]
+}

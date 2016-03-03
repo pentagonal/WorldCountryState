@@ -1,0 +1,22 @@
+{
+  "country_code":"AF",
+  "country_name":"Afghanistan",
+  "currency_code":"AFN",
+  "fips_code":"AF",
+  "iso_numeric":"004",
+  "north":"38.483418",
+  "south":"29.377472",
+  "east":"74.879448",
+  "west":"60.478443",
+  "capital":"Kabul",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"AFG",
+  "geoname_id":"1149361",
+  "languages":[
+    "fa-AF",
+    "ps",
+    "uz-AF",
+    "tk"
+  ]
+}

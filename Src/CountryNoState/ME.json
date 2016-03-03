@@ -1,0 +1,24 @@
+{
+  "country_code":"ME",
+  "country_name":"Montenegro",
+  "currency_code":"EUR",
+  "fips_code":"MJ",
+  "iso_numeric":"499",
+  "north":"43.570137",
+  "south":"41.850166",
+  "east":"20.358833",
+  "west":"18.461306",
+  "capital":"Podgorica",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"MNE",
+  "geoname_id":"3194884",
+  "languages":[
+    "sr",
+    "hu",
+    "bs",
+    "sq",
+    "hr",
+    "rom"
+  ]
+}

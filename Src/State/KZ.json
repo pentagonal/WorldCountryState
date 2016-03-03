@@ -1,0 +1,66 @@
+{
+  "AKM":{
+    "division_name":"Aqmola oblysy",
+    "division_type":"Region"
+  },
+  "AKT":{
+    "division_name":"Aqt\u00f6be oblysy",
+    "division_type":"Region"
+  },
+  "ALA":{
+    "division_name":"Almaty",
+    "division_type":"City"
+  },
+  "ALM":{
+    "division_name":"Almaty oblysy",
+    "division_type":"Region"
+  },
+  "AST":{
+    "division_name":"Astana",
+    "division_type":"City"
+  },
+  "ATY":{
+    "division_name":"Atyrau oblysy",
+    "division_type":"Region"
+  },
+  "KAR":{
+    "division_name":"Qaraghandy oblysy",
+    "division_type":"Region"
+  },
+  "KUS":{
+    "division_name":"Qostanay oblysy",
+    "division_type":"Region"
+  },
+  "KZY":{
+    "division_name":"Qyzylorda oblysy",
+    "division_type":"Region"
+  },
+  "MAN":{
+    "division_name":"Mangghystau oblysy",
+    "division_type":"Region"
+  },
+  "PAV":{
+    "division_name":"Pavlodar oblysy",
+    "division_type":"Region"
+  },
+  "SEV":{
+    "division_name":"Solt\u00fcstik Qazaqstan oblysy",
+    "division_type":"Region"
+  },
+  "VOS":{
+    "division_name":"Shyghys Qazaqstan oblysy",
+    "division_type":"Region"
+  },
+  "YUZ":{
+    "division_name":"Ongt\u00fcstik Qazaqstan oblysy",
+    "division_type":"Region"
+  },
+  "ZAP":{
+    "division_name":"Batys Qazaqstan oblysy",
+    "division_type":"Region"
+  },
+  "ZHA":{
+    "division_name":"Zhambyl oblysy",
+    "division_type":"Region"
+  }
+}

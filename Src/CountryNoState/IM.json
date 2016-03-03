@@ -1,0 +1,20 @@
+{
+  "country_code":"IM",
+  "country_name":"Isle of Man",
+  "currency_code":"GBP",
+  "fips_code":"IM",
+  "iso_numeric":"833",
+  "north":"54.419724",
+  "south":"54.055916",
+  "east":"-4.3115",
+  "west":"-4.798722",
+  "capital":"Douglas",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"IMN",
+  "geoname_id":"3042225",
+  "languages":[
+    "en",
+    "gv"
+  ]
+}

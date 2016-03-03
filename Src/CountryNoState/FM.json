@@ -1,0 +1,27 @@
+{
+  "country_code":"FM",
+  "country_name":"Micronesia",
+  "currency_code":"USD",
+  "fips_code":"FM",
+  "iso_numeric":"583",
+  "north":"10.08904",
+  "south":"1.02629",
+  "east":"163.03717",
+  "west":"137.33648",
+  "capital":"Palikir",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"FSM",
+  "geoname_id":"2081918",
+  "languages":[
+    "en-FM",
+    "chk",
+    "pon",
+    "yap",
+    "kos",
+    "uli",
+    "woe",
+    "nkr",
+    "kpg"
+  ]
+}

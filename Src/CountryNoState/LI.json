@@ -1,0 +1,19 @@
+{
+  "country_code":"LI",
+  "country_name":"Liechtenstein",
+  "currency_code":"CHF",
+  "fips_code":"LS",
+  "iso_numeric":"438",
+  "north":"47.2706251386959",
+  "south":"47.0484284123471",
+  "east":"9.63564281136796",
+  "west":"9.47167359782014",
+  "capital":"Vaduz",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"LIE",
+  "geoname_id":"3042058",
+  "languages":[
+    "de-LI"
+  ]
+}

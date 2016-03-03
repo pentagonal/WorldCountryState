@@ -1,0 +1,26 @@
+{
+  "AN":{
+    "division_name":"\u2018Anseba",
+    "division_type":"Region"
+  },
+  "DK":{
+    "division_name":"Debubawi K\u2019eyy\u012d\u1e25 Ba\u1e25ri",
+    "division_type":"Region"
+  },
+  "DU":{
+    "division_name":"Debub",
+    "division_type":"Region"
+  },
+  "GB":{
+    "division_name":"Gash-Barka",
+    "division_type":"Region"
+  },
+  "MA":{
+    "division_name":"Ma\u2019ikel",
+    "division_type":"Region"
+  },
+  "SK":{
+    "division_name":"Semienawi K\u2019eyy\u012d\u1e25 Ba\u1e25ri",
+    "division_type":"Region"
+  }
+}

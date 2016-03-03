@@ -1,0 +1,50 @@
+{
+  "AB":{
+    "division_name":"Abkhazia",
+    "division_type":"Autonomous republic"
+  },
+  "AJ":{
+    "division_name":"Ajaria",
+    "division_type":"Autonomous republic"
+  },
+  "GU":{
+    "division_name":"Guria",
+    "division_type":"Region"
+  },
+  "IM":{
+    "division_name":"Imeret'i",
+    "division_type":"Region"
+  },
+  "KA":{
+    "division_name":"Kakhet'i",
+    "division_type":"Region"
+  },
+  "KK":{
+    "division_name":"K'vemo K'art'li",
+    "division_type":"Region"
+  },
+  "MM":{
+    "division_name":"Mts'khet'a-Mt'ianet'i",
+    "division_type":"Region"
+  },
+  "RL":{
+    "division_name":"Racha-Lech\u2019khumi-K\u2019vemo Svanet\u2019i",
+    "division_type":"Region"
+  },
+  "SJ":{
+    "division_name":"Samts'khe-Javakhet'i",
+    "division_type":"Region"
+  },
+  "SK":{
+    "division_name":"Shida K'art'li",
+    "division_type":"Region"
+  },
+  "SZ":{
+    "division_name":"Samegrelo-Zemo Svanet'i",
+    "division_type":"Region"
+  },
+  "TB":{
+    "division_name":"T'bilisi",
+    "division_type":"City"
+  }
+}

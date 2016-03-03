@@ -1,0 +1,26 @@
+{
+  "AR":{
+    "division_name":"Arta",
+    "division_type":"Region"
+  },
+  "AS":{
+    "division_name":"Ali Sabieh",
+    "division_type":"Region"
+  },
+  "DI":{
+    "division_name":"Dikhil",
+    "division_type":"Region"
+  },
+  "DJ":{
+    "division_name":"Djibouti",
+    "division_type":"City"
+  },
+  "OB":{
+    "division_name":"Obock",
+    "division_type":"Region"
+  },
+  "TA":{
+    "division_name":"Tadjourah",
+    "division_type":"Region"
+  }
+}

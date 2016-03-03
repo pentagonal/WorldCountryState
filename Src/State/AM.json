@@ -1,0 +1,46 @@
+{
+  "AG":{
+    "division_name":"Aragact\u0361sotn",
+    "division_type":"Region"
+  },
+  "AR":{
+    "division_name":"Ararat",
+    "division_type":"Region"
+  },
+  "AV":{
+    "division_name":"Armavir",
+    "division_type":"Region"
+  },
+  "ER":{
+    "division_name":"Erevan",
+    "division_type":"City"
+  },
+  "GR":{
+    "division_name":"Gegark'unik'",
+    "division_type":"Region"
+  },
+  "KT":{
+    "division_name":"Kotayk'",
+    "division_type":"Region"
+  },
+  "LO":{
+    "division_name":"Lor\u00e9",
+    "division_type":"Region"
+  },
+  "SH":{
+    "division_name":"\u0160irak",
+    "division_type":"Region"
+  },
+  "SU":{
+    "division_name":"Syunik'",
+    "division_type":"Region"
+  },
+  "TV":{
+    "division_name":"Tavu\u0161",
+    "division_type":"Region"
+  },
+  "VD":{
+    "division_name":"Vayoc Jor",
+    "division_type":"Region"
+  }
+}

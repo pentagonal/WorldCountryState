@@ -1,0 +1,14 @@
+{
+  "BO":{
+    "division_name":"Bonaire",
+    "division_type":"Special Municipality"
+  },
+  "SA":{
+    "division_name":"Saba",
+    "division_type":"Special Municipality"
+  },
+  "SE":{
+    "division_name":"Sint Eustatius",
+    "division_type":"Special Municipality"
+  }
+}

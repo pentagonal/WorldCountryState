@@ -1,0 +1,49 @@
+{
+  "country_code":"ER",
+  "country_name":"Eritrea",
+  "currency_code":"ERN",
+  "fips_code":"ER",
+  "iso_numeric":"232",
+  "north":"18.003084",
+  "south":"12.359555",
+  "east":"43.13464",
+  "west":"36.438778",
+  "capital":"Asmara",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ERI",
+  "geoname_id":"338010",
+  "languages":[
+    "aa-ER",
+    "ar",
+    "tig",
+    "kun",
+    "ti-ER"
+  ],
+  "subdivision":{
+    "AN":{
+      "division_name":"\u2018Anseba",
+      "division_type":"Region"
+    },
+    "DK":{
+      "division_name":"Debubawi K\u2019eyy\u012d\u1e25 Ba\u1e25ri",
+      "division_type":"Region"
+    },
+    "DU":{
+      "division_name":"Debub",
+      "division_type":"Region"
+    },
+    "GB":{
+      "division_name":"Gash-Barka",
+      "division_type":"Region"
+    },
+    "MA":{
+      "division_name":"Ma\u2019ikel",
+      "division_type":"Region"
+    },
+    "SK":{
+      "division_name":"Semienawi K\u2019eyy\u012d\u1e25 Ba\u1e25ri",
+      "division_type":"Region"
+    }
+  }
+}

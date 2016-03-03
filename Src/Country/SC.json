@@ -1,0 +1,122 @@
+{
+  "country_code":"SC",
+  "country_name":"Seychelles",
+  "currency_code":"SCR",
+  "fips_code":"SE",
+  "iso_numeric":"690",
+  "north":"-4.283717",
+  "south":"-9.753867",
+  "east":"56.29770287937299",
+  "west":"46.204769",
+  "capital":"Victoria",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SYC",
+  "geoname_id":"241170",
+  "languages":[
+    "en-SC",
+    "fr-SC"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Anse aux Pins",
+      "division_type":"District"
+    },
+    "02":{
+      "division_name":"Anse Boileau",
+      "division_type":"District"
+    },
+    "03":{
+      "division_name":"Anse \u00c9toile",
+      "division_type":"District"
+    },
+    "04":{
+      "division_name":"Au Cap",
+      "division_type":"District"
+    },
+    "05":{
+      "division_name":"Anse Royale",
+      "division_type":"District"
+    },
+    "06":{
+      "division_name":"Baie Lazare",
+      "division_type":"District"
+    },
+    "07":{
+      "division_name":"Baie Sainte Anne",
+      "division_type":"District"
+    },
+    "08":{
+      "division_name":"Beau Vallon",
+      "division_type":"District"
+    },
+    "09":{
+      "division_name":"Bel Air",
+      "division_type":"District"
+    },
+    "10":{
+      "division_name":"Bel Ombre",
+      "division_type":"District"
+    },
+    "11":{
+      "division_name":"Cascade",
+      "division_type":"District"
+    },
+    "12":{
+      "division_name":"Glacis",
+      "division_type":"District"
+    },
+    "13":{
+      "division_name":"Grand'Anse Mah\u00e9",
+      "division_type":"District"
+    },
+    "14":{
+      "division_name":"Grand'Anse Praslin",
+      "division_type":"District"
+    },
+    "15":{
+      "division_name":"La Digue",
+      "division_type":"District"
+    },
+    "16":{
+      "division_name":"La Rivi\u00e8re Anglaise",
+      "division_type":"District"
+    },
+    "17":{
+      "division_name":"Mont Buxton",
+      "division_type":"District"
+    },
+    "18":{
+      "division_name":"Mont Fleuri",
+      "division_type":"District"
+    },
+    "19":{
+      "division_name":"Plaisance",
+      "division_type":"District"
+    },
+    "20":{
+      "division_name":"Pointe La Rue",
+      "division_type":"District"
+    },
+    "21":{
+      "division_name":"Port Glaud",
+      "division_type":"District"
+    },
+    "22":{
+      "division_name":"Saint Louis",
+      "division_type":"District"
+    },
+    "23":{
+      "division_name":"Takamaka",
+      "division_type":"District"
+    },
+    "24":{
+      "division_name":"Lemamel",
+      "division_type":"District"
+    },
+    "25":{
+      "division_name":"Ros Kaiman",
+      "division_type":"District"
+    }
+  }
+}

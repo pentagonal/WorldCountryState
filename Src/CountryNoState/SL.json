@@ -1,0 +1,21 @@
+{
+  "country_code":"SL",
+  "country_name":"Sierra Leone",
+  "currency_code":"SLL",
+  "fips_code":"SL",
+  "iso_numeric":"694",
+  "north":"10",
+  "south":"6.929611",
+  "east":"-10.284238",
+  "west":"-13.307631",
+  "capital":"Freetown",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SLE",
+  "geoname_id":"2403846",
+  "languages":[
+    "en-SL",
+    "men",
+    "tem"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_code":"US",
+  "country_name":"United States",
+  "currency_code":"USD",
+  "fips_code":"US",
+  "iso_numeric":"840",
+  "north":"49.388611",
+  "south":"24.544245",
+  "east":"-66.954811",
+  "west":"-124.733253",
+  "capital":"Washington",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"USA",
+  "geoname_id":"6252001",
+  "languages":[
+    "en-US",
+    "es-US",
+    "haw",
+    "fr"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "AN":{
+    "division_name":"Andaman and Nicobar Islands",
+    "division_type":"Union territory"
+  },
+  "AP":{
+    "division_name":"Andhra Pradesh",
+    "division_type":"State"
+  },
+  "AR":{
+    "division_name":"Arunachal Pradesh",
+    "division_type":"State"
+  },
+  "AS":{
+    "division_name":"Assam",
+    "division_type":"State"
+  },
+  "BR":{
+    "division_name":"Bihar",
+    "division_type":"State"
+  },
+  "CH":{
+    "division_name":"Chandigarh",
+    "division_type":"Union territory"
+  },
+  "CT":{
+    "division_name":"Chhattisgarh",
+    "division_type":"State"
+  },
+  "DD":{
+    "division_name":"Daman and Diu",
+    "division_type":"Union territory"
+  },
+  "DL":{
+    "division_name":"Delhi",
+    "division_type":"Union territory"
+  },
+  "DN":{
+    "division_name":"Dadra and Nagar Haveli",
+    "division_type":"Union territory"
+  },
+  "GA":{
+    "division_name":"Goa",
+    "division_type":"State"
+  },
+  "GJ":{
+    "division_name":"Gujarat",
+    "division_type":"State"
+  },
+  "HP":{
+    "division_name":"Himachal Pradesh",
+    "division_type":"State"
+  },
+  "HR":{
+    "division_name":"Haryana",
+    "division_type":"State"
+  },
+  "JH":{
+    "division_name":"Jharkhand",
+    "division_type":"State"
+  },
+  "JK":{
+    "division_name":"Jammu and Kashmir",
+    "division_type":"State"
+  },
+  "KA":{
+    "division_name":"Karnataka",
+    "division_type":"State"
+  },
+  "KL":{
+    "division_name":"Kerala",
+    "division_type":"State"
+  },
+  "LD":{
+    "division_name":"Lakshadweep",
+    "division_type":"Union territory"
+  },
+  "MH":{
+    "division_name":"Maharashtra",
+    "division_type":"State"
+  },
+  "ML":{
+    "division_name":"Meghalaya",
+    "division_type":"State"
+  },
+  "MN":{
+    "division_name":"Manipur",
+    "division_type":"State"
+  },
+  "MP":{
+    "division_name":"Madhya Pradesh",
+    "division_type":"State"
+  },
+  "MZ":{
+    "division_name":"Mizoram",
+    "division_type":"State"
+  },
+  "NL":{
+    "division_name":"Nagaland",
+    "division_type":"State"
+  },
+  "OR":{
+    "division_name":"Odisha",
+    "division_type":"State"
+  },
+  "PB":{
+    "division_name":"Punjab",
+    "division_type":"State"
+  },
+  "PY":{
+    "division_name":"Puducherry",
+    "division_type":"Union territory"
+  },
+  "RJ":{
+    "division_name":"Rajasthan",
+    "division_type":"State"
+  },
+  "SK":{
+    "division_name":"Sikkim",
+    "division_type":"State"
+  },
+  "TG":{
+    "division_name":"Telangana",
+    "division_type":"State"
+  },
+  "TN":{
+    "division_name":"Tamil Nadu",
+    "division_type":"State"
+  },
+  "TR":{
+    "division_name":"Tripura",
+    "division_type":"State"
+  },
+  "UP":{
+    "division_name":"Uttar Pradesh",
+    "division_type":"State"
+  },
+  "UT":{
+    "division_name":"Uttarakhand",
+    "division_type":"State"
+  },
+  "WB":{
+    "division_name":"West Bengal",
+    "division_type":"State"
+  }
+}

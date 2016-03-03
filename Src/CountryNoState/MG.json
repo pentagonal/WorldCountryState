@@ -1,0 +1,20 @@
+{
+  "country_code":"MG",
+  "country_name":"Madagascar",
+  "currency_code":"MGA",
+  "fips_code":"MA",
+  "iso_numeric":"450",
+  "north":"-11.945433",
+  "south":"-25.608952",
+  "east":"50.48378",
+  "west":"43.224876",
+  "capital":"Antananarivo",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"MDG",
+  "geoname_id":"1062947",
+  "languages":[
+    "fr-MG",
+    "mg"
+  ]
+}

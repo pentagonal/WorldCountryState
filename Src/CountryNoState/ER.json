@@ -1,0 +1,23 @@
+{
+  "country_code":"ER",
+  "country_name":"Eritrea",
+  "currency_code":"ERN",
+  "fips_code":"ER",
+  "iso_numeric":"232",
+  "north":"18.003084",
+  "south":"12.359555",
+  "east":"43.13464",
+  "west":"36.438778",
+  "capital":"Asmara",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ERI",
+  "geoname_id":"338010",
+  "languages":[
+    "aa-ER",
+    "ar",
+    "tig",
+    "kun",
+    "ti-ER"
+  ]
+}

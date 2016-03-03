@@ -1,0 +1,19 @@
+{
+  "country_code":"HU",
+  "country_name":"Hungary",
+  "currency_code":"HUF",
+  "fips_code":"HU",
+  "iso_numeric":"348",
+  "north":"48.585667",
+  "south":"45.74361",
+  "east":"22.906",
+  "west":"16.111889",
+  "capital":"Budapest",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"HUN",
+  "geoname_id":"719819",
+  "languages":[
+    "hu-HU"
+  ]
+}

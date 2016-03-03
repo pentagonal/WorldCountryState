@@ -1,0 +1,20 @@
+{
+  "country_code":"NL",
+  "country_name":"Netherlands",
+  "currency_code":"EUR",
+  "fips_code":"NL",
+  "iso_numeric":"528",
+  "north":"53.512196",
+  "south":"50.753918",
+  "east":"7.227944",
+  "west":"3.362556",
+  "capital":"Amsterdam",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"NLD",
+  "geoname_id":"2750405",
+  "languages":[
+    "nl-NL",
+    "fy-NL"
+  ]
+}

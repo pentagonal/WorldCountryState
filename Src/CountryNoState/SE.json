@@ -1,0 +1,22 @@
+{
+  "country_code":"SE",
+  "country_name":"Sweden",
+  "currency_code":"SEK",
+  "fips_code":"SW",
+  "iso_numeric":"752",
+  "north":"69.0625",
+  "south":"55.337112",
+  "east":"24.1562924839185",
+  "west":"11.118694",
+  "capital":"Stockholm",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"SWE",
+  "geoname_id":"2661886",
+  "languages":[
+    "sv-SE",
+    "se",
+    "sma",
+    "fi-SE"
+  ]
+}

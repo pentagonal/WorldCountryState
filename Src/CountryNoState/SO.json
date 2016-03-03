@@ -1,0 +1,22 @@
+{
+  "country_code":"SO",
+  "country_name":"Somalia",
+  "currency_code":"SOS",
+  "fips_code":"SO",
+  "iso_numeric":"706",
+  "north":"11.979166",
+  "south":"-1.674868",
+  "east":"51.412636",
+  "west":"40.986595",
+  "capital":"Mogadishu",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"SOM",
+  "geoname_id":"51537",
+  "languages":[
+    "so-SO",
+    "ar-SO",
+    "it",
+    "en-SO"
+  ]
+}

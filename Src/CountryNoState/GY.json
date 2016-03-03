@@ -1,0 +1,19 @@
+{
+  "country_code":"GY",
+  "country_name":"Guyana",
+  "currency_code":"GYD",
+  "fips_code":"GY",
+  "iso_numeric":"328",
+  "north":"8.557567",
+  "south":"1.17508",
+  "east":"-56.480251",
+  "west":"-61.384762",
+  "capital":"Georgetown",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"GUY",
+  "geoname_id":"3378535",
+  "languages":[
+    "en-GY"
+  ]
+}

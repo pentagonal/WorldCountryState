@@ -1,0 +1,21 @@
+{
+  "country_code":"VU",
+  "country_name":"Vanuatu",
+  "currency_code":"VUV",
+  "fips_code":"NH",
+  "iso_numeric":"548",
+  "north":"-13.073444",
+  "south":"-20.248945",
+  "east":"169.904785",
+  "west":"166.524979",
+  "capital":"Port Vila",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"VUT",
+  "geoname_id":"2134431",
+  "languages":[
+    "bi",
+    "en-VU",
+    "fr-VU"
+  ]
+}

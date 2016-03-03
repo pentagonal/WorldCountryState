@@ -1,0 +1,77 @@
+{
+  "country_code":"JM",
+  "country_name":"Jamaica",
+  "currency_code":"JMD",
+  "fips_code":"JM",
+  "iso_numeric":"388",
+  "north":"18.526976",
+  "south":"17.703554",
+  "east":"-76.180321",
+  "west":"-78.366638",
+  "capital":"Kingston",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"JAM",
+  "geoname_id":"3489940",
+  "languages":[
+    "en-JM"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Kingston",
+      "division_type":"Partish"
+    },
+    "02":{
+      "division_name":"Saint Andrew",
+      "division_type":"Partish"
+    },
+    "03":{
+      "division_name":"Saint Thomas",
+      "division_type":"Partish"
+    },
+    "04":{
+      "division_name":"Portland",
+      "division_type":"Partish"
+    },
+    "05":{
+      "division_name":"Saint Mary",
+      "division_type":"Partish"
+    },
+    "06":{
+      "division_name":"Saint Ann",
+      "division_type":"Partish"
+    },
+    "07":{
+      "division_name":"Trelawny",
+      "division_type":"Partish"
+    },
+    "08":{
+      "division_name":"Saint James",
+      "division_type":"Partish"
+    },
+    "09":{
+      "division_name":"Hanover",
+      "division_type":"Partish"
+    },
+    "10":{
+      "division_name":"Westmoreland",
+      "division_type":"Partish"
+    },
+    "11":{
+      "division_name":"Saint Elizabeth",
+      "division_type":"Partish"
+    },
+    "12":{
+      "division_name":"Manchester",
+      "division_type":"Partish"
+    },
+    "13":{
+      "division_name":"Clarendon",
+      "division_type":"Partish"
+    },
+    "14":{
+      "division_name":"Saint Catherine",
+      "division_type":"Partish"
+    }
+  }
+}

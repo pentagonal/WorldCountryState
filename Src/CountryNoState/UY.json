@@ -1,0 +1,19 @@
+{
+  "country_code":"UY",
+  "country_name":"Uruguay",
+  "currency_code":"UYU",
+  "fips_code":"UY",
+  "iso_numeric":"858",
+  "north":"-30.082224",
+  "south":"-34.980816",
+  "east":"-53.073933",
+  "west":"-58.442722",
+  "capital":"Montevideo",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"URY",
+  "geoname_id":"3439705",
+  "languages":[
+    "es-UY"
+  ]
+}

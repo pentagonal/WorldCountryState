@@ -1,0 +1,254 @@
+{
+  "01":{
+    "division_name":"Lai Ch\u00e2u",
+    "division_type":"Province"
+  },
+  "02":{
+    "division_name":"L\u00e0o Cai",
+    "division_type":"Province"
+  },
+  "03":{
+    "division_name":"H\u00e0 Giang",
+    "division_type":"Province"
+  },
+  "04":{
+    "division_name":"Cao B\u1eb1ng",
+    "division_type":"Province"
+  },
+  "05":{
+    "division_name":"Son La",
+    "division_type":"Province"
+  },
+  "06":{
+    "division_name":"Y\u00ean B\u00e1i",
+    "division_type":"Province"
+  },
+  "07":{
+    "division_name":"Tuy\u00ean Quang",
+    "division_type":"Province"
+  },
+  "09":{
+    "division_name":"L\u1ea1ng S\u01a1n",
+    "division_type":"Province"
+  },
+  "13":{
+    "division_name":"Qu\u1ea3ng Ninh",
+    "division_type":"Province"
+  },
+  "14":{
+    "division_name":"H\u00f2a B\u00ecnh",
+    "division_type":"Province"
+  },
+  "18":{
+    "division_name":"Ninh B\u00ecnh",
+    "division_type":"Province"
+  },
+  "20":{
+    "division_name":"Th\u00e1i B\u00ecnh",
+    "division_type":"Province"
+  },
+  "21":{
+    "division_name":"Thanh H\u00f3a",
+    "division_type":"Province"
+  },
+  "22":{
+    "division_name":"Ngh\u1ec7 An",
+    "division_type":"Province"
+  },
+  "23":{
+    "division_name":"H\u00e0 Tinh",
+    "division_type":"Province"
+  },
+  "24":{
+    "division_name":"Qu\u1ea3ng B\u00ecnh",
+    "division_type":"Province"
+  },
+  "25":{
+    "division_name":"Qu\u1ea3ng Tr\u1ecb",
+    "division_type":"Province"
+  },
+  "26":{
+    "division_name":"Th\u1eeba Thi\u00ean-Hu\u1ebf",
+    "division_type":"Province"
+  },
+  "27":{
+    "division_name":"Qu\u1ea3ng Nam",
+    "division_type":"Province"
+  },
+  "28":{
+    "division_name":"Kon Tum",
+    "division_type":"Province"
+  },
+  "29":{
+    "division_name":"Qu\u1ea3ng Ng\u00e3i",
+    "division_type":"Province"
+  },
+  "30":{
+    "division_name":"Gia Lai",
+    "division_type":"Province"
+  },
+  "31":{
+    "division_name":"B\u00ecnh \u00d0\u00e2nh",
+    "division_type":"Province"
+  },
+  "32":{
+    "division_name":"Ph\u00fa Y\u00ean",
+    "division_type":"Province"
+  },
+  "33":{
+    "division_name":"\u0110\u1eafk L\u1eafk",
+    "division_type":"Province"
+  },
+  "34":{
+    "division_name":"Kh\u00e1nh H\u00f2a",
+    "division_type":"Province"
+  },
+  "35":{
+    "division_name":"L\u00e2m \u0110\u1ed3ng",
+    "division_type":"Province"
+  },
+  "36":{
+    "division_name":"Ninh Thu\u1eadn",
+    "division_type":"Province"
+  },
+  "37":{
+    "division_name":"T\u00e2y Ninh",
+    "division_type":"Province"
+  },
+  "39":{
+    "division_name":"\u0110\u1ed3ng Nai",
+    "division_type":"Province"
+  },
+  "40":{
+    "division_name":"B\u00ecnh Thu\u1eadn",
+    "division_type":"Province"
+  },
+  "41":{
+    "division_name":"Long An",
+    "division_type":"Province"
+  },
+  "43":{
+    "division_name":"B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+    "division_type":"Province"
+  },
+  "44":{
+    "division_name":"An Giang",
+    "division_type":"Province"
+  },
+  "45":{
+    "division_name":"\u00d0\u1ed3ng Th\u00e1p",
+    "division_type":"Province"
+  },
+  "46":{
+    "division_name":"Ti\u1ec1n Giang",
+    "division_type":"Province"
+  },
+  "47":{
+    "division_name":"Ki\u00ean Giang",
+    "division_type":"Province"
+  },
+  "49":{
+    "division_name":"Vinh Long",
+    "division_type":"Province"
+  },
+  "50":{
+    "division_name":"Bi\u00ean Tre",
+    "division_type":"Province"
+  },
+  "51":{
+    "division_name":"Tr\u00e0 Vinh",
+    "division_type":"Province"
+  },
+  "52":{
+    "division_name":"S\u00f3c Trang",
+    "division_type":"Province"
+  },
+  "53":{
+    "division_name":"B\u1eafc K\u1ea1n",
+    "division_type":"Province"
+  },
+  "54":{
+    "division_name":"B\u1eafc Giang",
+    "division_type":"Province"
+  },
+  "55":{
+    "division_name":"B\u1eafc Li\u00eau",
+    "division_type":"Province"
+  },
+  "56":{
+    "division_name":"B\u1eafc Ninh",
+    "division_type":"Province"
+  },
+  "57":{
+    "division_name":"B\u00ecnh D\u01b0\u01a1ng",
+    "division_type":"Province"
+  },
+  "58":{
+    "division_name":"B\u00ecnh Ph\u01b0\u1edbc",
+    "division_type":"Province"
+  },
+  "59":{
+    "division_name":"C\u00e0 Mau",
+    "division_type":"Province"
+  },
+  "61":{
+    "division_name":"H\u1ea3i D\u01b0\u01a1ng",
+    "division_type":"Province"
+  },
+  "63":{
+    "division_name":"H\u00e0 Nam",
+    "division_type":"Province"
+  },
+  "66":{
+    "division_name":"Hung Y\u00ean",
+    "division_type":"Province"
+  },
+  "67":{
+    "division_name":"Nam \u00d0\u00e2nh",
+    "division_type":"Province"
+  },
+  "68":{
+    "division_name":"Ph\u00fa Th\u1ecd",
+    "division_type":"Province"
+  },
+  "69":{
+    "division_name":"Th\u00e1i Nguy\u00ean",
+    "division_type":"Province"
+  },
+  "70":{
+    "division_name":"Vinh Ph\u00fac",
+    "division_type":"Province"
+  },
+  "71":{
+    "division_name":"\u0110i\u1ec7n Bi\u00ean",
+    "division_type":"Province"
+  },
+  "72":{
+    "division_name":"\u0110\u1eafk N\u00f4ng",
+    "division_type":"Province"
+  },
+  "73":{
+    "division_name":"H\u1eadu Giang",
+    "division_type":"Province"
+  },
+  "CT":{
+    "division_name":"Can Tho",
+    "division_type":"Municipality"
+  },
+  "DN":{
+    "division_name":"Da Nang,\"thanh pho",
+    "division_type":"Municipality"
+  },
+  "HN":{
+    "division_name":"Ha Noi",
+    "division_type":"Municipality"
+  },
+  "HP":{
+    "division_name":"Hai Phong",
+    "division_type":"Municipality"
+  },
+  "SG":{
+    "division_name":"Ho Chi Minh",
+    "division_type":"Municipality"
+  }
+}

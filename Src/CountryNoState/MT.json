@@ -1,0 +1,20 @@
+{
+  "country_code":"MT",
+  "country_name":"Malta",
+  "currency_code":"EUR",
+  "fips_code":"MT",
+  "iso_numeric":"470",
+  "north":"36.0821530995456",
+  "south":"35.8061835000002",
+  "east":"14.5764915000002",
+  "west":"14.1834251000001",
+  "capital":"Valletta",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"MLT",
+  "geoname_id":"2562770",
+  "languages":[
+    "mt",
+    "en-MT"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "AH":{
+    "division_name":"Al A\u1e29madi",
+    "division_type":"Governorate"
+  },
+  "FA":{
+    "division_name":"Al Farwaniyah",
+    "division_type":"Governorate"
+  },
+  "HA":{
+    "division_name":"\u1e28awall\u012b",
+    "division_type":"Governorate"
+  },
+  "JA":{
+    "division_name":"Al Jahra\u2019",
+    "division_type":"Governorate"
+  },
+  "KU":{
+    "division_name":"Al Kuwayt",
+    "division_type":"Governorate"
+  },
+  "MU":{
+    "division_name":"Mubarak al Kabir",
+    "division_type":"Governorate"
+  }
+}

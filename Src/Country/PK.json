@@ -1,0 +1,58 @@
+{
+  "country_code":"PK",
+  "country_name":"Pakistan",
+  "currency_code":"PKR",
+  "fips_code":"PK",
+  "iso_numeric":"586",
+  "north":"37.097",
+  "south":"23.786722",
+  "east":"77.840919",
+  "west":"60.878613",
+  "capital":"Islamabad",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"PAK",
+  "geoname_id":"1168579",
+  "languages":[
+    "ur-PK",
+    "en-PK",
+    "pa",
+    "sd",
+    "ps",
+    "brh"
+  ],
+  "subdivision":{
+    "BA":{
+      "division_name":"Balochistan",
+      "division_type":"Province"
+    },
+    "GB":{
+      "division_name":"Gilgit-Baltistan",
+      "division_type":"Pakistan administrered area"
+    },
+    "IS":{
+      "division_name":"Islamabad",
+      "division_type":"Federal capital territory"
+    },
+    "JK":{
+      "division_name":"Azad Kashmir",
+      "division_type":"Pakistan administrered area"
+    },
+    "KP":{
+      "division_name":"Khyber Pakhtunkhwa",
+      "division_type":"Province"
+    },
+    "PB":{
+      "division_name":"Punjab",
+      "division_type":"Province"
+    },
+    "SD":{
+      "division_name":"Sindh",
+      "division_type":"Province"
+    },
+    "TA":{
+      "division_name":"Federally Administered Tribal Areas",
+      "division_type":"Territory"
+    }
+  }
+}

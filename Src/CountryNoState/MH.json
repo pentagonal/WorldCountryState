@@ -1,0 +1,20 @@
+{
+  "country_code":"MH",
+  "country_name":"Marshall Islands",
+  "currency_code":"USD",
+  "fips_code":"RM",
+  "iso_numeric":"584",
+  "north":"14.62",
+  "south":"5.587639",
+  "east":"171.931808",
+  "west":"165.524918",
+  "capital":"Majuro",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"MHL",
+  "geoname_id":"2080185",
+  "languages":[
+    "mh",
+    "en-MH"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "country_code":"PN",
+  "country_name":"Pitcairn Islands",
+  "currency_code":"NZD",
+  "fips_code":"PC",
+  "iso_numeric":"612",
+  "north":"-24.315865",
+  "south":"-24.672565",
+  "east":"-124.77285",
+  "west":"-128.346436",
+  "capital":"Adamstown",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"PCN",
+  "geoname_id":"4030699",
+  "languages":[
+    "en-PN"
+  ]
+}

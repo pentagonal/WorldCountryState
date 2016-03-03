@@ -1,0 +1,44 @@
+{
+  "country_code":"BH",
+  "country_name":"Bahrain",
+  "currency_code":"BHD",
+  "fips_code":"BA",
+  "iso_numeric":"048",
+  "north":"26.282583",
+  "south":"25.796862",
+  "east":"50.664471",
+  "west":"50.45414",
+  "capital":"Manama",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"BHR",
+  "geoname_id":"290291",
+  "languages":[
+    "ar-BH",
+    "en",
+    "fa",
+    "ur"
+  ],
+  "subdivision":{
+    "13":{
+      "division_name":"Al Manamah (Al \u2018Asimah)",
+      "division_type":"Governorat"
+    },
+    "14":{
+      "division_name":"Al Janubiyah",
+      "division_type":"Governorat"
+    },
+    "15":{
+      "division_name":"Al Mu\u1e29arraq",
+      "division_type":"Governorat"
+    },
+    "16":{
+      "division_name":"Al Wust\u00e1",
+      "division_type":"Governorat"
+    },
+    "17":{
+      "division_name":"Ash Shamaliyah",
+      "division_type":"Governorat"
+    }
+  }
+}

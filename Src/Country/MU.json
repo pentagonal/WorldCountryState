@@ -1,0 +1,91 @@
+{
+  "country_code":"MU",
+  "country_name":"Mauritius",
+  "currency_code":"MUR",
+  "fips_code":"MP",
+  "iso_numeric":"480",
+  "north":"-10.319255",
+  "south":"-20.525717",
+  "east":"63.500179",
+  "west":"56.512718",
+  "capital":"Port Louis",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"MUS",
+  "geoname_id":"934292",
+  "languages":[
+    "en-MU",
+    "bho",
+    "fr"
+  ],
+  "subdivision":{
+    "AG":{
+      "division_name":"Agalega Islands",
+      "division_type":"Dependency"
+    },
+    "BL":{
+      "division_name":"Black River",
+      "division_type":"District"
+    },
+    "BR":{
+      "division_name":"Beau Bassin-Rose Hill",
+      "division_type":"City"
+    },
+    "CC":{
+      "division_name":"Cargados Carajos Shoals [Saint Brandon Islands]",
+      "division_type":"Dependency"
+    },
+    "CU":{
+      "division_name":"Curepipe",
+      "division_type":"City"
+    },
+    "FL":{
+      "division_name":"Flacq",
+      "division_type":"District"
+    },
+    "GP":{
+      "division_name":"Grand Port",
+      "division_type":"District"
+    },
+    "MO":{
+      "division_name":"Moka",
+      "division_type":"District"
+    },
+    "PA":{
+      "division_name":"Pamplemousses",
+      "division_type":"District"
+    },
+    "PL":{
+      "division_name":"Port Louis",
+      "division_type":"District"
+    },
+    "PU":{
+      "division_name":"Port Louis",
+      "division_type":"City"
+    },
+    "PW":{
+      "division_name":"Plaines wilhems",
+      "division_type":"District"
+    },
+    "QB":{
+      "division_name":"Quatre Bornes",
+      "division_type":"City"
+    },
+    "RO":{
+      "division_name":"Rodrigues Island",
+      "division_type":"Dependency"
+    },
+    "RR":{
+      "division_name":"Rivi\u00e8re du Rempart",
+      "division_type":"District"
+    },
+    "SA":{
+      "division_name":"Savanne",
+      "division_type":"District"
+    },
+    "VP":{
+      "division_name":"Vacoas-Phoenix",
+      "division_type":"City"
+    }
+  }
+}

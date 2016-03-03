@@ -1,0 +1,19 @@
+{
+  "country_code":"JP",
+  "country_name":"Japan",
+  "currency_code":"JPY",
+  "fips_code":"JA",
+  "iso_numeric":"392",
+  "north":"45.52314",
+  "south":"24.249472",
+  "east":"145.820892",
+  "west":"122.93853",
+  "capital":"Tokyo",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"JPN",
+  "geoname_id":"1861060",
+  "languages":[
+    "ja"
+  ]
+}

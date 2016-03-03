@@ -1,0 +1,20 @@
+{
+  "country_code":"KW",
+  "country_name":"Kuwait",
+  "currency_code":"KWD",
+  "fips_code":"KU",
+  "iso_numeric":"414",
+  "north":"30.095945",
+  "south":"28.524611",
+  "east":"48.431473",
+  "west":"46.555557",
+  "capital":"Kuwait City",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"KWT",
+  "geoname_id":"285570",
+  "languages":[
+    "ar-KW",
+    "en"
+  ]
+}

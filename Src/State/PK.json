@@ -1,0 +1,34 @@
+{
+  "BA":{
+    "division_name":"Balochistan",
+    "division_type":"Province"
+  },
+  "GB":{
+    "division_name":"Gilgit-Baltistan",
+    "division_type":"Pakistan administrered area"
+  },
+  "IS":{
+    "division_name":"Islamabad",
+    "division_type":"Federal capital territory"
+  },
+  "JK":{
+    "division_name":"Azad Kashmir",
+    "division_type":"Pakistan administrered area"
+  },
+  "KP":{
+    "division_name":"Khyber Pakhtunkhwa",
+    "division_type":"Province"
+  },
+  "PB":{
+    "division_name":"Punjab",
+    "division_type":"Province"
+  },
+  "SD":{
+    "division_name":"Sindh",
+    "division_type":"Province"
+  },
+  "TA":{
+    "division_name":"Federally Administered Tribal Areas",
+    "division_type":"Territory"
+  }
+}

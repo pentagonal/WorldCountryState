@@ -1,0 +1,23 @@
+{
+  "country_code":"NO",
+  "country_name":"Norway",
+  "currency_code":"NOK",
+  "fips_code":"NO",
+  "iso_numeric":"578",
+  "north":"71.18811",
+  "south":"57.977917",
+  "east":"31.078052520751953",
+  "west":"4.650167",
+  "capital":"Oslo",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"NOR",
+  "geoname_id":"3144096",
+  "languages":[
+    "no",
+    "nb",
+    "nn",
+    "se",
+    "fi"
+  ]
+}

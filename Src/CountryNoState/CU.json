@@ -1,0 +1,19 @@
+{
+  "country_code":"CU",
+  "country_name":"Cuba",
+  "currency_code":"CUP",
+  "fips_code":"CU",
+  "iso_numeric":"192",
+  "north":"23.226042",
+  "south":"19.828083",
+  "east":"-74.131775",
+  "west":"-84.957428",
+  "capital":"Havana",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"CUB",
+  "geoname_id":"3562981",
+  "languages":[
+    "es-CU"
+  ]
+}

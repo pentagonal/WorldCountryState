@@ -1,0 +1,25 @@
+{
+  "country_code":"ZM",
+  "country_name":"Zambia",
+  "currency_code":"ZMW",
+  "fips_code":"ZA",
+  "iso_numeric":"894",
+  "north":"-8.22436",
+  "south":"-18.079473",
+  "east":"33.705704",
+  "west":"21.999371",
+  "capital":"Lusaka",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ZMB",
+  "geoname_id":"895949",
+  "languages":[
+    "en-ZM",
+    "bem",
+    "loz",
+    "lun",
+    "lue",
+    "ny",
+    "toi"
+  ]
+}

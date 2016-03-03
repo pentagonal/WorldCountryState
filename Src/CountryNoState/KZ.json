@@ -1,0 +1,20 @@
+{
+  "country_code":"KZ",
+  "country_name":"Kazakhstan",
+  "currency_code":"KZT",
+  "fips_code":"KZ",
+  "iso_numeric":"398",
+  "north":"55.451195",
+  "south":"40.936333",
+  "east":"87.312668",
+  "west":"46.491859",
+  "capital":"Astana",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"KAZ",
+  "geoname_id":"1522867",
+  "languages":[
+    "kk",
+    "ru"
+  ]
+}

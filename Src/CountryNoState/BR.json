@@ -1,0 +1,22 @@
+{
+  "country_code":"BR",
+  "country_name":"Brazil",
+  "currency_code":"BRL",
+  "fips_code":"BR",
+  "iso_numeric":"076",
+  "north":"5.264877",
+  "south":"-33.750706",
+  "east":"-32.392998",
+  "west":"-73.985535",
+  "capital":"Bras\u00edlia",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"BRA",
+  "geoname_id":"3469034",
+  "languages":[
+    "pt-BR",
+    "es",
+    "en",
+    "fr"
+  ]
+}

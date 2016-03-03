@@ -1,0 +1,19 @@
+{
+  "country_code":"VE",
+  "country_name":"Venezuela",
+  "currency_code":"VEF",
+  "fips_code":"VE",
+  "iso_numeric":"862",
+  "north":"12.201903",
+  "south":"0.626311",
+  "east":"-59.80378",
+  "west":"-73.354073",
+  "capital":"Caracas",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"VEN",
+  "geoname_id":"3625428",
+  "languages":[
+    "es-VE"
+  ]
+}

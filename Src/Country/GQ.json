@@ -1,0 +1,50 @@
+{
+  "country_code":"GQ",
+  "country_name":"Equatorial Guinea",
+  "currency_code":"XAF",
+  "fips_code":"EK",
+  "iso_numeric":"226",
+  "north":"2.346989",
+  "south":"0.92086",
+  "east":"11.335724",
+  "west":"9.346865",
+  "capital":"Malabo",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"GNQ",
+  "geoname_id":"2309096",
+  "languages":[
+    "es-GQ",
+    "fr"
+  ],
+  "subdivision":{
+    "AN":{
+      "division_name":"Annob\u00f3n",
+      "division_type":"Province"
+    },
+    "BN":{
+      "division_name":"Bioko Norte",
+      "division_type":"Province"
+    },
+    "BS":{
+      "division_name":"Bioko Sur",
+      "division_type":"Province"
+    },
+    "CS":{
+      "division_name":"Centro Sur",
+      "division_type":"Province"
+    },
+    "KN":{
+      "division_name":"Ki\u00e9-Ntem",
+      "division_type":"Province"
+    },
+    "LI":{
+      "division_name":"Litoral",
+      "division_type":"Province"
+    },
+    "WN":{
+      "division_name":"Wele-Nzas",
+      "division_type":"Province"
+    }
+  }
+}

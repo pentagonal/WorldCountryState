@@ -1,0 +1,21 @@
+{
+  "country_code":"BO",
+  "country_name":"Bolivia",
+  "currency_code":"BOB",
+  "fips_code":"BL",
+  "iso_numeric":"068",
+  "north":"-9.680567",
+  "south":"-22.896133",
+  "east":"-57.45809600000001",
+  "west":"-69.640762",
+  "capital":"Sucre",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"BOL",
+  "geoname_id":"3923057",
+  "languages":[
+    "es-BO",
+    "qu",
+    "ay"
+  ]
+}

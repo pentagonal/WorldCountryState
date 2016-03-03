@@ -1,0 +1,209 @@
+{
+  "country_code":"JP",
+  "country_name":"Japan",
+  "currency_code":"JPY",
+  "fips_code":"JA",
+  "iso_numeric":"392",
+  "north":"45.52314",
+  "south":"24.249472",
+  "east":"145.820892",
+  "west":"122.93853",
+  "capital":"Tokyo",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"JPN",
+  "geoname_id":"1861060",
+  "languages":[
+    "ja"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Hokkaid\u00f4 [Hokkaido]",
+      "division_type":"Prefecture"
+    },
+    "02":{
+      "division_name":"Aomori",
+      "division_type":"Prefecture"
+    },
+    "03":{
+      "division_name":"Iwate",
+      "division_type":"Prefecture"
+    },
+    "04":{
+      "division_name":"Miyagi",
+      "division_type":"Prefecture"
+    },
+    "05":{
+      "division_name":"Akita",
+      "division_type":"Prefecture"
+    },
+    "06":{
+      "division_name":"Yamagata",
+      "division_type":"Prefecture"
+    },
+    "07":{
+      "division_name":"Hukusima [Fukushima]",
+      "division_type":"Prefecture"
+    },
+    "08":{
+      "division_name":"Ibaraki",
+      "division_type":"Prefecture"
+    },
+    "09":{
+      "division_name":"Totigi [Tochigi]",
+      "division_type":"Prefecture"
+    },
+    "10":{
+      "division_name":"Gunma",
+      "division_type":"Prefecture"
+    },
+    "11":{
+      "division_name":"Saitama",
+      "division_type":"Prefecture"
+    },
+    "12":{
+      "division_name":"Tiba [Chiba]",
+      "division_type":"Prefecture"
+    },
+    "13":{
+      "division_name":"T\u00f4ky\u00f4 [Tokyo]",
+      "division_type":"Prefecture"
+    },
+    "14":{
+      "division_name":"Kanagawa",
+      "division_type":"Prefecture"
+    },
+    "15":{
+      "division_name":"Niigata",
+      "division_type":"Prefecture"
+    },
+    "16":{
+      "division_name":"Toyama",
+      "division_type":"Prefecture"
+    },
+    "17":{
+      "division_name":"Isikawa [Ishikawa]",
+      "division_type":"Prefecture"
+    },
+    "18":{
+      "division_name":"Hukui [Fukui]",
+      "division_type":"Prefecture"
+    },
+    "19":{
+      "division_name":"Yamanasi [Yamanashi]",
+      "division_type":"Prefecture"
+    },
+    "20":{
+      "division_name":"Nagano",
+      "division_type":"Prefecture"
+    },
+    "21":{
+      "division_name":"Gihu [Gifu]",
+      "division_type":"Prefecture"
+    },
+    "22":{
+      "division_name":"Sizuoka [Shizuoka]",
+      "division_type":"Prefecture"
+    },
+    "23":{
+      "division_name":"Aiti [Aichi]",
+      "division_type":"Prefecture"
+    },
+    "24":{
+      "division_name":"Mie",
+      "division_type":"Prefecture"
+    },
+    "25":{
+      "division_name":"Siga [Shiga]",
+      "division_type":"Prefecture"
+    },
+    "26":{
+      "division_name":"Hy\u00f4go [Kyoto]",
+      "division_type":"Prefecture"
+    },
+    "27":{
+      "division_name":"\u00d4saka [Osaka]",
+      "division_type":"Prefecture"
+    },
+    "28":{
+      "division_name":"Hy\u00f4go[Hyogo]",
+      "division_type":"Prefecture"
+    },
+    "29":{
+      "division_name":"Nara",
+      "division_type":"Prefecture"
+    },
+    "30":{
+      "division_name":"Wakayama",
+      "division_type":"Prefecture"
+    },
+    "31":{
+      "division_name":"Tottori",
+      "division_type":"Prefecture"
+    },
+    "32":{
+      "division_name":"Simane [Shimane]",
+      "division_type":"Prefecture"
+    },
+    "33":{
+      "division_name":"Okayama",
+      "division_type":"Prefecture"
+    },
+    "34":{
+      "division_name":"Hirosima [Hiroshima]",
+      "division_type":"Prefecture"
+    },
+    "35":{
+      "division_name":"Yamaguti [Yamaguchi]",
+      "division_type":"Prefecture"
+    },
+    "36":{
+      "division_name":"Tokusima [Tokushima]",
+      "division_type":"Prefecture"
+    },
+    "37":{
+      "division_name":"Kagawa",
+      "division_type":"Prefecture"
+    },
+    "38":{
+      "division_name":"Ehime",
+      "division_type":"Prefecture"
+    },
+    "39":{
+      "division_name":"K\u00f4ti [Kochi]",
+      "division_type":"Prefecture"
+    },
+    "40":{
+      "division_name":"Hukuoka [Fukuoka]",
+      "division_type":"Prefecture"
+    },
+    "41":{
+      "division_name":"Saga",
+      "division_type":"Prefecture"
+    },
+    "42":{
+      "division_name":"Nagasaki",
+      "division_type":"Prefecture"
+    },
+    "43":{
+      "division_name":"Kumamoto",
+      "division_type":"Prefecture"
+    },
+    "44":{
+      "division_name":"\u00d4ita [Oita]",
+      "division_type":"Prefecture"
+    },
+    "45":{
+      "division_name":"Miyazaki",
+      "division_type":"Prefecture"
+    },
+    "46":{
+      "division_name":"Kagosima [Kagoshima]",
+      "division_type":"Prefecture"
+    },
+    "47":{
+      "division_name":"Okinawa",
+      "division_type":"Prefecture"
+    }
+  }
+}

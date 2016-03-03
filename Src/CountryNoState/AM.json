@@ -1,0 +1,19 @@
+{
+  "country_code":"AM",
+  "country_name":"Armenia",
+  "currency_code":"AMD",
+  "fips_code":"AM",
+  "iso_numeric":"051",
+  "north":"41.301834",
+  "south":"38.830528",
+  "east":"46.772435045159995",
+  "west":"43.44978",
+  "capital":"Yerevan",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"ARM",
+  "geoname_id":"174982",
+  "languages":[
+    "hy"
+  ]
+}

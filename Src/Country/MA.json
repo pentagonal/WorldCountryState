@@ -1,0 +1,338 @@
+{
+  "country_code":"MA",
+  "country_name":"Morocco",
+  "currency_code":"MAD",
+  "fips_code":"MO",
+  "iso_numeric":"504",
+  "north":"35.9224966985384",
+  "south":"27.662115",
+  "east":"-0.991750000000025",
+  "west":"-13.168586",
+  "capital":"Rabat",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"MAR",
+  "geoname_id":"2542007",
+  "languages":[
+    "ar-MA",
+    "fr"
+  ],
+  "subdivision":{
+    "01":{
+      "division_name":"Tanger-T\u00e9touan",
+      "division_type":"Economic Region"
+    },
+    "02":{
+      "division_name":"Gharb-Chrarda-Beni Hssen",
+      "division_type":"Economic Region"
+    },
+    "03":{
+      "division_name":"Taza-Al Hoceima-Taounate",
+      "division_type":"Economic Region"
+    },
+    "04":{
+      "division_name":"L'Oriental",
+      "division_type":"Economic Region"
+    },
+    "05":{
+      "division_name":"F\u00e8s-Boulemane",
+      "division_type":"Economic Region"
+    },
+    "06":{
+      "division_name":"Mekn\u00e8s-Tafilalet",
+      "division_type":"Economic Region"
+    },
+    "07":{
+      "division_name":"Rabat-Sal\u00e9-Zemmour-Zaer",
+      "division_type":"Economic Region"
+    },
+    "08":{
+      "division_name":"Grand Casablanca",
+      "division_type":"Economic Region"
+    },
+    "09":{
+      "division_name":"Chaouia-Ouardigha",
+      "division_type":"Economic Region"
+    },
+    "10":{
+      "division_name":"Doukhala-Abda",
+      "division_type":"Economic Region"
+    },
+    "11":{
+      "division_name":"Marrakech-Tensift-Al Haouz",
+      "division_type":"Economic Region"
+    },
+    "12":{
+      "division_name":"Tadla-Azilal",
+      "division_type":"Economic Region"
+    },
+    "13":{
+      "division_name":"Sous-Massa-Draa",
+      "division_type":"Economic Region"
+    },
+    "14":{
+      "division_name":"Guelmim-Es Semara",
+      "division_type":"Economic Region"
+    },
+    "15":{
+      "division_name":"La\u00e2youne-Boujdour-Sakia el Hamra",
+      "division_type":"Economic Region"
+    },
+    "16":{
+      "division_name":"Oued ed Dahab-Lagouira",
+      "division_type":"Economic Region"
+    },
+    "AGD":{
+      "division_name":"Agadir-Ida-Outanane",
+      "division_type":"Prefecture"
+    },
+    "AOU":{
+      "division_name":"Aousserd",
+      "division_type":"Prefecture"
+    },
+    "ASZ":{
+      "division_name":"Assa-Zag",
+      "division_type":"Province"
+    },
+    "AZI":{
+      "division_name":"Azilal",
+      "division_type":"Province"
+    },
+    "BEM":{
+      "division_name":"Beni Mellal",
+      "division_type":"Province"
+    },
+    "BER":{
+      "division_name":"Berkane",
+      "division_type":"Province"
+    },
+    "BES":{
+      "division_name":"Ben Slimane",
+      "division_type":"Province"
+    },
+    "BOD":{
+      "division_name":"Boujdour (EH)",
+      "division_type":"Province"
+    },
+    "BOM":{
+      "division_name":"Boulemane",
+      "division_type":"Province"
+    },
+    "CAS":{
+      "division_name":"Casablanca [Dar el Be\u00efda]*",
+      "division_type":"Prefecture"
+    },
+    "CHE":{
+      "division_name":"Chefchaouene",
+      "division_type":"Province"
+    },
+    "CHI":{
+      "division_name":"Chichaoua",
+      "division_type":"Province"
+    },
+    "CHT":{
+      "division_name":"Chtouka-Ait Baha",
+      "division_type":"Province"
+    },
+    "ERR":{
+      "division_name":"Errachidia",
+      "division_type":"Province"
+    },
+    "ESI":{
+      "division_name":"Essaouira",
+      "division_type":"Province"
+    },
+    "ESM":{
+      "division_name":"Es Smara (EH)",
+      "division_type":"Province"
+    },
+    "FAH":{
+      "division_name":"Fahs-Beni Makada",
+      "division_type":"Prefecture"
+    },
+    "FES":{
+      "division_name":"F\u00e8s-Dar-Dbibegh",
+      "division_type":"Prefecture"
+    },
+    "FIG":{
+      "division_name":"Figuig",
+      "division_type":"Province"
+    },
+    "GUE":{
+      "division_name":"Guelmim",
+      "division_type":"Province"
+    },
+    "HAJ":{
+      "division_name":"El Hajeb",
+      "division_type":"Province"
+    },
+    "HAO":{
+      "division_name":"Al Haouz",
+      "division_type":"Province"
+    },
+    "HOC":{
+      "division_name":"Al Hoce\u00efma",
+      "division_type":"Province"
+    },
+    "IFR":{
+      "division_name":"Ifrane",
+      "division_type":"Province"
+    },
+    "INE":{
+      "division_name":"Inezgane-Ait Melloul",
+      "division_type":"Prefecture"
+    },
+    "JDI":{
+      "division_name":"El Jadida",
+      "division_type":"Province"
+    },
+    "JRA":{
+      "division_name":"Jrada",
+      "division_type":"Province"
+    },
+    "KEN":{
+      "division_name":"K\u00e9nitra",
+      "division_type":"Province"
+    },
+    "KES":{
+      "division_name":"Kelaat Sraghna",
+      "division_type":"Province"
+    },
+    "KHE":{
+      "division_name":"Khemisset",
+      "division_type":"Province"
+    },
+    "KHN":{
+      "division_name":"Khenifra",
+      "division_type":"Province"
+    },
+    "KHO":{
+      "division_name":"Khouribga",
+      "division_type":"Province"
+    },
+    "LAA":{
+      "division_name":"La\u00e2youne",
+      "division_type":"Province"
+    },
+    "LAR":{
+      "division_name":"Larache",
+      "division_type":"Province"
+    },
+    "MED":{
+      "division_name":"M\u00e9diouna",
+      "division_type":"Province"
+    },
+    "MEK":{
+      "division_name":"Mekn\u00e8s*",
+      "division_type":"Prefecture"
+    },
+    "MMD":{
+      "division_name":"Marrakech-Medina",
+      "division_type":"Prefecture"
+    },
+    "MMN":{
+      "division_name":"Marrakech-Menara",
+      "division_type":"Prefecture"
+    },
+    "MOH":{
+      "division_name":"Mohammadia",
+      "division_type":"Prefecture"
+    },
+    "MOU":{
+      "division_name":"Moulay Yacoub",
+      "division_type":"Province"
+    },
+    "NAD":{
+      "division_name":"Nador",
+      "division_type":"Province"
+    },
+    "NOU":{
+      "division_name":"Nouaceur",
+      "division_type":"Province"
+    },
+    "OUA":{
+      "division_name":"Ouarzazate",
+      "division_type":"Province"
+    },
+    "OUD":{
+      "division_name":"Oued ed Dahab (EH)",
+      "division_type":"Province"
+    },
+    "OUJ":{
+      "division_name":"Oujda-Angad",
+      "division_type":"Prefecture"
+    },
+    "RAB":{
+      "division_name":"Rabat",
+      "division_type":"Prefecture"
+    },
+    "SAF":{
+      "division_name":"Safi",
+      "division_type":"Province"
+    },
+    "SAL":{
+      "division_name":"Sal\u00e9",
+      "division_type":"Prefecture"
+    },
+    "SEF":{
+      "division_name":"Sefrou",
+      "division_type":"Province"
+    },
+    "SET":{
+      "division_name":"Settat",
+      "division_type":"Province"
+    },
+    "SIK":{
+      "division_name":"Sidi Kacem",
+      "division_type":"Province"
+    },
+    "SKH":{
+      "division_name":"Skhirate-T\u00e9mara",
+      "division_type":"Prefecture"
+    },
+    "SYB":{
+      "division_name":"Sidi Youssef Ben Ali",
+      "division_type":"Prefecture"
+    },
+    "TAI":{
+      "division_name":"Taourirt",
+      "division_type":"Province"
+    },
+    "TAO":{
+      "division_name":"Taounate",
+      "division_type":"Province"
+    },
+    "TAR":{
+      "division_name":"Taroudannt",
+      "division_type":"Province"
+    },
+    "TAT":{
+      "division_name":"Tata",
+      "division_type":"Province"
+    },
+    "TAZ":{
+      "division_name":"Taza",
+      "division_type":"Province"
+    },
+    "TET":{
+      "division_name":"T\u00e9touan*",
+      "division_type":"Prefecture"
+    },
+    "TIZ":{
+      "division_name":"Tiznit",
+      "division_type":"Province"
+    },
+    "TNG":{
+      "division_name":"Tanger-Assilah",
+      "division_type":"Prefecture"
+    },
+    "TNT":{
+      "division_name":"Tan-Tan",
+      "division_type":"Province"
+    },
+    "ZAG":{
+      "division_name":"Zagora",
+      "division_type":"Province"
+    }
+  }
+}

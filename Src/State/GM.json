@@ -1,0 +1,26 @@
+{
+  "B":{
+    "division_name":"Banjul",
+    "division_type":"City"
+  },
+  "L":{
+    "division_name":"Lower River",
+    "division_type":"Division"
+  },
+  "M":{
+    "division_name":"Central River",
+    "division_type":"Division"
+  },
+  "N":{
+    "division_name":"North Bank",
+    "division_type":"Division"
+  },
+  "U":{
+    "division_name":"Upper River",
+    "division_type":"Division"
+  },
+  "W":{
+    "division_name":"Western",
+    "division_type":"Division"
+  }
+}

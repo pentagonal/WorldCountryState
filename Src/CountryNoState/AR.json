@@ -1,0 +1,24 @@
+{
+  "country_code":"AR",
+  "country_name":"Argentina",
+  "currency_code":"ARS",
+  "fips_code":"AR",
+  "iso_numeric":"032",
+  "north":"-21.781277",
+  "south":"-55.061314",
+  "east":"-53.591835",
+  "west":"-73.58297",
+  "capital":"Buenos Aires",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"ARG",
+  "geoname_id":"3865483",
+  "languages":[
+    "es-AR",
+    "en",
+    "it",
+    "de",
+    "fr",
+    "gn"
+  ]
+}

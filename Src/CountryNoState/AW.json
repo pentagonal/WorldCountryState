@@ -1,0 +1,21 @@
+{
+  "country_code":"AW",
+  "country_name":"Aruba",
+  "currency_code":"AWG",
+  "fips_code":"AA",
+  "iso_numeric":"533",
+  "north":"12.623718127152925",
+  "south":"12.411707706190716",
+  "east":"-69.86575120104982",
+  "west":"-70.0644737196045",
+  "capital":"Oranjestad",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"ABW",
+  "geoname_id":"3577279",
+  "languages":[
+    "nl-AW",
+    "es",
+    "en"
+  ]
+}

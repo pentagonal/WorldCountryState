@@ -1,0 +1,105 @@
+{
+  "country_code":"YE",
+  "country_name":"Yemen",
+  "currency_code":"YER",
+  "fips_code":"YM",
+  "iso_numeric":"887",
+  "north":"18.9999989031009",
+  "south":"12.1110910264462",
+  "east":"54.5305388163283",
+  "west":"42.5325394314234",
+  "capital":"Sanaa",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"YEM",
+  "geoname_id":"69543",
+  "languages":[
+    "ar-YE"
+  ],
+  "subdivision":{
+    "AB":{
+      "division_name":"Abyan",
+      "division_type":"Governorate"
+    },
+    "AD":{
+      "division_name":"'Adan",
+      "division_type":"Governorate"
+    },
+    "AM":{
+      "division_name":"'Amr\u0101n",
+      "division_type":"Governorate"
+    },
+    "BA":{
+      "division_name":"Al Bayda\u02bf",
+      "division_type":"Governorate"
+    },
+    "DA":{
+      "division_name":"A\u1e0d \u1e0c\u0101li\u02bf",
+      "division_type":"Governorate"
+    },
+    "DH":{
+      "division_name":"\u1e0eam\u0101r",
+      "division_type":"Governorate"
+    },
+    "HD":{
+      "division_name":"\u1e24a\u1e0dramawt",
+      "division_type":"Governorate"
+    },
+    "HJ":{
+      "division_name":"\u1e24ajjah",
+      "division_type":"Governorate"
+    },
+    "HU":{
+      "division_name":"Al \u1e24udaydah",
+      "division_type":"Governorate"
+    },
+    "IB":{
+      "division_name":"Ibb",
+      "division_type":"Governorate"
+    },
+    "JA":{
+      "division_name":"Al Jawf",
+      "division_type":"Governorate"
+    },
+    "LA":{
+      "division_name":"Lahij",
+      "division_type":"Governorate"
+    },
+    "MA":{
+      "division_name":"Ma'rib",
+      "division_type":"Governorate"
+    },
+    "MR":{
+      "division_name":"Al Mahrah",
+      "division_type":"Governorate"
+    },
+    "MW":{
+      "division_name":"Al Ma\u1e29w\u012bt",
+      "division_type":"Governorate"
+    },
+    "RA":{
+      "division_name":"Raymah",
+      "division_type":"Governorate"
+    },
+    "SA":{
+      "division_name":"Amanat al \u2018Asimah [city]",
+      "division_type":"Municipality"
+    },
+    "SD":{
+      "division_name":"Sa'dah",
+      "division_type":"Governorate"
+    },
+    "SH":{
+      "division_name":"Shabwah",
+      "division_type":"Governorate"
+    },
+    "SN":{
+      "division_name":"\u1e62an'\u0101'",
+      "division_type":"Governorate"
+    },
+    "TA":{
+      "division_name":"Ta'izz",
+      "division_type":"Governorate"
+    }
+  }
+}

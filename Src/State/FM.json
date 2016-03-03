@@ -1,0 +1,18 @@
+{
+  "KSA":{
+    "division_name":"Kosrae",
+    "division_type":"State"
+  },
+  "PNI":{
+    "division_name":"Pohnpei",
+    "division_type":"State"
+  },
+  "TRK":{
+    "division_name":"Chuuk",
+    "division_type":"State"
+  },
+  "YAP":{
+    "division_name":"Yap",
+    "division_type":"State"
+  }
+}

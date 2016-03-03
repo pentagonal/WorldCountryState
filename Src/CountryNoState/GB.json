@@ -1,0 +1,21 @@
+{
+  "country_code":"GB",
+  "country_name":"United Kingdom",
+  "currency_code":"GBP",
+  "fips_code":"UK",
+  "iso_numeric":"826",
+  "north":"59.360249",
+  "south":"49.906193",
+  "east":"1.759",
+  "west":"-8.623555",
+  "capital":"London",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"GBR",
+  "geoname_id":"2635167",
+  "languages":[
+    "en-GB",
+    "cy-GB",
+    "gd"
+  ]
+}

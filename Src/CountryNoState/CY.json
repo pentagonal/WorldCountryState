@@ -1,0 +1,21 @@
+{
+  "country_code":"CY",
+  "country_name":"Cyprus",
+  "currency_code":"EUR",
+  "fips_code":"CY",
+  "iso_numeric":"196",
+  "north":"35.701527",
+  "south":"34.6332846722908",
+  "east":"34.59791599999994",
+  "west":"32.27308300000004",
+  "capital":"Nicosia",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"CYP",
+  "geoname_id":"146669",
+  "languages":[
+    "el-CY",
+    "tr-CY",
+    "en"
+  ]
+}

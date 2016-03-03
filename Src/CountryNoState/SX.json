@@ -1,0 +1,20 @@
+{
+  "country_code":"SX",
+  "country_name":"Sint Maarten",
+  "currency_code":"ANG",
+  "fips_code":"NN",
+  "iso_numeric":"534",
+  "north":"18.070248",
+  "south":"18.011692",
+  "east":"-63.012993",
+  "west":"-63.144039",
+  "capital":"Philipsburg",
+  "continent_name":"North America",
+  "continent":"NA",
+  "iso_alpha":"SXM",
+  "geoname_id":"7609695",
+  "languages":[
+    "nl",
+    "en"
+  ]
+}

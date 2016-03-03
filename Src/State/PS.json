@@ -1,0 +1,62 @@
+{
+  "BTH":{
+    "division_name":"Bethlehem",
+    "division_type":"Governorate"
+  },
+  "DEB":{
+    "division_name":"Deir El Balah",
+    "division_type":"Governorate"
+  },
+  "GZA":{
+    "division_name":"Gaza",
+    "division_type":"Governorate"
+  },
+  "HBN":{
+    "division_name":"Hebron",
+    "division_type":"Governorate"
+  },
+  "JEM":{
+    "division_name":"Jerusalem",
+    "division_type":"Governorate"
+  },
+  "JRH":{
+    "division_name":"Jericho \u2013 Al Aghwar",
+    "division_type":"Governorate"
+  },
+  "KYS":{
+    "division_name":"Khan Yunis",
+    "division_type":"Governorate"
+  },
+  "NBS":{
+    "division_name":"Nablus",
+    "division_type":"Governorate"
+  },
+  "NGZ":{
+    "division_name":"North Gaza",
+    "division_type":"Governorate"
+  },
+  "QQA":{
+    "division_name":"Qalqilya",
+    "division_type":"Governorate"
+  },
+  "RBH":{
+    "division_name":"Ramallah",
+    "division_type":"Governorate"
+  },
+  "RFH":{
+    "division_name":"Rafah",
+    "division_type":"Governorate"
+  },
+  "SLT":{
+    "division_name":"Salfit",
+    "division_type":"Governorate"
+  },
+  "TBS":{
+    "division_name":"Tubas",
+    "division_type":"Governorate"
+  },
+  "TKM":{
+    "division_name":"Tulkarm",
+    "division_type":"Governorate"
+  }
+}

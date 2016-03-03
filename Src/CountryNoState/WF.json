@@ -1,0 +1,21 @@
+{
+  "country_code":"WF",
+  "country_name":"Wallis and Futuna",
+  "currency_code":"XPF",
+  "fips_code":"WF",
+  "iso_numeric":"876",
+  "north":"-13.216758181061444",
+  "south":"-14.314559989820843",
+  "east":"-176.16174317718253",
+  "west":"-178.1848112896414",
+  "capital":"Mata-Utu",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"WLF",
+  "geoname_id":"4034749",
+  "languages":[
+    "wls",
+    "fud",
+    "fr-WF"
+  ]
+}

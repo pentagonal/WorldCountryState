@@ -1,0 +1,14 @@
+{
+  "AC":{
+    "division_name":"Ascension",
+    "division_type":"Geographical entity"
+  },
+  "HL":{
+    "division_name":"Saint Helena",
+    "division_type":"Geographical entity"
+  },
+  "TA":{
+    "division_name":"Tristan da Cunha",
+    "division_type":"Geographical entity"
+  }
+}

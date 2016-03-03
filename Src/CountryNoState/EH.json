@@ -1,0 +1,20 @@
+{
+  "country_code":"EH",
+  "country_name":"Western Sahara",
+  "currency_code":"MAD",
+  "fips_code":"WI",
+  "iso_numeric":"732",
+  "north":"27.669674",
+  "south":"20.774158",
+  "east":"-8.670276",
+  "west":"-17.103182",
+  "capital":"El Aai\u00fan",
+  "continent_name":"Africa",
+  "continent":"AF",
+  "iso_alpha":"ESH",
+  "geoname_id":"2461445",
+  "languages":[
+    "ar",
+    "mey"
+  ]
+}

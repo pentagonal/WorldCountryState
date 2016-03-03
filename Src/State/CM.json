@@ -1,0 +1,42 @@
+{
+  "AD":{
+    "division_name":"Adamaoua",
+    "division_type":"Region"
+  },
+  "CE":{
+    "division_name":"Centre",
+    "division_type":"Region"
+  },
+  "EN":{
+    "division_name":"Far North",
+    "division_type":"Region"
+  },
+  "ES":{
+    "division_name":"East",
+    "division_type":"Region"
+  },
+  "LT":{
+    "division_name":"Littoral",
+    "division_type":"Region"
+  },
+  "NO":{
+    "division_name":"North",
+    "division_type":"Region"
+  },
+  "NW":{
+    "division_name":"North-West",
+    "division_type":"Region"
+  },
+  "OU":{
+    "division_name":"West",
+    "division_type":"Region"
+  },
+  "SU":{
+    "division_name":"South",
+    "division_type":"Region"
+  },
+  "SW":{
+    "division_name":"South-West",
+    "division_type":"Region"
+  }
+}

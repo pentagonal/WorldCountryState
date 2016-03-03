@@ -1,0 +1,21 @@
+{
+  "country_code":"RO",
+  "country_name":"Romania",
+  "currency_code":"RON",
+  "fips_code":"RO",
+  "iso_numeric":"642",
+  "north":"48.266945",
+  "south":"43.627304",
+  "east":"29.691055",
+  "west":"20.269972",
+  "capital":"Bucharest",
+  "continent_name":"Europe",
+  "continent":"EU",
+  "iso_alpha":"ROU",
+  "geoname_id":"798549",
+  "languages":[
+    "ro",
+    "hu",
+    "rom"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "country_code":"CO",
+  "country_name":"Colombia",
+  "currency_code":"COP",
+  "fips_code":"CO",
+  "iso_numeric":"170",
+  "north":"13.380502",
+  "south":"-4.225869",
+  "east":"-66.869835",
+  "west":"-81.728111",
+  "capital":"Bogot\u00e1",
+  "continent_name":"South America",
+  "continent":"SA",
+  "iso_alpha":"COL",
+  "geoname_id":"3686110",
+  "languages":[
+    "es-CO"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "country_code":"TR",
+  "country_name":"Turkey",
+  "currency_code":"TRY",
+  "fips_code":"TU",
+  "iso_numeric":"792",
+  "north":"42.107613",
+  "south":"35.815418",
+  "east":"44.834999",
+  "west":"25.668501",
+  "capital":"Ankara",
+  "continent_name":"Asia",
+  "continent":"AS",
+  "iso_alpha":"TUR",
+  "geoname_id":"298795",
+  "languages":[
+    "tr-TR",
+    "ku",
+    "diq",
+    "az",
+    "av"
+  ]
+}

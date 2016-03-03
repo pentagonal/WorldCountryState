@@ -1,0 +1,23 @@
+{
+  "country_code":"MP",
+  "country_name":"Northern Mariana Islands",
+  "currency_code":"USD",
+  "fips_code":"CQ",
+  "iso_numeric":"580",
+  "north":"20.55344",
+  "south":"14.11023",
+  "east":"146.06528",
+  "west":"144.88626",
+  "capital":"Saipan",
+  "continent_name":"Oceania",
+  "continent":"OC",
+  "iso_alpha":"MNP",
+  "geoname_id":"4041468",
+  "languages":[
+    "fil",
+    "tl",
+    "zh",
+    "ch-MP",
+    "en-MP"
+  ]
+}

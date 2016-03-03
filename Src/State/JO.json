@@ -1,0 +1,50 @@
+{
+  "AJ":{
+    "division_name":"Ajl\u016bn",
+    "division_type":"Governorate"
+  },
+  "AM":{
+    "division_name":"'Amman",
+    "division_type":"Governorate"
+  },
+  "AQ":{
+    "division_name":"Al'Aqaba",
+    "division_type":"Governorate"
+  },
+  "AT":{
+    "division_name":"At Tafilah",
+    "division_type":"Governorate"
+  },
+  "AZ":{
+    "division_name":"Az Zarqa'",
+    "division_type":"Governorate"
+  },
+  "BA":{
+    "division_name":"AI Balqa'",
+    "division_type":"Governorate"
+  },
+  "IR":{
+    "division_name":"Irbid",
+    "division_type":"Governorate"
+  },
+  "JA":{
+    "division_name":"Jarash",
+    "division_type":"Governorate"
+  },
+  "KA":{
+    "division_name":"AI Karak",
+    "division_type":"Governorate"
+  },
+  "MA":{
+    "division_name":"AI Mafraq",
+    "division_type":"Governorate"
+  },
+  "MD":{
+    "division_name":"Madaba",
+    "division_type":"Governorate"
+  },
+  "MN":{
+    "division_name":"Ma'an",
+    "division_type":"Governorate"
+  }
+}
