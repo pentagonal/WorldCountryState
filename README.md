@@ -43,5 +43,45 @@ Src/
     └── ... state|separate|country|code.json
         [list of all state separate by country code (eg: EN.json) uppercase country code]
 ```
+
+### Helper
+
+For some reason html output wil be invalid on some browser with certain Character set,
+To make sure the text / contents displaying properly, this php function helper to entity the string contents.
+
+```php
+/**
+ * Entities the Multibytes string
+ *  Iconv must be enable to use this function work properly
+ *
+ * @param string $string the string to detect multibytes
+ * @param boolean $entities  true if want to entity the output
+ * @return string
+ */
+function multibyteEntities($string, $entities = true)
+{
+    static $iconv = null;
+    if (!isset($iconv)) {
+        // safe resouce check multiple call
+        $iconv = function_exists('iconv');
+    }
+    if (!$iconv) { // add \n\r\t as ASCII
+        return $entities ? htmlentities(html_entity_decode($string)) : $string;
+    }
+    /**
+     * Work Safe with Parse 4096 Bit | 4KB data split for regex callback & safe memory usage
+     * that maybe fail on very long string
+     */
+    if (strlen($string) >= 4096) {
+        return implode('', multibyteEntities(str_split($string, 4096), $entities));
+    }
+    return preg_replace_callback('/[\x{80}-\x{10FFFF}]/u', function ($m) {
+        $char = current($m);
+        $utf  = iconv('UTF-8', 'UCS-4//IGNORE', $char);
+        return sprintf("&#x%s;", ltrim(strtolower(bin2hex($utf)), "0"));
+    }, ($entities ? htmlentities(html_entity_decode($string)) : $string));
+}
+```
+
 ### License
 GPL or [Follow The LICENSE](LICENSE)
