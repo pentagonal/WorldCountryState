@@ -288,8 +288,8 @@ INSERT INTO `pentagonal_country` (`country_code`, `country_name`, `currency_code
 CREATE TABLE IF NOT EXISTS `pentagonal_division` (
   `country_code` char(2) NOT NULL DEFAULT '',
   `division_name` varchar(200) NOT NULL DEFAULT '',
-  `fips_code` char(2) DEFAULT NULL,
-  `division_type` varchar(200) NOT NULL DEFAULT '',
+  `fips_code` char(5) DEFAULT NULL,
+  `division_type` varchar(100) NOT NULL DEFAULT '',
   INDEX `idx_country_code`(`country_code`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
