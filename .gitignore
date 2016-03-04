@@ -159,3 +159,6 @@ fabric.properties
 *.lock
 # ignore composer phar file
 composer.phar
+
+# fuse_hidden
+.fuse_*
