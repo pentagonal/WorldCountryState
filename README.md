@@ -67,12 +67,15 @@ function multibyteEntities($string, $entities = true)
     }
 
     if (is_array($string)) {
-        return array_map($string, $entities);
+        foreach ($string as $key => $value) {
+            $string[$key] = multibyteEntities($value, $entities);
+        }
+        return $string;
     }
 
     if (is_object($string)) {
         foreach (get_object_vars($string) as $key => $value) {
-            $string->{$key} = self::multibyteEntities($value, $entities);
+            $string->{$key} = multibyteEntities($value, $entities);
         }
         return $string;
     }
