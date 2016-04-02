@@ -65,6 +65,18 @@ function multibyteEntities($string, $entities = true)
         // safe resouce check multiple call
         $iconv = function_exists('iconv');
     }
+
+    if (is_array($string)) {
+        return array_map($string, $entities);
+    }
+
+    if (is_object($string)) {
+        foreach (get_object_vars($string) as $key => $value) {
+            $string->{$key} = self::multibyteEntities($value, $entities);
+        }
+        return $string;
+    }
+
     if (!$iconv) { // add \n\r\t as ASCII
         return $entities ? htmlentities(html_entity_decode($string)) : $string;
     }
