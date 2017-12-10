@@ -36,7 +36,7 @@ Src/
 │
 ├── SQL/
 │   ├── State.sql           [Sql Data for state]
-│   ├── Country.json        [Sql Data for country]
+│   ├── Country.sql         [Sql Data for country]
 │   └── StateAndCountry.sql [Sql Data for country & state]
 │
 └── State/
